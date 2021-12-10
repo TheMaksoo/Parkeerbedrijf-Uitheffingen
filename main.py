@@ -27,7 +27,7 @@ while isRunning:
         if choice == "1":
             acties = 0
             ontheffingen = 0
-            gemiddelde = 0
+            avarage = 0
             i = 0
 
             for x in dataList: 
@@ -37,9 +37,20 @@ while isRunning:
                 i += 1
 
             math = acties / ontheffingen
-            gemiddelde = round(math, 0)
-            print(f"Er zijn gemiddeled {int(gemiddelde)} acties per ontheffing.")
+            avarage = round(math, 0)
+            print(f"Er zijn gemiddeled {int(avarage)} acties per ontheffing.")
 
+        # Bepaalde aantal ontheffingen met `reden`.
+        if choice == "3":
+            i = 0
+            amount = 0
+            for x in dataList: 
+                line = dataList[i][0].split(";")
+                reasonData = (line[4])
+                if reasonData.lower() == "parkpop 2016":
+                    amount += 1
+                i += 1
+            print(f"Er zijn {amount} ontheffingen met de reden parkpop 2016.")
 
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
