@@ -40,6 +40,8 @@ while isRunning:
             gemiddelde = round(math, 0)
             print(f"Er zijn gemiddeled {int(gemiddelde)} acties per ontheffing.")
 
+            #Top 10
+
 
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
