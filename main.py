@@ -52,6 +52,8 @@ while isRunning:
                 i += 1
             print(f"Er zijn {amount} ontheffingen met de reden parkpop 2016.")
 
+            #Top 10
+
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
             isChoiceRunning = False
