@@ -1,1000 +1,999 @@
-datum_start;datum_end;goedgekeurd;aanvrager;reden;#_acties;locatie
-2-7-2015;18-2-2016;13-7-2015;D. van de Ven;Wegwerkzaamheden;75;Kersstraat
-4-11-2018;18-1-2019;10-11-2018;V. van der Heijden;Kerstmarkt 2018;41;Goudsbloemstraat
-4-7-2016;30-8-2016;9-7-2016;H. van der Velden;Straatfeest;40;Antoniestraat
-26-10-2020;30-4-2021;31-10-2020;M. Bakker;Braderie;70;Lamstraat
-14-11-2017;27-6-2018;18-11-2017;J. Smit;Kerstmarkt 2018;89;Geertebolwerk
-4-9-2018;30-5-2019;19-9-2018;B. de Jonge;Parkpop 2019;86;Annastraat
-24-11-2015;23-12-2015;5-12-2015;R. van Dijk;Braderie;15;Korte Rietsteeg
-29-8-2019;5-6-2020;3-9-2019;N. Dekker;Wegwerkzaamheden;5;Abraham Dolesteeg
-27-12-2017;4-8-2018;4-1-2018;E. de Bruin;Wegwerkzaamheden;7;Zwaansteeg
-28-6-2018;2-1-2019;4-7-2018;H. Maas;Parkpop 2020;48;Waterstraat
-16-9-2018;15-3-2019;28-9-2018;T. de Bruin;Kerstmarkt 2018;15;Frederiksoord
-31-3-2020;19-7-2020;11-4-2020;C. Blom;Parkpop 2020;64;Frans Halsstraat
-22-1-2019;26-2-2019;6-2-2019;J. van Wijk;Kerstmarkt 2018;15;Lange Nieuwstraat
-24-10-2015;8-5-2016;3-11-2015;R. de Vos;Parkpop 2019;72;Kwartelstraat
-23-5-2017;11-12-2017;27-5-2017;B. Molenaar;Begravenis;27;Arkenspoort
-20-8-2015;25-9-2015;21-8-2015;V. van de Veen;Begravenis;13;Joh. Camphuysstraat
-4-5-2020;12-7-2020;16-5-2020;Q. de Jong;Parkpop 2019;3;Corn. Evertsenstraat
-7-11-2018;3-2-2019;20-11-2018;B. Veenstra;Kerstmarkt 2018;40;Keizersgracht
-28-1-2018;21-2-2018;12-2-2018;Q. Prins;Straatfeest;74;Spieringpoort
-14-11-2016;10-3-2017;28-11-2016;E. Driessen;Braderie;28;Rijnstraat
-23-4-2017;2-10-2017;1-5-2017;Q. van der Wal;Wegwerkzaamheden;66;Abstederdijk
-5-12-2018;28-7-2019;10-12-2018;W. van de Velde;Straatfeest;67;Pieter Bothstraat
-11-2-2019;25-5-2019;22-2-2019;J. Meijer;Bruiloft;5;Hoogeland
-10-6-2016;20-10-2016;18-6-2016;A. van der Ven;Parkpop 2020;52;Buurkerksteeg 1e
-11-2-2019;4-5-2019;24-2-2019;J. de Graaf;Straatfeest;17;Nobelstraat
-15-9-2015;18-2-2016;21-9-2015;W. van den Pol;Begravenis;48;Ledig Erf
-13-9-2018;16-12-2018;26-9-2018;E. Molenaar;Braderie;81;hazelaarstraat
-18-7-2015;31-8-2015;30-7-2015;F. Kuipers;Begravenis;22;Varkenmarkt
-23-12-2016;6-10-2017;29-12-2016;F. Vos;Parkpop 2020;37;Delistraat 1e
-7-1-2020;14-2-2020;12-1-2020;Q. Peeters;Begravenis;45;Balistraat
-9-11-2020;30-7-2021;14-11-2020;G. Veenstra;Straatfeest;9;Veensteeg
-24-6-2020;19-12-2020;2-7-2020;Z. Post;Bruiloft;2;Servetstraat
-16-11-2020;31-1-2021;19-11-2020;E. van de Brink;Begravenis;54;Oosterstraat
-28-6-2018;18-10-2018;7-7-2018;I. de Groot;Braderie;78;Catharijnesingel
-18-10-2016;9-1-2017;24-10-2016;X. Bakker;Kerstmarkt 2018;34;Westerstraat
-4-10-2019;29-4-2020;5-10-2019;T. de Jong;Parkpop 2020;27;Neude
-27-7-2017;19-3-2018;11-8-2017;R. Post;Wegwerkzaamheden;28;Abel Tasmanstraat
-28-10-2017;26-5-2018;12-11-2017;I. Gerritsen;Begravenis;52;Inundatiekade
-24-5-2017;28-2-2018;6-6-2017;Z. de Leeuw;Kerstmarkt 2018;53;Bakkerstraat
-28-5-2017;7-2-2018;8-6-2017;V. de Jonge;Bruiloft;5;Jansveld
-24-6-2017;8-9-2017;30-6-2017;W. Hermans;Straatfeest;54;Brakelstraat (van)
-15-3-2016;12-6-2016;22-3-2016;G. van de Berg;Parkpop 2019;69;Hamburgerstraat
-1-3-2018;2-6-2018;10-3-2018;K. Prins;Wegwerkzaamheden;1;Tolsteegbrug
-18-8-2015;9-11-2015;2-9-2015;F. Brouwer;Wegwerkzaamheden;24;Begijnehof
-23-7-2015;11-3-2016;28-7-2015;N. van de Berg;Wegwerkzaamheden;18;Neude
-2-5-2017;30-8-2017;9-5-2017;U. Willems;Kerstmarkt 2018;2;Wittevrouwenkade
-21-5-2019;6-1-2020;26-5-2019;C. de Lange;Bruiloft;54;Looierstraat
-13-5-2017;24-10-2017;25-5-2017;C. Koning;Parkpop 2019;57;Wittevrouwensingel
-16-11-2018;22-4-2019;18-11-2018;A. Bosman;Parkpop 2019;17;Tolsteegbrug
-21-5-2019;7-12-2019;29-5-2019;Z. van den Bosch;Wegwerkzaamheden;60;Schutstraat
-29-1-2016;24-3-2016;11-2-2016;D. van de Velden;Straatfeest;63;Kromme Rijn
-21-6-2018;19-8-2018;28-6-2018;V. Schouten;Straatfeest;31;Eikstraat
-28-10-2015;22-2-2016;2-11-2015;T. van Dam;Bruiloft;3;Keizerstraat
-4-8-2020;7-12-2020;13-8-2020;E. van der Heyden;Straatfeest;75;Kievitdwarsstraat
-21-7-2017;12-3-2018;24-7-2017;C. van der Ven;Straatfeest;47;Croesestraat
-15-7-2019;19-11-2019;18-7-2019;W. Bakker;Parkpop 2019;70;Tuinstraat
-24-6-2020;5-8-2020;5-7-2020;U. Meyer;Straatfeest;57;Catharijnesteeg
+2-7-2015;18-2-2016;13-7-2015;D. van de Ven;Wegwerkzaamheden;75;Kersstraat,
+4-11-2018;18-1-2019;10-11-2018;V. van der Heijden;Kerstmarkt 2018;41;Goudsbloemstraat,
+4-7-2016;30-8-2016;9-7-2016;H. van der Velden;Straatfeest;40;Antoniestraat,
+26-10-2020;30-4-2021;31-10-2020;M. Bakker;Braderie;70;Lamstraat,
+14-11-2017;27-6-2018;18-11-2017;J. Smit;Kerstmarkt 2018;89;Geertebolwerk,
+4-9-2018;30-5-2019;19-9-2018;B. de Jonge;Parkpop 2019;86;Annastraat,
+24-11-2015;23-12-2015;5-12-2015;R. van Dijk;Braderie;15;Korte Rietsteeg,
+29-8-2019;5-6-2020;3-9-2019;N. Dekker;Wegwerkzaamheden;5;Abraham Dolesteeg,
+27-12-2017;4-8-2018;4-1-2018;E. de Bruin;Wegwerkzaamheden;7;Zwaansteeg,
+28-6-2018;2-1-2019;4-7-2018;H. Maas;Parkpop 2020;48;Waterstraat,
+16-9-2018;15-3-2019;28-9-2018;T. de Bruin;Kerstmarkt 2018;15;Frederiksoord,
+31-3-2020;19-7-2020;11-4-2020;C. Blom;Parkpop 2020;64;Frans Halsstraat,
+22-1-2019;26-2-2019;6-2-2019;J. van Wijk;Kerstmarkt 2018;15;Lange Nieuwstraat,
+24-10-2015;8-5-2016;3-11-2015;R. de Vos;Parkpop 2019;72;Kwartelstraat,
+23-5-2017;11-12-2017;27-5-2017;B. Molenaar;Begravenis;27;Arkenspoort,
+20-8-2015;25-9-2015;21-8-2015;V. van de Veen;Begravenis;13;Joh. Camphuysstraat,
+4-5-2020;12-7-2020;16-5-2020;Q. de Jong;Parkpop 2019;3;Corn. Evertsenstraat,
+7-11-2018;3-2-2019;20-11-2018;B. Veenstra;Kerstmarkt 2018;40;Keizersgracht,
+28-1-2018;21-2-2018;12-2-2018;Q. Prins;Straatfeest;74;Spieringpoort,
+14-11-2016;10-3-2017;28-11-2016;E. Driessen;Braderie;28;Rijnstraat,
+23-4-2017;2-10-2017;1-5-2017;Q. van der Wal;Wegwerkzaamheden;66;Abstederdijk,
+5-12-2018;28-7-2019;10-12-2018;W. van de Velde;Straatfeest;67;Pieter Bothstraat,
+11-2-2019;25-5-2019;22-2-2019;J. Meijer;Bruiloft;5;Hoogeland,
+10-6-2016;20-10-2016;18-6-2016;A. van der Ven;Parkpop 2020;52;Buurkerksteeg 1e,
+11-2-2019;4-5-2019;24-2-2019;J. de Graaf;Straatfeest;17;Nobelstraat,
+15-9-2015;18-2-2016;21-9-2015;W. van den Pol;Begravenis;48;Ledig Erf,
+13-9-2018;16-12-2018;26-9-2018;E. Molenaar;Braderie;81;hazelaarstraat,
+18-7-2015;31-8-2015;30-7-2015;F. Kuipers;Begravenis;22;Varkenmarkt,
+23-12-2016;6-10-2017;29-12-2016;F. Vos;Parkpop 2020;37;Delistraat 1e,
+7-1-2020;14-2-2020;12-1-2020;Q. Peeters;Begravenis;45;Balistraat,
+9-11-2020;30-7-2021;14-11-2020;G. Veenstra;Straatfeest;9;Veensteeg,
+24-6-2020;19-12-2020;2-7-2020;Z. Post;Bruiloft;2;Servetstraat,
+16-11-2020;31-1-2021;19-11-2020;E. van de Brink;Begravenis;54;Oosterstraat,
+28-6-2018;18-10-2018;7-7-2018;I. de Groot;Braderie;78;Catharijnesingel,
+18-10-2016;9-1-2017;24-10-2016;X. Bakker;Kerstmarkt 2018;34;Westerstraat,
+4-10-2019;29-4-2020;5-10-2019;T. de Jong;Parkpop 2020;27;Neude,
+27-7-2017;19-3-2018;11-8-2017;R. Post;Wegwerkzaamheden;28;Abel Tasmanstraat,
+28-10-2017;26-5-2018;12-11-2017;I. Gerritsen;Begravenis;52;Inundatiekade,
+24-5-2017;28-2-2018;6-6-2017;Z. de Leeuw;Kerstmarkt 2018;53;Bakkerstraat,
+28-5-2017;7-2-2018;8-6-2017;V. de Jonge;Bruiloft;5;Jansveld,
+24-6-2017;8-9-2017;30-6-2017;W. Hermans;Straatfeest;54;Brakelstraat (van),
+15-3-2016;12-6-2016;22-3-2016;G. van de Berg;Parkpop 2019;69;Hamburgerstraat,
+1-3-2018;2-6-2018;10-3-2018;K. Prins;Wegwerkzaamheden;1;Tolsteegbrug,
+18-8-2015;9-11-2015;2-9-2015;F. Brouwer;Wegwerkzaamheden;24;Begijnehof,
+23-7-2015;11-3-2016;28-7-2015;N. van de Berg;Wegwerkzaamheden;18;Neude,
+2-5-2017;30-8-2017;9-5-2017;U. Willems;Kerstmarkt 2018;2;Wittevrouwenkade,
+21-5-2019;6-1-2020;26-5-2019;C. de Lange;Bruiloft;54;Looierstraat,
+13-5-2017;24-10-2017;25-5-2017;C. Koning;Parkpop 2019;57;Wittevrouwensingel,
+16-11-2018;22-4-2019;18-11-2018;A. Bosman;Parkpop 2019;17;Tolsteegbrug,
+21-5-2019;7-12-2019;29-5-2019;Z. van den Bosch;Wegwerkzaamheden;60;Schutstraat,
+29-1-2016;24-3-2016;11-2-2016;D. van de Velden;Straatfeest;63;Kromme Rijn,
+21-6-2018;19-8-2018;28-6-2018;V. Schouten;Straatfeest;31;Eikstraat,
+28-10-2015;22-2-2016;2-11-2015;T. van Dam;Bruiloft;3;Keizerstraat,
+4-8-2020;7-12-2020;13-8-2020;E. van der Heyden;Straatfeest;75;Kievitdwarsstraat,
+21-7-2017;12-3-2018;24-7-2017;C. van der Ven;Straatfeest;47;Croesestraat,
+15-7-2019;19-11-2019;18-7-2019;W. Bakker;Parkpop 2019;70;Tuinstraat,
+24-6-2020;5-8-2020;5-7-2020;U. Meyer;Straatfeest;57;Catharijnesteeg,
 18-7-2019;25-2-2020;2-8-2019;O. Kuiper;Begravenis;82;Costa, Da kade
-7-8-2016;31-12-2016;11-8-2016;M. Martens;Parkpop 2019;84;Spijkerdwarsstraat
-17-10-2015;17-4-2016;22-10-2015;P. de Graaf;Kerstmarkt 2018;44;Pallaesstraat
-2-9-2017;26-3-2018;9-9-2017;L. Schipper;Begravenis;61;Antoniedijk
-2-8-2015;17-1-2016;7-8-2015;O. de Ruiter;Straatfeest;19;Achter den Dom
-14-11-2017;5-6-2018;22-11-2017;S. van de Velde;Braderie;23;Visschersplein
-26-11-2017;18-2-2018;11-12-2017;R. van Dongen;Straatfeest;1;Korte Smeestraat
-7-10-2019;2-11-2019;16-10-2019;L. de Boer;Straatfeest;38;Westerdijk
-13-7-2017;11-11-2017;24-7-2017;Q. Wolters;Wegwerkzaamheden;49;Wijckstraat (van)
-12-9-2018;1-3-2019;16-9-2018;M. Kramer;Braderie;5;Begijnekade
-7-9-2020;21-9-2020;10-9-2020;M. Huisman;Kerstmarkt 2018;73;Jacobssteeg
-10-2-2018;5-8-2018;24-2-2018;H. Smits;Parkpop 2020;82;Begijnesteeg 2e
-15-8-2017;11-10-2017;22-8-2017;B. van Dongen;Bruiloft;7;Dorstige-hartsteeg
-27-8-2020;1-3-2021;1-9-2020;E. de Jong;Parkpop 2019;32;Suikerstraat
-8-8-2015;27-4-2016;22-8-2015;B. Jansen;Straatfeest;73;Burgstraat
-13-4-2018;30-7-2018;25-4-2018;W. Sanders;Straatfeest;21;Zeilsteeg
-19-5-2018;6-9-2018;22-5-2018;P. de Ruiter;Parkpop 2019;60;Grutterspoort
-15-1-2018;6-6-2018;17-1-2018;J. Mol;Bruiloft;35;Achter St. Pieter
-29-10-2015;22-2-2016;2-11-2015;T. Bosch;Parkpop 2019;24;Nieuwe Kamp
-30-9-2017;31-10-2017;14-10-2017;C. Smeets;Braderie;50;Wolfstraat
-26-9-2016;17-3-2017;6-10-2016;S. Blom;Bruiloft;77;Kruitstraat
-7-7-2017;15-8-2017;12-7-2017;K. de Vos;Kerstmarkt 2018;38;Wagenstraat
-5-11-2019;27-3-2020;10-11-2019;M. Huisman;Straatfeest;9;Vredenburg
-10-4-2016;21-4-2016;12-4-2016;E. Gerritsen;Bruiloft;80;Waterpoort
-4-12-2015;27-12-2015;7-12-2015;K. de Ruiter;Begravenis;66;Nieuwe Koekoekstraat
-1-6-2016;11-6-2016;10-6-2016;G. van der Horst;Kerstmarkt 2018;32;Hovenstraat
-13-3-2016;26-11-2016;15-3-2016;F. de Ruiter;Kerstmarkt 2018;2;Lamstraat
-27-12-2018;13-5-2019;28-12-2018;A. van der Heijden;Begravenis;79;Waterpoort
-2-2-2017;29-10-2017;15-2-2017;Q. Driessen;Begravenis;53;Hamburgerstraat
-5-8-2017;25-4-2018;11-8-2017;N. Scholten;Begravenis;74;Pieterseliesteegje
-25-10-2017;19-6-2018;31-10-2017;U. van der Heijden;Straatfeest;46;Bankstraat
-23-8-2015;15-4-2016;2-9-2015;H. de Boer;Wegwerkzaamheden;21;Munsterkerkhof
-22-5-2016;19-11-2016;28-5-2016;F. Willems;Kerstmarkt 2018;61;Pausdam
-15-2-2019;21-2-2019;25-2-2019;W. Postma;Kerstmarkt 2018;21;Keizerspoort
-10-11-2020;15-2-2021;25-11-2020;K. de Ruiter;Wegwerkzaamheden;50;Otterstraat
-1-8-2016;23-11-2016;14-8-2016;O. Visser;Straatfeest;83;Oranjehofje
-29-8-2019;28-3-2020;4-9-2019;P. van de Berg;Parkpop 2020;16;Zoutmarkt
-27-11-2017;4-9-2018;6-12-2017;Y. van der Laan;Braderie;84;Oudwijkerlaan
-10-6-2020;16-9-2020;18-6-2020;Q. de Ruiter;Parkpop 2020;6;Visschersplein
-16-10-2019;11-2-2020;22-10-2019;J. Verhoeven;Braderie;61;Lucas Bolwerk
-21-5-2017;19-7-2017;22-5-2017;R. Gerritsen;Wegwerkzaamheden;53;Narcisstraat
-15-3-2019;7-12-2019;29-3-2019;X. Driessen;Parkpop 2020;88;Jeruzalemsteeg
-19-1-2019;24-7-2019;23-1-2019;A. de Leeuw;Braderie;35;Neude
-21-5-2018;31-10-2018;1-6-2018;K. de Wit;Begravenis;71;Buys Ballotstraat
-27-6-2015;18-4-2016;5-7-2015;Z. Wolters;Kerstmarkt 2018;90;Drakenburgsteeg
-6-2-2018;14-5-2018;18-2-2018;N. van Beek;Wegwerkzaamheden;33;Brugstraat
-7-1-2016;27-7-2016;21-1-2016;T. de Jong;Begravenis;14;Weistraat
-15-2-2016;5-6-2016;16-2-2016;P. Hendriks;Parkpop 2019;72;Knopstraat
-5-7-2017;6-9-2017;15-7-2017;B. van Dijk;Bruiloft;69;Schelpstraat
-14-11-2019;28-11-2019;26-11-2019;W. van de Ven;Braderie;32;Dondersstraat (F.C.)
-4-2-2017;14-9-2017;9-2-2017;O. Kuijpers;Bruiloft;56;Brakelstraat (van)
-13-8-2018;28-5-2019;25-8-2018;G. de Wit;Braderie;33;Hanengeschrei
-29-2-2016;20-5-2016;6-3-2016;K. de Graaf;Parkpop 2020;57;Pijlsweertstraat
-22-6-2019;18-1-2020;5-7-2019;E. de Koning;Braderie;73;Grave van Solmsstraat
-26-8-2018;22-3-2019;27-8-2018;H. van Dongen;Kerstmarkt 2018;22;Hieronymusplein
-15-2-2019;5-10-2019;1-3-2019;Q. Schouten;Bruiloft;57;Vijfzusterpoort
-12-4-2017;24-6-2017;14-4-2017;Z. de Graaf;Wegwerkzaamheden;47;Muntsteeg
-31-1-2019;23-10-2019;1-2-2019;O. de Jonge;Braderie;83;Pasteurstraat
-20-6-2015;8-7-2015;24-6-2015;B. Prins;Braderie;41;Korte Hamsteeg
-25-4-2019;3-6-2019;4-5-2019;A. van de Meer;Parkpop 2019;59;Leeuwstraat
-14-9-2020;29-5-2021;28-9-2020;P. Bosch;Straatfeest;41;Justus van Effenstraat
-12-10-2016;13-1-2017;19-10-2016;U. van de Brink;Wegwerkzaamheden;68;Neude
-9-9-2017;10-9-2017;12-9-2017;T. Hermans;Begravenis;7;Sweelinckstraat
-25-12-2015;7-5-2016;4-1-2016;G. van den Brink;Parkpop 2019;85;Oranjepark
-9-1-2017;26-6-2017;21-1-2017;P. Hermans;Begravenis;3;Kievitdwarsstraat
-27-5-2018;18-10-2018;9-6-2018;X. de Groot;Parkpop 2019;28;Bleijenburgkade
-15-2-2016;3-8-2016;29-2-2016;P. van der Wal;Braderie;5;Floris Heermalestraat
-22-11-2018;1-9-2019;24-11-2018;O. van de Veen;Parkpop 2020;18;Achterstraat 2e
-27-8-2019;21-5-2020;7-9-2019;F. Vos;Bruiloft;55;Jeruzalemsteeg
-16-12-2018;16-5-2019;25-12-2018;Z. de Jong;Begravenis;17;Zwaansteeg
-17-5-2018;9-11-2018;27-5-2018;O. de Ruiter;Straatfeest;73;Bekkerstraat
-12-8-2018;19-8-2018;14-8-2018;S. Hermans;Kerstmarkt 2018;10;Grutterspoort
-8-10-2015;2-5-2016;21-10-2015;M. Maas;Straatfeest;66;Obrechtstraat
-5-5-2016;12-11-2016;13-5-2016;W. Smeets;Begravenis;71;Hoenderstraat
-2-11-2018;24-11-2018;9-11-2018;G. van den Broek;Braderie;52;Badstraat
-17-3-2016;16-10-2016;24-3-2016;N. Driessen;Parkpop 2020;41;Molenwerfsteeg
-7-6-2017;13-2-2018;21-6-2017;Q. Dekker;Braderie;70;Oosterstraat
-22-9-2018;26-2-2019;27-9-2018;B. Mulder;Wegwerkzaamheden;9;Oranjestraat
-21-9-2020;8-6-2021;26-9-2020;D. de Koning;Straatfeest;21;Willemstraat
-17-4-2018;24-9-2018;18-4-2018;Y. Maas;Parkpop 2019;28;Tolsteegbrug
-30-1-2018;9-9-2018;6-2-2018;P. Kuipers;Parkpop 2019;34;Iepstraat
-23-11-2015;31-3-2016;1-12-2015;B. van den Berg;Begravenis;20;Achterstraat 3e
-27-6-2015;20-12-2015;1-7-2015;Y. van Dam;Braderie;38;Protestantenhofje
-16-6-2015;8-12-2015;29-6-2015;N. de Boer;Parkpop 2020;9;Koekoeksplein
-8-7-2020;9-3-2021;16-7-2020;P. van de Meer;Wegwerkzaamheden;19;Emmalaan
-10-8-2020;30-10-2020;22-8-2020;T. Evers;Begravenis;31;Frederik Hendrikstraat
-2-12-2015;22-2-2016;15-12-2015;O. van Doorn;Begravenis;50;Jacobspoort
-9-10-2017;11-1-2018;12-10-2017;K. Vermeulen;Bruiloft;64;Merwedekanaal
-22-3-2017;4-9-2017;28-3-2017;V. van der Heijden;Kerstmarkt 2018;45;Loefbergmakerstraat
-8-7-2020;25-11-2020;10-7-2020;E. van der Meer;Straatfeest;10;Kerkweg
-30-12-2015;5-7-2016;6-1-2016;F. Koster;Wegwerkzaamheden;81;Leidsche Kade
-16-12-2019;29-8-2020;31-12-2019;Y. de Groot;Braderie;9;Mariastraat
-17-5-2020;12-7-2020;30-5-2020;X. Koster;Begravenis;13;Korte Viestraat
-24-1-2016;21-5-2016;27-1-2016;N. Kuijpers;Kerstmarkt 2018;64;Alendorpsteeg
-23-9-2020;21-5-2021;7-10-2020;V. van den Bosch;Parkpop 2019;34;Keisteeg
-31-1-2018;7-7-2018;11-2-2018;E. Bosman;Parkpop 2020;29;Weerdsingel W.Z.
-2-8-2018;3-12-2018;10-8-2018;L. Smits;Straatfeest;27;Adriaanstraat
-3-6-2015;28-12-2015;16-6-2015;J. van Dijk;Braderie;76;Pieter Saenredamstraat
-12-10-2019;23-10-2019;21-10-2019;K. Schipper;Braderie;10;Elijnshof
-26-4-2019;28-5-2019;4-5-2019;V. van der Horst;Wegwerkzaamheden;59;Tulpstraat
-4-9-2020;31-1-2021;6-9-2020;R. van Vliet;Straatfeest;57;Rijnkade
-28-1-2018;10-8-2018;29-1-2018;A. Boer;Parkpop 2020;56;Bekkerstraat
-10-1-2020;13-4-2020;12-1-2020;E. de Groot;Parkpop 2020;16;Leidsche Vaart
-21-7-2020;10-10-2020;2-8-2020;F. de Wit;Straatfeest;38;Lange Nieuwstraat
-10-11-2016;15-3-2017;14-11-2016;C. Vermeulen;Parkpop 2020;11;Raamsteeg
-10-8-2018;15-9-2018;12-8-2018;S. Schouten;Kerstmarkt 2018;20;Raamsteeg
-2-3-2018;5-10-2018;10-3-2018;W. van de Velde;Parkpop 2019;8;Gogschesteeg
-10-9-2020;26-11-2020;12-9-2020;M. de Bruijn;Parkpop 2019;90;A B C straat
-29-5-2017;16-2-2018;11-6-2017;O. de Jong;Parkpop 2020;56;Jan Meyenstraat
-2-2-2019;13-8-2019;11-2-2019;P. van den Broek;Parkpop 2020;40;Leidsche Weg
-1-9-2019;16-2-2020;8-9-2019;D. de Boer;Braderie;31;Kogelstraat
-8-8-2017;16-3-2018;13-8-2017;D. Blom;Parkpop 2020;50;Lanceepoort
-22-8-2016;2-4-2017;30-8-2016;P. Bakker;Straatfeest;7;Kruisweg
-2-1-2017;13-2-2017;11-1-2017;Q. Vos;Parkpop 2020;57;Leeuwenst. Laan
-20-1-2016;22-2-2016;3-2-2016;V. Huisman;Bruiloft;6;Agnietenstraat
-18-3-2020;5-11-2020;22-3-2020;I. van Beek;Straatfeest;1;Agnietenstraat
-23-7-2015;9-4-2016;30-7-2015;R. Jacobs;Parkpop 2019;30;Tulpstraat
-27-9-2018;26-10-2018;10-10-2018;D. van Doorn;Straatfeest;52;Bem. Weerd OZ
-20-11-2020;31-1-2021;28-11-2020;F. Hofman;Parkpop 2020;79;Lange Hamstraat
-18-10-2017;14-8-2018;29-10-2017;V. Meijer;Bruiloft;48;Ridderschapstraat
-14-1-2016;15-7-2016;29-1-2016;Y. Kuypers;Straatfeest;32;Ooftstraat
-12-3-2020;24-4-2020;16-3-2020;Z. de Wit;Parkpop 2020;56;Landstraat
-9-7-2018;30-7-2018;11-7-2018;D. Sanders;Wegwerkzaamheden;62;Donkere Gaard
-23-6-2016;25-3-2017;26-6-2016;V. Dijkstra;Kerstmarkt 2018;60;Anjelierstraat
-19-11-2020;5-4-2021;25-11-2020;K. Martens;Begravenis;8;Rotsoord
-4-2-2020;15-10-2020;5-2-2020;M. Evers;Begravenis;22;Houtstraat
-14-7-2019;31-1-2020;17-7-2019;I. van Veen;Straatfeest;18;Stroosteeg
-19-12-2015;23-2-2016;1-1-2016;S. Jonker;Parkpop 2019;13;Minrebroederstraat
-9-9-2019;17-10-2019;10-9-2019;P. Vos;Parkpop 2019;43;Wilhelmina Park
-5-1-2019;3-3-2019;18-1-2019;Y. van der Meer;Bruiloft;5;Loefbergmakerstraat
-9-2-2020;20-6-2020;12-2-2020;Y. Janssen;Bruiloft;89;Jacobssteeg
-19-8-2018;10-2-2019;24-8-2018;B. de Leeuw;Kerstmarkt 2018;14;Fockstraat
-5-10-2020;15-2-2021;20-10-2020;I. Brouwer;Kerstmarkt 2018;9;Kanonstraat
-28-7-2018;13-11-2018;12-8-2018;O. Jacobs;Wegwerkzaamheden;46;Zeilsteeg
-27-6-2019;12-2-2020;6-7-2019;K. Kuipers;Begravenis;51;Spoorstraat
-14-1-2020;13-10-2020;15-1-2020;S. van de Pol;Wegwerkzaamheden;60;Jutphaascheweg
-5-1-2019;13-4-2019;10-1-2019;E. Schouten;Straatfeest;23;Fockstraat
-26-11-2018;22-1-2019;29-11-2018;Z. van de Meer;Braderie;70;Lennepstraat
-27-5-2016;27-7-2016;1-6-2016;A. Visser;Begravenis;45;Koningspoort
-14-5-2020;21-1-2021;16-5-2020;G. Boer;Braderie;9;Herman Saftlevenstraat
-18-9-2017;22-11-2017;28-9-2017;Q. Huisman;Bruiloft;38;Rondpoort
-1-3-2016;22-6-2016;9-3-2016;U. de Lange;Kerstmarkt 2018;61;Sterrenburg
-13-2-2020;1-4-2020;16-2-2020;W. Meijer;Braderie;12;Geertekerkhof
-15-12-2019;7-1-2020;20-12-2019;O. van der Ven;Wegwerkzaamheden;63;Westerkade
-22-2-2017;10-11-2017;3-3-2017;U. Post;Wegwerkzaamheden;38;Driehoek
-17-4-2019;30-8-2019;24-4-2019;U. Kramer;Begravenis;75;Stationsdwarsstraat
-1-2-2019;22-11-2019;2-2-2019;Q. de Bruin;Braderie;13;Ondiep
-22-6-2018;11-1-2019;28-6-2018;O. Maas;Bruiloft;80;Biltstraat
-18-7-2016;13-9-2016;23-7-2016;J. Hoekstra;Parkpop 2020;50;Lichtegaard
-20-6-2019;27-9-2019;27-6-2019;S. van der Meulen;Begravenis;22;Brandsteeg
-17-10-2018;3-1-2019;1-11-2018;D. Dijkstra;Begravenis;69;Leeuwstraat
-21-3-2017;27-6-2017;4-4-2017;P. van den Velden;Straatfeest;84;Atjehstraat 2e
-12-10-2016;22-11-2016;14-10-2016;B. Gerritsen;Braderie;71;Zwaluwstraat
-12-4-2019;20-9-2019;23-4-2019;P. van den Velde;Begravenis;82;Oosterkade
-3-5-2017;20-6-2017;16-5-2017;H. Bosch;Kerstmarkt 2018;80;Bloemstraat
-3-8-2016;24-12-2016;13-8-2016;Y. van Dam;Begravenis;33;Jan Pietersz. Koenstraat
-2-4-2016;13-11-2016;16-4-2016;K. Schouten;Braderie;86;Elijnshof
-20-7-2017;6-3-2018;30-7-2017;A. Visser;Parkpop 2020;1;Potterstraat
-30-4-2016;8-9-2016;1-5-2016;S. van de Brink;Straatfeest;54;Lakmoessteeg
-4-5-2016;16-12-2016;14-5-2016;D. van de Velden;Parkpop 2020;4;Hoogenbergsteeg
-8-6-2016;22-6-2016;9-6-2016;Y. van der Meer;Begravenis;4;Nicolaaskerkhof
-3-12-2018;13-3-2019;4-12-2018;X. Boer;Wegwerkzaamheden;33;Korte Minrebroederstraat
-22-11-2017;24-3-2018;28-11-2017;S. de Graaf;Parkpop 2019;78;Kindgenshaven
-26-6-2017;12-11-2017;28-6-2017;G. Groen;Braderie;34;Turfstraat
-16-11-2018;14-6-2019;22-11-2018;Z. van de Ven;Straatfeest;9;Jan van Scorelstraat
-16-10-2019;31-3-2020;30-10-2019;H. Wolters;Parkpop 2019;19;Leidsche Kade
-7-7-2016;30-3-2017;12-7-2016;C. Visser;Wegwerkzaamheden;33;Hanengeschrei
-8-10-2019;30-1-2020;16-10-2019;I. Willemsen;Braderie;62;Vredenburg
-27-4-2020;17-10-2020;4-5-2020;N. Vink;Begravenis;38;Hoogstraat
-2-8-2015;4-8-2015;8-8-2015;R. Bosman;Kerstmarkt 2018;75;Nachtegaalstraat
-9-3-2018;29-3-2018;10-3-2018;E. Verhoeven;Parkpop 2019;52;Korte Koestraat
-13-10-2019;20-5-2020;20-10-2019;H. de Vries;Straatfeest;21;Roodepoort
-14-12-2018;10-1-2019;28-12-2018;K. van der Horst;Bruiloft;8;Lange Lauwerstraat
-23-2-2017;24-6-2017;3-3-2017;R. van de Velde;Braderie;86;Lindestraat
-6-8-2020;27-9-2020;10-8-2020;L. de Haan;Begravenis;5;Donkere Gaard
-29-1-2016;18-10-2016;1-2-2016;O. van Beek;Begravenis;75;Protestantenhofje
-13-9-2017;30-9-2017;18-9-2017;M. de Graaf;Parkpop 2019;57;Justus van Effenstraat
-10-12-2017;12-3-2018;11-12-2017;M. Schouten;Begravenis;56;Heiligeweg
-12-10-2017;18-6-2018;23-10-2017;H. Hoekstra;Begravenis;66;Vrouwjuttenstraat
-16-1-2020;6-7-2020;27-1-2020;I. de Graaf;Parkpop 2020;51;Kollewijsteeg
-25-6-2018;8-12-2018;9-7-2018;P. Groen;Wegwerkzaamheden;69;Goudsbloemstraat
-11-6-2017;20-9-2017;17-6-2017;W. van de Meer;Bruiloft;11;Corn. Evertsenstraat
-24-4-2016;26-12-2016;30-4-2016;C. Driessen;Bruiloft;85;Spoorstraat
-25-6-2019;5-3-2020;10-7-2019;T. Koster;Braderie;63;Jacobsgasthuissteeg
-7-9-2016;30-11-2016;19-9-2016;Y. Driessen;Kerstmarkt 2018;68;Vlasstraat
-1-4-2019;22-1-2020;9-4-2019;N. van der Berg;Bruiloft;14;Hagelstraat
-30-5-2019;15-7-2019;6-6-2019;K. Willems;Bruiloft;20;Elijnshof
-3-10-2017;15-5-2018;5-10-2017;E. Kuijpers;Bruiloft;43;Alendorpsteeg
-16-2-2018;8-9-2018;22-2-2018;S. Wolters;Wegwerkzaamheden;42;Bergstraat
-13-1-2020;18-1-2020;28-1-2020;B. Kuiper;Kerstmarkt 2018;8;Vredesteeg
-14-1-2016;9-5-2016;29-1-2016;I. van de Brink;Begravenis;39;Zeedijk
-10-3-2016;22-11-2016;25-3-2016;C. van der Ven;Kerstmarkt 2018;21;Predikheerenstraat
-11-7-2017;1-2-2018;21-7-2017;A. van den Velden;Parkpop 2019;25;Daendelsstraat
-20-7-2020;29-10-2020;27-7-2020;H. Bosman;Begravenis;28;Weidesteeg
-1-4-2017;9-1-2018;15-4-2017;C. de Vries;Parkpop 2019;80;Reestraat
-24-4-2020;9-2-2021;1-5-2020;W. Vink;Braderie;23;Hofstraat
-2-7-2016;21-9-2016;12-7-2016;F. de Leeuw;Bruiloft;70;Stadhouderslaan
-14-9-2018;20-1-2019;21-9-2018;E. van de Brink;Parkpop 2019;71;Dondersstraat (F.C.)
-22-3-2019;24-9-2019;31-3-2019;C. van der Wal;Wegwerkzaamheden;15;Gerard Doustraat
-4-11-2016;11-3-2017;14-11-2016;D. de Graaf;Straatfeest;82;Groenestraat
-8-5-2020;8-12-2020;18-5-2020;U. van de Meer;Begravenis;16;Hoogenoord
-25-10-2016;7-5-2017;26-10-2016;Y. Smits;Bruiloft;57;Hovenstraat
-17-6-2019;21-1-2020;1-7-2019;Q. van den Pol;Parkpop 2019;24;Nicolaasdwarsstraat
-14-3-2016;2-8-2016;27-3-2016;R. van de Pol;Wegwerkzaamheden;75;Lepelenburg
-3-7-2015;23-3-2016;7-7-2015;M. van Dam;Braderie;88;Ridderhofstad
-12-4-2017;7-7-2017;17-4-2017;W. Boer;Kerstmarkt 2018;2;Kloksteeg
-18-12-2015;15-4-2016;26-12-2015;Y. Kok;Braderie;67;Zuilenstraat
-3-6-2020;15-2-2021;15-6-2020;E. van Vliet;Kerstmarkt 2018;81;Moesstraat
-29-8-2016;18-10-2016;7-9-2016;Y. de Wit;Begravenis;41;Zandstraat
-20-10-2017;30-3-2018;30-10-2017;S. Meyer;Braderie;15;Kraanhof
-8-2-2019;18-7-2019;17-2-2019;C. Willems;Begravenis;90;Lombokstraat
-12-9-2018;28-5-2019;15-9-2018;P. Verhoeven;Parkpop 2020;28;Merwedekade
-18-7-2017;4-3-2018;1-8-2017;R. Kok;Bruiloft;35;Vredesteeg
-18-1-2016;1-11-2016;31-1-2016;P. Meyer;Straatfeest;65;Hoogenoord
-26-7-2016;8-1-2017;6-8-2016;Q. van de Brink;Braderie;84;Westravenstraat
-2-9-2020;13-3-2021;6-9-2020;N. Smit;Bruiloft;77;Kleine Tuinstraat
-4-7-2019;30-11-2019;9-7-2019;V. Kuipers;Parkpop 2019;86;Heemskerkstraat
-8-6-2018;24-2-2019;10-6-2018;W. de Graaf;Bruiloft;3;Mariaplaats
-14-4-2019;20-5-2019;24-4-2019;H. van Vliet;Straatfeest;78;Pasteurstraat
-24-6-2015;23-2-2016;29-6-2015;P. Martens;Straatfeest;53;Staalstraat
-4-1-2016;13-2-2016;11-1-2016;X. Vink;Wegwerkzaamheden;51;Lamstraat
-6-12-2015;13-12-2015;19-12-2015;P. Vos;Bruiloft;89;Kr. Nieuwegracht
-4-1-2018;28-2-2018;17-1-2018;P. Martens;Bruiloft;24;Stadhouderslaan
-8-11-2017;21-12-2017;11-11-2017;O. Bos;Braderie;75;Korte Minrebroederstraat
-16-4-2020;16-10-2020;21-4-2020;A. van Dijk;Kerstmarkt 2018;1;Pasteurstraat
-11-6-2017;12-6-2017;24-6-2017;E. Bakker;Braderie;74;Moreelselaan
-19-6-2020;19-8-2020;21-6-2020;S. van der Meer;Kerstmarkt 2018;90;Padangstraat
-28-7-2017;8-5-2018;5-8-2017;Z. van der Meulen;Bruiloft;38;Obrechtstraat
-7-3-2020;23-4-2020;9-3-2020;K. Smit;Begravenis;1;Buurkerkhof
-14-7-2020;14-10-2020;17-7-2020;J. Hendriks;Parkpop 2019;62;Kr. Nieuwegracht
-21-5-2019;27-8-2019;26-5-2019;I. van den Velde;Braderie;47;Keistraat
-17-4-2020;22-4-2020;29-4-2020;Q. de Jonge;Parkpop 2020;79;Jachtstraat
-30-8-2015;21-2-2016;5-9-2015;P. Dekker;Bruiloft;4;Hemdsmouwsteeg
-9-8-2018;10-12-2018;23-8-2018;Y. van der Velden;Wegwerkzaamheden;76;Springweg
-17-3-2019;5-4-2019;19-3-2019;L. Dekker;Bruiloft;82;M.A. de Ruijterstraat
-14-3-2019;13-10-2019;22-3-2019;R. de Bruyn;Begravenis;26;Bankastraat
-12-1-2018;16-6-2018;13-1-2018;F. de Wit;Kerstmarkt 2018;55;Anjelierstraat
-19-7-2017;24-9-2017;28-7-2017;X. Veenstra;Bruiloft;73;Nassaulaan
-24-6-2019;10-9-2019;28-6-2019;Q. Evers;Straatfeest;1;Varkenmarkt
-13-6-2019;29-6-2019;17-6-2019;V. Veenstra;Parkpop 2019;20;Drift
-16-4-2018;13-8-2018;18-4-2018;L. van Leeuwen;Braderie;37;Stationsstraat
-5-3-2017;2-7-2017;20-3-2017;J. van der Meer;Begravenis;50;Achter de Wal
-14-6-2018;9-10-2018;18-6-2018;K. Bosman;Bruiloft;88;Loefbergmakerstraat
-6-5-2019;29-6-2019;20-5-2019;R. Dijkstra;Kerstmarkt 2018;17;Laan van Chartroise
-31-5-2016;18-9-2016;14-6-2016;H. van der Meulen;Begravenis;35;Zonnenburg
-26-5-2017;6-6-2017;3-6-2017;O. Kuypers;Begravenis;30;Adelaarstraat
-12-4-2016;11-6-2016;25-4-2016;Y. Gerritsen;Bruiloft;65;Stadhouderslaan
-15-9-2018;23-9-2018;30-9-2018;X. van der Heyden;Wegwerkzaamheden;21;Korte Jufferstraat
-23-11-2017;26-6-2018;6-12-2017;Q. de Vries;Wegwerkzaamheden;54;Pallaesstraat
-14-7-2016;4-1-2017;29-7-2016;S. van de Velde;Straatfeest;62;Achter St. Pieter
-15-4-2018;5-5-2018;19-4-2018;I. van de Veen;Braderie;60;Billitonkade
-19-8-2016;28-3-2017;30-8-2016;G. van de Wal;Bruiloft;72;Leeuwerikstraat
-7-6-2020;29-6-2020;15-6-2020;E. de Ruiter;Braderie;50;Kerkweg
-14-1-2019;6-5-2019;25-1-2019;Z. van de Meer;Bruiloft;7;Groeneweg
-16-5-2016;17-8-2016;23-5-2016;D. Vos;Wegwerkzaamheden;52;Vinkenbuurt
-20-11-2015;7-4-2016;28-11-2015;D. van den Pol;Parkpop 2020;33;Sterrebosch
-10-7-2015;17-11-2015;20-7-2015;O. de Haan;Wegwerkzaamheden;71;Billitonstraat
-3-7-2016;15-11-2016;15-7-2016;B. Kuypers;Begravenis;80;Gietershof
-6-4-2016;8-1-2017;18-4-2016;H. Kok;Bruiloft;47;Buys Ballotstraat
-20-9-2020;3-1-2021;2-10-2020;W. Veenstra;Straatfeest;8;Paijenborgsteeg
-3-7-2018;9-12-2018;4-7-2018;F. Sanders;Bruiloft;2;Koekoeksplein
-19-4-2018;7-5-2018;27-4-2018;O. Vos;Wegwerkzaamheden;8;Bankastraat
-19-1-2018;26-4-2018;2-2-2018;Y. Schouten;Parkpop 2019;40;Bijlhouwerstraat
-8-7-2017;28-3-2018;18-7-2017;Z. Blom;Wegwerkzaamheden;58;Bloemstraat
-9-3-2017;25-6-2017;11-3-2017;U. Mol;Begravenis;88;Hoogenbergsteeg
-5-3-2016;25-8-2016;6-3-2016;Y. van der Heyden;Braderie;11;Frederik Hendrikstraat
-16-12-2017;3-4-2018;21-12-2017;Z. van der Heijden;Bruiloft;24;Wilhelmina Park
-12-4-2016;18-11-2016;15-4-2016;G. Kuipers;Parkpop 2020;29;Vossegatschedijk
-19-2-2019;23-11-2019;25-2-2019;R. Janssen;Bruiloft;62;Oudegracht (Tolst.)
-27-12-2018;22-3-2019;9-1-2019;F. Driessen;Parkpop 2020;78;Narcisstraat
-13-6-2017;23-3-2018;27-6-2017;S. Kok;Bruiloft;63;Schelpstraat
-1-9-2017;27-4-2018;3-9-2017;L. Mulder;Kerstmarkt 2018;63;Vischmarkt
-21-6-2020;26-3-2021;27-6-2020;V. van den Heuvel;Braderie;57;Nicolaas Beetsstraat
-10-10-2020;24-3-2021;13-10-2020;D. Willems;Begravenis;7;Catharijnekade
-11-3-2018;28-9-2018;22-3-2018;U. Vink;Bruiloft;1;Steenstraat
-23-11-2016;5-1-2017;30-11-2016;H. van Wijk;Straatfeest;46;Bakkerspoort
-25-9-2016;17-6-2017;6-10-2016;H. Willemsen;Wegwerkzaamheden;72;Noorderstraat
-12-12-2019;27-7-2020;23-12-2019;G. van der Veen;Parkpop 2020;45;Zonstraat
-1-2-2017;6-10-2017;12-2-2017;O. van Vliet;Wegwerkzaamheden;25;Delistraat 1e
-18-9-2020;17-6-2021;20-9-2020;C. van der Pol;Straatfeest;39;Nooitgedacht
-24-6-2016;9-11-2016;5-7-2016;W. Peeters;Begravenis;45;Wijde Doelen
-1-12-2019;27-7-2020;13-12-2019;Q. Willemsen;Parkpop 2020;6;Vredenburg
-31-7-2020;9-1-2021;12-8-2020;S. Veenstra;Kerstmarkt 2018;14;Visscherssteeg
-5-11-2019;13-11-2019;15-11-2019;O. de Koning;Wegwerkzaamheden;67;Geertebolwerk
-28-4-2016;18-11-2016;8-5-2016;Z. Smeets;Bruiloft;59;Achterom
-26-3-2020;26-12-2020;30-3-2020;K. van Vliet;Wegwerkzaamheden;82;Sluisstraat
-30-9-2017;24-3-2018;11-10-2017;H. de Groot;Bruiloft;20;Hofstraat
-10-11-2019;20-7-2020;14-11-2019;N. de Haan;Straatfeest;44;Tuinstraat
-14-2-2018;5-12-2018;20-2-2018;L. Brouwer;Parkpop 2020;57;Leidsche Kade
-10-1-2018;15-4-2018;25-1-2018;H. Hoekstra;Straatfeest;27;Alphenplein (van)
-18-9-2018;27-3-2019;29-9-2018;F. van Dam;Wegwerkzaamheden;5;Jan Meyenstraat
-24-2-2020;16-3-2020;5-3-2020;A. de Lange;Parkpop 2020;43;Jeruzalemsteeg
-18-6-2020;23-10-2020;20-6-2020;F. van Wijk;Parkpop 2020;17;Lijsterstraat
-13-4-2016;28-8-2016;26-4-2016;V. Koning;Parkpop 2020;49;Minstraat
-1-7-2015;10-8-2015;8-7-2015;V. Jonker;Parkpop 2019;22;Heerenhofje
-19-3-2020;24-11-2020;21-3-2020;N. Huisman;Parkpop 2020;28;Bregittenstraat
-20-7-2019;9-8-2019;28-7-2019;C. van der Meer;Begravenis;32;Mariahoek
-11-11-2020;14-4-2021;24-11-2020;M. Postma;Parkpop 2020;82;Jacobsgasthuissteeg
-10-8-2019;19-9-2019;16-8-2019;N. de Koning;Straatfeest;37;Kersstraat
-15-8-2020;17-10-2020;21-8-2020;W. van Beek;Straatfeest;49;Hendrik de Keyserstraat
-5-7-2016;15-7-2016;18-7-2016;P. van den Bosch;Braderie;82;Javastraat
-16-10-2017;3-2-2018;26-10-2017;Y. van Veen;Kerstmarkt 2018;15;Jutphaascheweg
-19-10-2020;3-2-2021;3-11-2020;L. Janssen;Parkpop 2020;75;Hoogenbergsteeg
-31-1-2018;8-4-2018;9-2-2018;U. van Wijk;Bruiloft;26;Nicolaasdwarsstraat
-21-1-2016;18-10-2016;2-2-2016;E. de Vos;Wegwerkzaamheden;89;Bankaplein
-26-4-2016;4-11-2016;27-4-2016;E. Veenstra;Parkpop 2019;66;Brugstraat
-22-10-2017;10-5-2018;2-11-2017;I. Dekker;Parkpop 2019;26;Zeilsteeg
-2-5-2019;2-6-2019;10-5-2019;H. de Leeuw;Straatfeest;1;Singelsteeg
-2-4-2016;12-6-2016;13-4-2016;A. Peeters;Begravenis;89;Javastraat
-27-6-2015;14-12-2015;4-7-2015;R. van der Horst;Bruiloft;65;Domtoren
-14-6-2015;19-9-2015;20-6-2015;V. Visser;Kerstmarkt 2018;82;Kersstraat
-31-10-2019;7-2-2020;6-11-2019;H. de Haan;Straatfeest;7;Appelstraat
-13-2-2017;17-8-2017;27-2-2017;V. Schipper;Bruiloft;54;Kraanstraat
-4-5-2016;12-1-2017;14-5-2016;M. van de Meer;Begravenis;85;Lindestraat
-28-8-2016;18-5-2017;9-9-2016;M. Kuypers;Wegwerkzaamheden;2;Nobelstraat
-30-10-2015;2-5-2016;2-11-2015;Y. van der Heijden;Begravenis;50;Manenburg
-9-3-2016;7-12-2016;18-3-2016;E. Blom;Braderie;88;Raamsteeg
-8-10-2017;12-12-2017;11-10-2017;X. Smit;Wegwerkzaamheden;6;Jagerskade
-10-4-2019;26-1-2020;23-4-2019;K. Huisman;Bruiloft;86;Hoogenbergsteeg
-23-2-2020;23-7-2020;25-2-2020;Y. Sanders;Kerstmarkt 2018;13;Malakkastraat
-11-11-2015;28-12-2015;23-11-2015;S. van Vliet;Wegwerkzaamheden;28;Grietstraat
-11-7-2017;31-12-2017;13-7-2017;T. de Groot;Braderie;12;Biltstraat
-10-5-2019;11-5-2019;25-5-2019;F. Peters;Begravenis;7;Amaliastraat
-22-3-2019;12-7-2019;30-3-2019;F. van der Horst;Kerstmarkt 2018;52;Lijnmarkt
-20-1-2018;18-2-2018;31-1-2018;M. Gerritsen;Bruiloft;78;Kwartelstraat
-28-12-2016;26-6-2017;8-1-2017;J. Veenstra;Straatfeest;83;Stijfselsteeg
-15-8-2015;22-3-2016;30-8-2015;O. van der Heyden;Parkpop 2019;12;Bankstraat
-16-7-2020;17-1-2021;25-7-2020;W. van de Wal;Kerstmarkt 2018;28;Koningsweg
-16-7-2019;11-2-2020;30-7-2019;O. Dijkstra;Bruiloft;75;Daelstraat
-27-3-2020;3-7-2020;4-4-2020;D. Timmermans;Parkpop 2019;84;Pauwstraat
-15-3-2020;7-8-2020;19-3-2020;O. Schouten;Parkpop 2019;31;Rozenstraat
-26-2-2018;12-9-2018;3-3-2018;H. de Vries;Parkpop 2019;71;Rijndijk
-23-12-2018;22-8-2019;31-12-2018;N. Timmermans;Braderie;58;Walsteeg
-19-9-2019;5-5-2020;28-9-2019;H. Hoekstra;Bruiloft;80;Zonstraat
-5-12-2016;2-6-2017;13-12-2016;Z. de Leeuw;Parkpop 2020;28;Kovelaarstraat
-1-12-2018;20-3-2019;7-12-2018;Z. van der Pol;Parkpop 2020;52;Kerkstraat
-8-9-2016;4-11-2016;16-9-2016;O. Kuypers;Begravenis;11;Hofsteeg
-4-7-2020;27-2-2021;19-7-2020;B. van Leeuwen;Parkpop 2019;57;Gietershof
-27-6-2017;22-3-2018;10-7-2017;G. de Leeuw;Braderie;20;Hanengeschrei
-10-4-2020;18-8-2020;12-4-2020;G. Meyer;Wegwerkzaamheden;12;Teelingstraat
-1-7-2016;15-11-2016;10-7-2016;R. Vermeulen;Bruiloft;85;Achterstraat 3e
-16-2-2017;19-10-2017;27-2-2017;V. Koning;Wegwerkzaamheden;85;Leeuwerikstraat
-13-8-2020;8-9-2020;19-8-2020;N. van Dam;Kerstmarkt 2018;51;Oudkerkhof
-8-4-2018;4-12-2018;16-4-2018;L. Hermans;Straatfeest;69;Nicolaasdwarsstraat
-18-1-2017;17-4-2017;27-1-2017;E. Janssen;Kerstmarkt 2018;83;Heerenweg
-25-6-2019;20-11-2019;9-7-2019;Y. van Beek;Braderie;75;Hendrik de Keyserstraat
-11-5-2016;27-5-2016;21-5-2016;O. de Boer;Wegwerkzaamheden;87;Tuchthuisstraat
-26-12-2016;13-5-2017;3-1-2017;R. Kuypers;Parkpop 2019;6;Leliestraat
-4-11-2019;14-8-2020;5-11-2019;Q. van den Broek;Braderie;72;Hovenstraat
-24-11-2020;7-3-2021;25-11-2020;W. van der Veen;Wegwerkzaamheden;25;Blokstraat
-9-1-2020;31-3-2020;17-1-2020;M. Schouten;Begravenis;42;Nicolaas Beetsstraat
-27-3-2016;6-5-2016;6-4-2016;E. van den Bosch;Wegwerkzaamheden;84;Kanonstraat
-8-9-2017;1-3-2018;16-9-2017;T. de Bruijn;Kerstmarkt 2018;88;Keistraat
-6-6-2019;24-7-2019;14-6-2019;F. Peters;Parkpop 2019;82;Wijde Watersteeg
-22-7-2016;21-11-2016;31-7-2016;M. de Bruin;Parkpop 2019;71;Concordiastraat
-27-11-2018;2-2-2019;29-11-2018;V. Wolters;Braderie;60;Corn. Evertsenstraat
-8-6-2016;7-12-2016;9-6-2016;O. van den Pol;Braderie;9;Delistraat 1e
-12-5-2017;1-6-2017;23-5-2017;Y. Dijkstra;Parkpop 2020;32;Ridderhofstad
-20-2-2020;16-8-2020;24-2-2020;Z. Wolters;Bruiloft;56;Beverstraat
-12-3-2019;24-9-2019;20-3-2019;N. de Lange;Parkpop 2019;32;Hoenderstraat
-11-6-2017;18-1-2018;13-6-2017;Q. van Dongen;Straatfeest;12;Onder de Linden
-2-6-2016;11-8-2016;17-6-2016;Z. van der Ven;Bruiloft;49;Oosterstraat
-4-9-2019;1-10-2019;8-9-2019;O. de Bruyn;Bruiloft;69;Pieterskerkhof
-17-12-2017;27-2-2018;30-12-2017;L. van der Berg;Straatfeest;70;Landstraat
-26-9-2015;9-5-2016;6-10-2015;L. van de Ven;Straatfeest;4;Sterrebosch
-26-8-2016;24-1-2017;9-9-2016;V. van den Bosch;Bruiloft;78;Brugstraat
-17-11-2015;23-11-2015;21-11-2015;W. Vos;Parkpop 2019;56;Kovelaarsdijk
-14-12-2016;27-8-2017;19-12-2016;Q. Kuiper;Kerstmarkt 2018;79;Concordiastraat
-7-10-2015;12-2-2016;17-10-2015;C. de Vos;Straatfeest;84;Delistraat 1e
-27-12-2018;5-5-2019;4-1-2019;X. van Dam;Kerstmarkt 2018;26;Bergstraat
-23-11-2019;31-3-2020;27-11-2019;K. Kuipers;Kerstmarkt 2018;64;Bankstraat
-14-1-2019;13-7-2019;22-1-2019;T. Willems;Braderie;13;Frans Halsstraat
-3-1-2020;27-4-2020;18-1-2020;C. de Vries;Parkpop 2020;33;Werf a.d. Twijnstraat
-29-6-2018;31-8-2018;30-6-2018;C. Bakker;Kerstmarkt 2018;34;Jachtstraat
-11-5-2020;15-9-2020;15-5-2020;M. van de Ven;Parkpop 2019;62;M.A. de Ruijterstraat
-10-4-2019;13-4-2019;13-4-2019;S. van Doorn;Straatfeest;24;Waterpoort
-8-12-2019;30-5-2020;12-12-2019;S. Kuipers;Parkpop 2019;42;Stationsdwarsstraat
-8-6-2018;3-3-2019;18-6-2018;V. Vink;Wegwerkzaamheden;33;Oosterkade
-24-12-2015;29-6-2016;8-1-2016;H. de Bruijn;Bruiloft;62;Manenburg
-30-3-2017;23-9-2017;14-4-2017;M. Mol;Kerstmarkt 2018;12;Krommerijnstraat
-26-4-2017;1-9-2017;5-5-2017;K. Post;Parkpop 2019;63;Havikstraat
-18-6-2015;21-6-2015;29-6-2015;R. Vink;Kerstmarkt 2018;78;Sterrenhof
-29-12-2017;27-4-2018;13-1-2018;I. Vos;Wegwerkzaamheden;73;Gruttersdijk
-15-3-2019;26-12-2019;22-3-2019;G. Kramer;Braderie;41;Moesstraat
-16-5-2018;14-11-2018;25-5-2018;J. Hofman;Straatfeest;50;Nooitgedacht
-29-6-2019;4-8-2019;12-7-2019;Y. Jacobs;Kerstmarkt 2018;70;Elijnshof
-29-4-2016;1-12-2016;6-5-2016;B. Willems;Bruiloft;32;Beekstraat
-21-3-2019;16-8-2019;24-3-2019;Z. van Loon;Wegwerkzaamheden;67;Schelpstraat
-16-8-2020;28-11-2020;20-8-2020;L. van de Velden;Begravenis;82;Haagstraat
-30-4-2019;20-1-2020;9-5-2019;S. Jansen;Parkpop 2020;9;Lange Jufferstraat
-14-7-2018;27-1-2019;17-7-2018;F. van der Heijden;Kerstmarkt 2018;50;Vredenburg
-28-4-2017;16-7-2017;6-5-2017;V. Hoekstra;Kerstmarkt 2018;42;Beukstraat
-11-10-2016;8-2-2017;18-10-2016;B. Vink;Wegwerkzaamheden;31;M.H. Trompstraat
-7-1-2017;7-3-2017;17-1-2017;O. Dijkstra;Wegwerkzaamheden;45;Catharijnesteeg
-25-1-2018;14-9-2018;29-1-2018;L. van der Velden;Braderie;42;Burgstraat
-30-9-2015;21-12-2015;10-10-2015;A. Kuipers;Straatfeest;69;Jansveld
-21-6-2020;15-9-2020;27-6-2020;T. Sanders;Wegwerkzaamheden;10;Hoogenbergsteeg
-11-3-2020;20-10-2020;14-3-2020;E. Huisman;Parkpop 2019;18;Kl. Geertekerkhof
-21-7-2018;11-10-2018;2-8-2018;N. Kramer;Wegwerkzaamheden;67;Slachtsteeg
-27-9-2020;11-12-2020;4-10-2020;X. van Dijk;Braderie;87;Braamstraat
-28-7-2020;12-4-2021;30-7-2020;D. van Dongen;Straatfeest;2;Oosterstraat
-29-9-2018;15-2-2019;7-10-2018;O. Verhoeven;Bruiloft;75;Hanengeschrei
-3-2-2018;11-8-2018;16-2-2018;E. Willemsen;Kerstmarkt 2018;12;Laurens Reaalstraat
-23-10-2016;2-11-2016;3-11-2016;W. van der Berg;Bruiloft;68;Schelpstraat
-12-9-2018;29-3-2019;21-9-2018;G. van Dijk;Wegwerkzaamheden;23;Diaconessenstraat
-22-6-2018;1-12-2018;23-6-2018;D. Timmermans;Braderie;75;Obrechtstraat
-2-12-2015;31-3-2016;8-12-2015;K. de Haan;Begravenis;21;Wolvenstraat
-12-4-2017;16-8-2017;13-4-2017;K. Molenaar;Braderie;81;Lamstraat
-24-9-2019;14-7-2020;4-10-2019;A. de Wit;Kerstmarkt 2018;36;Croeselaan
-26-6-2015;10-4-2016;27-6-2015;K. van der Horst;Braderie;57;Buys Ballotstraat
-8-1-2020;11-5-2020;17-1-2020;O. van de Berg;Wegwerkzaamheden;35;Zoutmarkt
-8-9-2016;25-12-2016;13-9-2016;D. Vos;Begravenis;37;Schutterstraat
-16-11-2020;14-12-2020;27-11-2020;W. Evers;Begravenis;18;Muntsteeg
-9-7-2017;29-12-2017;19-7-2017;M. Boer;Parkpop 2020;80;Blauwsteeg
-19-4-2020;19-12-2020;1-5-2020;K. Schipper;Wegwerkzaamheden;64;Nathanaëlspoort
-24-12-2015;25-6-2016;31-12-2015;Z. Kok;Bruiloft;22;Brandsteeg
-7-3-2016;6-6-2016;21-3-2016;T. Visser;Straatfeest;7;Koekoekstraat
-31-7-2018;30-11-2018;11-8-2018;T. van der Horst;Begravenis;22;Drakenburgsteeg
-22-5-2020;8-2-2021;25-5-2020;R. Kuipers;Wegwerkzaamheden;57;Lindestraat
-3-7-2017;12-7-2017;12-7-2017;X. Vink;Straatfeest;33;Joan van Oldenbarneveldtlaan
-6-4-2017;19-8-2017;10-4-2017;M. Martens;Braderie;22;Stadhuisbrug
-2-5-2019;29-1-2020;10-5-2019;C. van der Laan;Kerstmarkt 2018;37;Rembrandtkade
-7-10-2015;7-1-2016;13-10-2015;A. Peters;Bruiloft;22;Stationsplein
-23-7-2015;12-2-2016;30-7-2015;U. Jacobs;Parkpop 2019;70;Leliestraat
-17-10-2015;9-2-2016;31-10-2015;L. Blom;Braderie;33;Burgstraat
-7-10-2019;12-11-2019;22-10-2019;H. van Dongen;Kerstmarkt 2018;46;Wittevrouwenkade
-20-4-2018;31-7-2018;30-4-2018;B. Verhoeven;Bruiloft;41;Valkstraat
-3-9-2017;19-4-2018;10-9-2017;W. Vermeulen;Begravenis;68;Weistraat
-15-4-2017;16-7-2017;30-4-2017;T. van den Broek;Braderie;36;Dahliastraat
-31-10-2019;6-4-2020;3-11-2019;X. Wolters;Parkpop 2020;56;Spinderpoort
-10-12-2018;10-5-2019;20-12-2018;L. de Vries;Wegwerkzaamheden;65;Nathanaëlspoort
-27-3-2017;19-4-2017;2-4-2017;P. Willems;Parkpop 2020;46;Atjehstraat 1e
-16-9-2017;2-10-2017;19-9-2017;U. van den Pol;Wegwerkzaamheden;38;Imhoffstraat (van)
-19-6-2019;4-3-2020;28-6-2019;A. Hofman;Wegwerkzaamheden;3;Javastraat
-27-5-2017;19-6-2017;28-5-2017;H. van Loon;Kerstmarkt 2018;80;Vinkenbuurt
-4-2-2017;22-4-2017;19-2-2017;J. van der Velde;Kerstmarkt 2018;19;Nicolaasweg
-5-7-2015;14-7-2015;7-7-2015;S. van der Wal;Begravenis;43;Schutterstraat
-4-11-2017;8-5-2018;13-11-2017;J. van den Velden;Parkpop 2019;77;Pallaesstraat
-30-9-2016;15-7-2017;5-10-2016;N. de Haan;Wegwerkzaamheden;53;Lange Hamstraat
-27-6-2017;5-3-2018;8-7-2017;F. van den Berg;Bruiloft;4;Paardesteeg
-6-6-2016;10-9-2016;19-6-2016;Y. Visser;Parkpop 2020;5;Buurkerksteeg 2e
-12-8-2017;27-11-2017;14-8-2017;X. Bosman;Parkpop 2020;78;Javastraat
-25-1-2017;11-10-2017;4-2-2017;O. Kramer;Parkpop 2019;9;Heerenweg
-8-8-2016;30-9-2016;23-8-2016;M. Bosman;Parkpop 2020;65;Predikheerenstraat
-25-5-2017;12-2-2018;7-6-2017;F. Smeets;Begravenis;17;Zuilenstraat
-9-8-2018;14-12-2018;13-8-2018;F. van der Wal;Kerstmarkt 2018;32;Lange Nieuwstraat
-1-10-2019;10-5-2020;6-10-2019;J. Blom;Kerstmarkt 2018;24;Kersstraat
-22-12-2019;11-6-2020;1-1-2020;S. van de Veen;Kerstmarkt 2018;37;Antoniestraat
-11-5-2019;11-6-2019;14-5-2019;H. Smits;Parkpop 2020;40;Spijkerstraat
-16-2-2017;7-4-2017;23-2-2017;M. Gerritsen;Straatfeest;42;Gildstraat
-28-9-2016;21-10-2016;7-10-2016;L. Koning;Kerstmarkt 2018;72;Bem. Weerd OZ
-31-5-2018;18-1-2019;1-6-2018;K. Kuijpers;Wegwerkzaamheden;51;Ondiep
-24-7-2015;17-8-2015;25-7-2015;G. van Dam;Straatfeest;35;Hoenderstraat
-1-9-2019;6-6-2020;10-9-2019;G. van Loon;Braderie;7;Vleutensche Vaart
-21-8-2019;10-10-2019;1-9-2019;V. Hofman;Parkpop 2019;23;Dillenburgstraat
-14-3-2019;3-1-2020;24-3-2019;Y. van Veen;Straatfeest;9;Javastraat
-5-10-2015;1-2-2016;19-10-2015;M. van Wijk;Straatfeest;1;Sionskameren
-17-5-2017;4-9-2017;26-5-2017;L. Vink;Parkpop 2019;50;Boothstraat
-5-8-2017;26-1-2018;19-8-2017;S. Schouten;Parkpop 2019;4;Keistraat
-13-12-2019;27-1-2020;26-12-2019;O. Willems;Begravenis;85;Voorstraat
-10-8-2018;16-4-2019;19-8-2018;Z. de Leeuw;Bruiloft;53;Schoolplein
-22-11-2019;10-3-2020;2-12-2019;Q. de Jonge;Parkpop 2020;23;Hoogeweidschedijk
-10-10-2015;7-6-2016;22-10-2015;Q. van Beek;Braderie;51;Inundatiekade
-25-6-2017;17-7-2017;5-7-2017;T. Peters;Kerstmarkt 2018;69;Leidsche Weg
-14-1-2019;11-9-2019;17-1-2019;G. Brouwer;Straatfeest;39;Jan Pietersz. Koenstraat
-8-3-2019;28-10-2019;18-3-2019;G. de Ruiter;Begravenis;84;Vischmarkt
-25-9-2018;31-10-2018;1-10-2018;G. van der Heyden;Parkpop 2020;30;Nicolaaskerkhof
-6-12-2018;1-5-2019;14-12-2018;I. van de Brink;Wegwerkzaamheden;31;Visschersplein
-31-12-2016;24-1-2017;4-1-2017;M. Timmermans;Parkpop 2019;32;Voorstraat
-19-5-2020;30-6-2020;22-5-2020;T. van de Berg;Kerstmarkt 2018;15;Ridderschapstraat
-4-3-2018;2-9-2018;15-3-2018;U. Meyer;Straatfeest;57;Hennipstraat
-14-5-2020;22-7-2020;16-5-2020;I. de Graaf;Parkpop 2020;65;Nieuwegracht
-25-6-2015;6-1-2016;28-6-2015;D. Boer;Straatfeest;49;Ondiep
-4-4-2019;9-5-2019;13-4-2019;T. Hoekstra;Parkpop 2019;77;Putsteeg
-14-2-2017;27-2-2017;1-3-2017;A. de Bruijn;Kerstmarkt 2018;35;Lauwersteeg
-11-2-2018;26-10-2018;23-2-2018;X. van de Velden;Wegwerkzaamheden;15;Palmstraat
-22-10-2016;21-7-2017;30-10-2016;L. Scholten;Parkpop 2020;63;Jan van Scorelstraat
-11-7-2020;15-10-2020;24-7-2020;H. Molenaar;Wegwerkzaamheden;55;Pasteurstraat
-3-10-2017;17-6-2018;5-10-2017;C. Meijer;Straatfeest;7;Predikheerenstraat
-20-4-2016;24-6-2016;30-4-2016;V. Martens;Begravenis;64;Obrechtstraat
-25-4-2017;16-2-2018;9-5-2017;Y. van der Ven;Bruiloft;8;Braamstraat
-8-12-2018;22-4-2019;17-12-2018;P. van Dam;Kerstmarkt 2018;8;Nobelstraat
-2-9-2019;13-5-2020;8-9-2019;K. van de Berg;Wegwerkzaamheden;62;Trans
-28-12-2017;10-7-2018;3-1-2018;B. Driessen;Wegwerkzaamheden;9;Mariahofje
-16-7-2015;30-4-2016;19-7-2015;W. van der Velden;Parkpop 2020;66;Lange Smeestraat
-15-10-2020;23-12-2020;20-10-2020;H. Gerritsen;Begravenis;56;Knipstraat
-4-5-2019;23-2-2020;6-5-2019;Q. van den Velden;Straatfeest;69;Jan Pietersz. Koenstraat
-5-6-2016;4-2-2017;13-6-2016;J. Peeters;Parkpop 2020;66;Zaagmolenkade
-9-10-2015;26-3-2016;12-10-2015;L. Schipper;Wegwerkzaamheden;75;Donkere Gaard
-27-12-2016;28-3-2017;7-1-2017;B. Jacobs;Braderie;52;Stroosteeg
-17-8-2018;14-5-2019;28-8-2018;Q. Vink;Parkpop 2020;54;Abraham Dolesteeg
-6-4-2017;4-6-2017;20-4-2017;T. Brouwer;Braderie;75;Javastraat
-5-11-2020;6-1-2021;19-11-2020;R. Willemsen;Straatfeest;51;Koekoeksplein
-29-5-2016;1-2-2017;3-6-2016;A. van Dongen;Parkpop 2020;9;Zaagstraat
-3-5-2019;29-12-2019;14-5-2019;Q. Mulder;Begravenis;24;Teelingstraat
-3-12-2019;29-4-2020;11-12-2019;K. van der Meulen;Begravenis;20;Boorstraat
-5-3-2016;3-12-2016;19-3-2016;F. van den Pol;Parkpop 2020;26;Diaconiepoort
-24-7-2017;16-11-2017;31-7-2017;R. Dijkstra;Parkpop 2019;8;Stroomkade
-23-9-2018;10-3-2019;1-10-2018;L. Mol;Parkpop 2020;76;Nauwe Watersteeg
-6-8-2020;3-11-2020;20-8-2020;D. van Dam;Begravenis;63;Blindesteeg
-2-1-2016;7-10-2016;17-1-2016;D. Scholten;Bruiloft;28;Bleekstraat
-8-4-2016;8-11-2016;23-4-2016;I. de Bruijn;Parkpop 2020;51;Belthlehemscheweg
-19-3-2016;3-9-2016;22-3-2016;V. Evers;Braderie;24;Domplein
-10-3-2018;14-3-2018;12-3-2018;M. Hofman;Bruiloft;25;Heerenweg
-20-8-2017;21-8-2017;25-8-2017;D. van de Berg;Braderie;78;Lauwerecht
-4-12-2016;27-5-2017;10-12-2016;V. Koning;Kerstmarkt 2018;48;Laan van Puntenburg
-6-5-2019;15-9-2019;16-5-2019;D. de Haan;Kerstmarkt 2018;89;Bleijenburgkade
-9-1-2019;25-3-2019;23-1-2019;T. Bosman;Wegwerkzaamheden;18;Kollewijsteeg
-19-12-2015;11-10-2016;2-1-2016;A. van der Ven;Kerstmarkt 2018;30;Anjelierstraat
-16-11-2020;1-4-2021;29-11-2020;G. Peters;Straatfeest;67;Hoenderstraat
-31-1-2016;3-4-2016;10-2-2016;Z. Peters;Straatfeest;41;Hulststraat
-4-3-2017;5-5-2017;13-3-2017;L. Vos;Braderie;35;Gruttersdijk
-26-2-2019;19-12-2019;6-3-2019;E. Prins;Wegwerkzaamheden;23;Borneostraat
-25-4-2016;4-7-2016;9-5-2016;J. de Ruiter;Wegwerkzaamheden;12;Hoog Glagenweerd
-9-11-2019;11-5-2020;15-11-2019;J. Peters;Kerstmarkt 2018;80;Kranenburg
-6-10-2016;11-5-2017;17-10-2016;H. de Koning;Parkpop 2019;84;Hartingstraat
-7-9-2020;28-11-2020;12-9-2020;R. Boer;Begravenis;8;Johan e Wittstraat
-24-6-2017;29-6-2017;3-7-2017;R. de Bruin;Begravenis;7;Krommerijnstraat
-28-9-2019;19-4-2020;5-10-2019;P. van den Velde;Wegwerkzaamheden;52;Spiegelpoort
-8-4-2016;24-9-2016;9-4-2016;A. Hofman;Parkpop 2019;30;Schaapstraat
-7-12-2015;19-1-2016;14-12-2015;Y. van den Velden;Parkpop 2020;27;Ondiep
-27-9-2020;2-6-2021;9-10-2020;O. Martens;Braderie;18;Vredeplaats
-10-7-2019;29-9-2019;17-7-2019;X. van Veen;Parkpop 2019;8;Geertebolwerk
-30-7-2020;28-11-2020;13-8-2020;I. Kuypers;Kerstmarkt 2018;47;Roggestraat
-24-10-2017;7-1-2018;31-10-2017;A. de Jong;Kerstmarkt 2018;15;Nauwe Begijnesteeg
-10-12-2019;1-3-2020;19-12-2019;A. van de Pol;Kerstmarkt 2018;49;Servetstraat
-7-12-2015;9-7-2016;8-12-2015;L. de Groot;Braderie;43;Koekoekstraat
-13-3-2020;4-5-2020;22-3-2020;L. Vos;Bruiloft;85;M.H. Trompstraat
-16-2-2016;28-3-2016;25-2-2016;N. van de Berg;Wegwerkzaamheden;30;Singeldwarsstraat
-27-1-2017;14-4-2017;5-2-2017;S. de Vos;Parkpop 2019;64;M.H. Trompstraat
-10-1-2020;2-3-2020;25-1-2020;I. de Koning;Begravenis;21;Dahliastraat
-7-1-2018;27-2-2018;8-1-2018;U. Kuypers;Braderie;51;Kleine Eligensteeg
-1-5-2016;6-7-2016;5-5-2016;G. van Wijk;Braderie;84;Teelingstraat
-11-1-2019;31-8-2019;19-1-2019;P. de Groot;Straatfeest;80;Waterpoort
-27-7-2015;21-3-2016;10-8-2015;Q. van den Heuvel;Parkpop 2019;17;Rijnsteeg
-14-11-2016;11-7-2017;23-11-2016;C. Smits;Parkpop 2020;71;Boorstraat
-13-5-2016;9-10-2016;22-5-2016;F. van Leeuwen;Parkpop 2020;10;Molensteeg
-2-4-2016;26-7-2016;7-4-2016;W. Kramer;Wegwerkzaamheden;34;Mauritsstraat
-8-8-2019;1-2-2020;10-8-2019;W. de Bruin;Straatfeest;3;Singelstraat
-11-11-2017;7-5-2018;22-11-2017;N. Meijer;Begravenis;51;Paralelweg
-16-5-2019;10-2-2020;22-5-2019;A. van den Velden;Kerstmarkt 2018;52;Buys Ballotstraat
-20-9-2018;15-3-2019;26-9-2018;I. van den Heuvel;Begravenis;83;Ridderhofstad
-13-5-2019;3-11-2019;17-5-2019;Y. Huisman;Braderie;51;Maliesingel
-16-10-2016;8-11-2016;29-10-2016;K. van der Heyden;Parkpop 2019;22;Servetstraat
-22-12-2019;17-8-2020;27-12-2019;L. Evers;Braderie;70;Bladstraat
-8-8-2017;16-12-2017;19-8-2017;G. de Vries;Braderie;36;Havikstraat
-20-9-2019;7-12-2019;29-9-2019;J. van der Horst;Parkpop 2020;64;Buurkerksteeg 3e
-12-11-2015;14-4-2016;14-11-2015;S. Gerritsen;Begravenis;82;Weistraat
-10-5-2017;20-10-2017;21-5-2017;T. Smeets;Begravenis;30;Bremstraat
-4-10-2017;27-11-2017;9-10-2017;O. van de Wal;Bruiloft;50;Raamsteeg
-12-11-2018;25-6-2019;17-11-2018;L. de Vos;Parkpop 2019;2;Oude Kamp
-10-4-2018;14-11-2018;15-4-2018;L. de Vries;Wegwerkzaamheden;8;Bolstraat
-12-8-2015;15-2-2016;19-8-2015;I. Bosch;Straatfeest;29;Hoenderstraat
-4-1-2019;22-5-2019;19-1-2019;H. Mol;Wegwerkzaamheden;42;Vosstraat
-29-7-2016;22-2-2017;1-8-2016;U. Hermans;Wegwerkzaamheden;47;Hieronymusplein
-17-5-2017;26-11-2017;30-5-2017;U. van der Wal;Wegwerkzaamheden;3;Oudwijkerlaan
-26-12-2015;27-3-2016;1-1-2016;D. Prins;Parkpop 2019;67;Oude Daelstraat
-26-4-2017;12-1-2018;5-5-2017;X. van den Heuvel;Braderie;12;Lindestraat
-16-8-2016;27-10-2016;19-8-2016;F. Prins;Kerstmarkt 2018;4;Slachtsteeg
-5-6-2018;29-12-2018;11-6-2018;F. van den Velden;Kerstmarkt 2018;48;Lakmoessteeg
-13-8-2019;16-12-2019;18-8-2019;W. van Loon;Straatfeest;46;Vrouwjuttenstraat
-24-4-2019;19-1-2020;1-5-2019;N. Post;Begravenis;67;Moreelselaan
-14-10-2019;3-1-2020;26-10-2019;J. de Ruiter;Parkpop 2019;59;Ledig Erf
-28-5-2017;20-10-2017;29-5-2017;N. Smits;Wegwerkzaamheden;6;Blindesteeg
-8-5-2016;17-12-2016;21-5-2016;J. Peeters;Straatfeest;58;Nathanaëlspoort
-31-3-2017;13-7-2017;10-4-2017;V. van Dam;Bruiloft;4;Moreelselaan
-19-9-2019;16-10-2019;30-9-2019;N. van de Berg;Bruiloft;21;Nachtegaalstraat
-12-1-2018;29-1-2018;26-1-2018;B. van der Meer;Braderie;77;Arkenspoort
-17-8-2017;5-11-2017;22-8-2017;Z. de Graaf;Begravenis;30;Zuilenstraat
-14-6-2015;5-4-2016;28-6-2015;V. van den Broek;Parkpop 2019;22;Abraham Dolesteeg
-12-12-2017;21-1-2018;19-12-2017;M. Huisman;Bruiloft;17;Mulderstraat
-16-9-2017;14-2-2018;29-9-2017;T. Hoekstra;Straatfeest;23;M.H. Trompstraat
-17-12-2019;17-4-2020;27-12-2019;I. Kok;Parkpop 2020;67;Rozenhofje
-27-9-2019;8-5-2020;8-10-2019;Q. Evers;Bruiloft;81;Joh. Willem Frisostraat
-1-6-2019;25-2-2020;15-6-2019;G. de Vries;Straatfeest;66;Zaagmolenkade
-8-11-2015;29-3-2016;16-11-2015;F. Kok;Parkpop 2019;35;Achterom
-18-9-2015;12-7-2016;23-9-2015;S. Mulder;Bruiloft;66;Baanstraat
-20-7-2017;15-1-2018;26-7-2017;A. Maas;Kerstmarkt 2018;70;Nauwe Begijnesteeg
-11-5-2019;5-7-2019;17-5-2019;N. van den Pol;Braderie;17;Stadhuisbrug
-16-4-2017;7-8-2017;1-5-2017;Z. Post;Begravenis;15;Nauwe Muntsteeg
-27-4-2017;21-6-2017;28-4-2017;F. Meijer;Wegwerkzaamheden;23;Westerdijk
-24-11-2019;6-12-2019;29-11-2019;E. van der Linden;Parkpop 2020;62;Beekstraat
-22-11-2020;4-1-2021;6-12-2020;Y. van de Ven;Kerstmarkt 2018;19;Bem. Weerd OZ
-9-2-2020;29-7-2020;19-2-2020;I. Koning;Wegwerkzaamheden;31;Croeselaan
-10-11-2019;19-7-2020;24-11-2019;C. Vermeulen;Braderie;84;Kersstraat
-29-3-2017;29-5-2017;8-4-2017;E. Peeters;Parkpop 2019;64;Bellamystraat
-5-2-2020;27-9-2020;8-2-2020;L. van der Heyden;Braderie;36;Soesbergen 
-27-8-2018;18-3-2019;3-9-2018;J. Kuiper;Parkpop 2020;43;Wagenstraat
-26-5-2018;3-9-2018;4-6-2018;J. Willemsen;Wegwerkzaamheden;31;Kleine Eligensteeg
-17-5-2017;30-5-2017;26-5-2017;E. Willems;Begravenis;4;Weistraat
-25-7-2018;6-5-2019;30-7-2018;X. Smeets;Bruiloft;88;Tulpstraat
-5-10-2015;15-12-2015;14-10-2015;N. van de Brink;Wegwerkzaamheden;52;Leeuwstraat
-9-7-2019;30-10-2019;13-7-2019;A. Molenaar;Wegwerkzaamheden;37;Vereenigingdwarsstraat
-21-6-2015;10-3-2016;26-6-2015;I. Boer;Kerstmarkt 2018;49;Turfstraat
-28-2-2018;30-7-2018;3-3-2018;P. Kuiper;Bruiloft;7;Kweekstraat
-16-6-2020;31-10-2020;20-6-2020;B. Hermans;Wegwerkzaamheden;42;Zeilsteeg
-30-1-2016;21-5-2016;31-1-2016;N. Evers;Braderie;69;Rijnkade
-1-11-2015;7-7-2016;6-11-2015;P. Kuypers;Braderie;89;Pieterstraat
-8-4-2018;21-11-2018;19-4-2018;H. Smeets;Straatfeest;58;Tromstraat
-3-12-2019;4-7-2020;16-12-2019;P. van den Pol;Kerstmarkt 2018;90;Daelstraat
-18-12-2015;27-8-2016;28-12-2015;V. Bosch;Straatfeest;26;Teelingstraat
-25-3-2018;26-9-2018;31-3-2018;S. de Jong;Braderie;47;Padangstraat
-15-5-2016;25-10-2016;27-5-2016;F. Sanders;Parkpop 2020;86;Kockstraat
-5-10-2018;14-6-2019;6-10-2018;N. van de Berg;Parkpop 2020;32;Nicolaaskerkhof
-17-10-2016;4-4-2017;24-10-2016;L. Smits;Straatfeest;29;Hanengeschrei
-19-2-2018;13-7-2018;3-3-2018;V. de Groot;Begravenis;89;Koningspoort
-27-8-2017;24-4-2018;3-9-2017;Q. de Jong;Kerstmarkt 2018;35;Lange Smeestraat
-3-2-2017;12-3-2017;14-2-2017;I. van de Meer;Parkpop 2019;59;Mariastraat
-31-7-2017;4-5-2018;11-8-2017;B. Evers;Straatfeest;67;Hofstraat
-17-8-2018;3-4-2019;21-8-2018;L. de Haan;Parkpop 2020;25;Magdalenastraat
-10-6-2019;21-6-2019;19-6-2019;Y. Huisman;Kerstmarkt 2018;61;Markstraat
-2-7-2018;14-4-2019;17-7-2018;Y. Kuypers;Kerstmarkt 2018;25;Zakkendragersteeg
-25-9-2019;4-12-2019;8-10-2019;W. de Bruyn;Parkpop 2019;55;Diaconiepoort
-13-2-2018;31-3-2018;14-2-2018;U. van de Berg;Bruiloft;42;Ondiep
-20-6-2019;13-10-2019;2-7-2019;B. Willems;Wegwerkzaamheden;5;Wolfaartsteeg
-16-6-2020;3-12-2020;28-6-2020;X. van der Velden;Bruiloft;44;Springweg
-12-9-2019;12-2-2020;25-9-2019;J. Meijer;Braderie;86;Daalschedijk 2e
-23-7-2019;11-9-2019;2-8-2019;A. Willemsen;Bruiloft;55;hazelaarstraat
-3-1-2020;9-3-2020;13-1-2020;E. Kuiper;Begravenis;77;Kruitstraat
-9-5-2018;6-10-2018;18-5-2018;L. Peters;Braderie;65;Manenburg
-16-6-2015;18-3-2016;30-6-2015;Z. Mol;Wegwerkzaamheden;37;Bleijenburgkade
-2-10-2019;13-3-2020;9-10-2019;U. Wolters;Braderie;70;Joh. Camphuysstraat
-28-6-2019;4-8-2019;7-7-2019;O. Huisman;Bruiloft;29;Tuchthuisstraat
-22-9-2015;26-1-2016;24-9-2015;K. van Doorn;Begravenis;86;Jagerskade
-14-11-2018;21-2-2019;15-11-2018;W. Smits;Braderie;62;Wijckskade (van)
-7-5-2020;29-10-2020;19-5-2020;Y. van der Heyden;Parkpop 2019;24;Pietersplein
-27-9-2017;9-10-2017;4-10-2017;R. van der Horst;Straatfeest;36;Papaverstraat
-3-12-2019;26-4-2020;17-12-2019;K. van den Pol;Wegwerkzaamheden;87;Kersstraat
-27-8-2020;12-12-2020;28-8-2020;X. Post;Straatfeest;15;Dondersstraat (F.C.)
-16-12-2019;11-4-2020;23-12-2019;O. Willemsen;Braderie;12;Pelmolenweg
-19-12-2018;9-9-2019;23-12-2018;Q. Kuipers;Wegwerkzaamheden;29;Steenstraat
-20-8-2016;27-8-2016;24-8-2016;H. Koster;Kerstmarkt 2018;33;Neude
-8-11-2015;20-12-2015;12-11-2015;E. van de Brink;Parkpop 2019;83;Zonnenburg
-19-11-2020;23-7-2021;3-12-2020;H. van der Horst;Parkpop 2019;30;Kanaalstraat
-6-4-2018;25-9-2018;17-4-2018;K. van Veen;Parkpop 2019;38;Jansdam
-18-10-2015;19-5-2016;2-11-2015;Y. van Loon;Wegwerkzaamheden;3;Justus van Effenstraat
-2-2-2017;28-9-2017;16-2-2017;T. Bakker;Begravenis;54;Hoogeweidschedijk
-3-10-2018;20-6-2019;11-10-2018;U. van de Veen;Straatfeest;64;Grave van Solmsstraat
-2-11-2015;6-1-2016;5-11-2015;L. van Veen;Straatfeest;74;Domplein
-11-5-2016;21-5-2016;16-5-2016;Y. van den Pol;Wegwerkzaamheden;1;Kwakkeldijk
-1-5-2017;29-7-2017;4-5-2017;K. Kuipers;Parkpop 2019;20;Lange Smeestraat
-25-8-2017;5-3-2018;2-9-2017;A. Bos;Parkpop 2020;17;Brugstraat
-11-3-2019;13-4-2019;25-3-2019;A. Vink;Wegwerkzaamheden;5;Breedstraat
-31-12-2017;27-5-2018;9-1-2018;O. van der Linden;Parkpop 2019;14;Gietershof
-4-1-2019;6-10-2019;15-1-2019;R. Schouten;Bruiloft;88;Vinkenkade
-15-9-2019;10-4-2020;25-9-2019;D. van de Pol;Straatfeest;8;Braamstraat
-9-6-2015;7-11-2015;15-6-2015;G. Groen;Straatfeest;49;Jacobskerksteeg
-10-11-2016;13-8-2017;17-11-2016;G. Peeters;Parkpop 2020;81;Voetiusstraat
-23-3-2020;3-9-2020;1-4-2020;T. Driessen;Bruiloft;11;Walsteeg
-29-9-2017;18-7-2018;12-10-2017;T. Vos;Kerstmarkt 2018;90;Heemskerkstraat
-16-4-2018;11-6-2018;18-4-2018;O. Timmermans;Begravenis;51;Jasmijnstraat
-6-5-2019;16-11-2019;12-5-2019;Z. Martens;Begravenis;11;Pieter Saenredamstraat
-1-10-2016;1-1-2017;12-10-2016;O. Timmermans;Straatfeest;17;Oude Kamp
-28-12-2016;29-3-2017;12-1-2017;C. Gerritsen;Wegwerkzaamheden;31;Ridderschapstraat
-21-10-2018;13-6-2019;1-11-2018;A. Kuipers;Begravenis;9;Waterpoort
-24-11-2016;11-1-2017;28-11-2016;F. Gerritsen;Begravenis;51;Hemdsmouwsteeg
-5-7-2019;28-3-2020;12-7-2019;U. van de Velde;Braderie;87;Parkstraat
-17-2-2019;23-11-2019;18-2-2019;W. Kramer;Begravenis;57;Pieterskerkhof
-20-7-2017;14-2-2018;27-7-2017;O. van der Meer;Wegwerkzaamheden;17;Duifstraat
-29-9-2020;20-7-2021;7-10-2020;E. Huisman;Straatfeest;84;Leidsche Kade
-27-10-2017;29-10-2017;1-11-2017;W. van der Linden;Kerstmarkt 2018;34;Keizersgracht
-16-7-2020;29-9-2020;17-7-2020;B. de Jonge;Straatfeest;31;Maetsuijkerstraat
-2-6-2016;10-7-2016;8-6-2016;B. Peters;Kerstmarkt 2018;3;Pieterserf
-16-7-2017;5-1-2018;19-7-2017;T. van der Meer;Kerstmarkt 2018;25;Schoolplein
-24-12-2018;28-8-2019;29-12-2018;K. van Vliet;Parkpop 2019;75;Kroonhof
-26-1-2018;15-8-2018;3-2-2018;E. Kuijpers;Kerstmarkt 2018;77;Reestraat
-27-10-2020;24-5-2021;30-10-2020;J. van der Laan;Braderie;90;Vinkenburgstraat
-22-8-2015;22-3-2016;28-8-2015;J. Scholten;Parkpop 2020;69;Tolsteegbrug
-8-12-2018;2-5-2019;18-12-2018;E. van der Laan;Parkpop 2020;82;Catharijnesingel
-18-6-2019;22-7-2019;26-6-2019;D. Jacobs;Kerstmarkt 2018;22;Kindgenshaven
-3-2-2020;6-3-2020;14-2-2020;E. de Vos;Straatfeest;81;Noorderstraat
-11-1-2020;7-6-2020;25-1-2020;S. van der Laan;Kerstmarkt 2018;14;Lepelenburg
-9-9-2016;12-6-2017;13-9-2016;L. de Lange;Parkpop 2019;34;Joan van Oldenbarneveldtlaan
-11-10-2019;8-7-2020;25-10-2019;G. Meijer;Kerstmarkt 2018;50;Lange Viestraat
-23-8-2015;17-1-2016;30-8-2015;E. de Groot;Braderie;65;Schelpstraat
-26-3-2019;16-8-2019;6-4-2019;G. Vermeulen;Begravenis;4;Cellebroederstraat
-9-2-2017;25-2-2017;13-2-2017;Z. van der Ven;Parkpop 2019;42;Lakmoessteeg
-25-11-2017;10-4-2018;6-12-2017;S. van der Heijden;Parkpop 2019;66;Bellamystraat
-9-6-2020;22-12-2020;16-6-2020;A. Jacobs;Straatfeest;33;Kromme Rijn
-24-6-2020;15-3-2021;2-7-2020;M. de Koning;Kerstmarkt 2018;53;Leidsche Vaart
-17-11-2016;24-12-2016;24-11-2016;Z. Smits;Bruiloft;34;Braamstraat
-15-4-2020;21-6-2020;29-4-2020;I. van den Velden;Straatfeest;71;Zwaansteeg
-15-5-2019;25-7-2019;21-5-2019;G. van den Berg;Bruiloft;24;Lombokstraat
-6-7-2020;4-8-2020;16-7-2020;Y. van de Velde;Wegwerkzaamheden;37;Hofstraat
-1-7-2018;11-3-2019;16-7-2018;L. van der Laan;Straatfeest;73;Arkenspoort
-1-11-2018;17-5-2019;2-11-2018;K. van der Laan;Kerstmarkt 2018;67;Andreasstraat
-26-12-2019;5-7-2020;10-1-2020;H. Koster;Begravenis;41;Onder de Linden
-26-8-2016;28-9-2016;8-9-2016;R. Brouwer;Braderie;76;Lennepstraat
-18-10-2018;8-2-2019;24-10-2018;Y. van den Pol;Begravenis;72;Donkere Gaard
-21-2-2016;28-6-2016;23-2-2016;L. de Vos;Begravenis;40;Hertestraat
-18-4-2017;14-1-2018;29-4-2017;A. Vermeulen;Braderie;13;Riviersteeg
-14-9-2019;19-6-2020;26-9-2019;U. van der Meer;Kerstmarkt 2018;83;Imhoffstraat (van)
-2-11-2017;31-1-2018;4-11-2017;V. van Beek;Kerstmarkt 2018;29;Acht. De Koekoek
-21-11-2016;12-5-2017;23-11-2016;J. de Bruin;Parkpop 2019;60;Willem Barentzstraat
-22-1-2017;10-11-2017;30-1-2017;A. van de Veen;Parkpop 2019;13;Doornboomstraat
-29-7-2017;31-3-2018;8-8-2017;B. de Leeuw;Braderie;62;Jacobskerksteeg
-4-7-2020;8-1-2021;14-7-2020;I. de Koning;Begravenis;48;Oudwijkerveldstraat
-13-4-2016;23-4-2016;20-4-2016;R. Bosch;Straatfeest;48;Mineurslaan
-24-3-2019;1-9-2019;7-4-2019;J. Kuypers;Straatfeest;47;Tolsteegbrug
-2-10-2015;26-11-2015;6-10-2015;Z. Martens;Braderie;79;Daalschedijk 1e
-25-1-2019;17-2-2019;27-1-2019;E. Huisman;Kerstmarkt 2018;10;Sterrenhof
-28-6-2020;17-4-2021;5-7-2020;I. van der Velden;Kerstmarkt 2018;16;Horstdijk
-23-10-2016;29-11-2016;29-10-2016;G. van de Brink;Parkpop 2019;18;Bleijenburgkade
-9-3-2019;3-10-2019;20-3-2019;M. van Loon;Wegwerkzaamheden;33;Oude Kerkstraat
-11-10-2020;6-1-2021;12-10-2020;C. de Graaf;Kerstmarkt 2018;78;Iepstraat
-26-11-2015;25-3-2016;7-12-2015;S. Meijer;Bruiloft;50;Pasteurstraat
-23-5-2019;2-3-2020;3-6-2019;M. van der Heijden;Bruiloft;61;Hoogt
-13-6-2016;8-3-2017;23-6-2016;Y. Peeters;Begravenis;57;Gerard Doustraat
-25-12-2018;11-7-2019;2-1-2019;X. Schouten;Parkpop 2019;31;Grutterspoort
-13-7-2017;22-2-2018;14-7-2017;E. van der Heyden;Parkpop 2020;43;Zilversteeg
-6-9-2017;28-12-2017;8-9-2017;X. van Doorn;Parkpop 2020;28;Kindgenshaven
-15-5-2016;3-11-2016;25-5-2016;Z. de Wit;Kerstmarkt 2018;17;Jan Pietersz. Koenstraat
-13-8-2019;16-9-2019;28-8-2019;M. Jansen;Parkpop 2019;44;Kromme Rijn
-30-7-2015;26-11-2015;9-8-2015;S. Peeters;Parkpop 2019;55;Nieuwe Keizersgracht
-9-3-2018;21-12-2018;20-3-2018;P. Smit;Braderie;82;Catharijnekade
-10-9-2019;16-10-2019;23-9-2019;K. Scholten;Bruiloft;80;Magdalenastraat
-28-7-2018;2-2-2019;8-8-2018;W. Postma;Parkpop 2020;71;Paijenborgsteeg
-5-11-2020;22-2-2021;11-11-2020;J. Kramer;Wegwerkzaamheden;33;Voetiusstraat
-4-11-2017;10-5-2018;18-11-2017;I. Molenaar;Parkpop 2019;45;Brugstraat
-3-7-2017;12-7-2017;16-7-2017;D. van den Velden;Bruiloft;85;Lombardpoort
-15-7-2018;10-11-2018;20-7-2018;K. Hendriks;Kerstmarkt 2018;41;Lijnpadsteeg
-13-6-2019;11-7-2019;28-6-2019;X. de Bruijn;Wegwerkzaamheden;27;Knipstraat
-11-8-2019;8-2-2020;26-8-2019;N. de Koning;Parkpop 2020;27;Leuninggang
-23-5-2017;4-8-2017;29-5-2017;Z. Mulder;Begravenis;56;Waterpoort
-12-8-2015;14-8-2015;26-8-2015;P. Jansen;Parkpop 2019;21;Leidsche Weg
-13-2-2016;9-9-2016;22-2-2016;I. Wolters;Parkpop 2020;17;Laan van Croes
-8-7-2019;9-8-2019;12-7-2019;S. Dijkstra;Parkpop 2020;87;Ezelsdijk
-17-8-2017;30-9-2017;27-8-2017;G. van der Pol;Bruiloft;19;Groote Eligensteeg
-22-4-2017;27-11-2017;25-4-2017;K. van de Brink;Straatfeest;84;Diaconiepoort
-23-4-2018;5-8-2018;6-5-2018;I. van de Berg;Wegwerkzaamheden;34;Bem. Weerd OZ
-24-2-2020;16-6-2020;4-3-2020;B. Schouten;Kerstmarkt 2018;81;Bleekerskade
-23-8-2016;18-3-2017;26-8-2016;F. van der Veen;Straatfeest;33;Koningsweg
-20-8-2019;24-8-2019;4-9-2019;H. Bosman;Bruiloft;12;Westerdijk
-7-11-2015;1-2-2016;9-11-2015;R. de Vries;Bruiloft;71;Vinkenbuurt
-27-7-2015;21-8-2015;3-8-2015;P. Peters;Bruiloft;62;Breedstraat
-7-1-2019;16-9-2019;10-1-2019;F. van der Linden;Parkpop 2019;13;Takstraat
-2-12-2019;16-6-2020;7-12-2019;K. Hofman;Straatfeest;82;Lanceepoort
-17-10-2017;11-6-2018;28-10-2017;X. Hoekstra;Begravenis;89;Jodenrijtje
-23-10-2019;29-11-2019;25-10-2019;F. van der Linden;Wegwerkzaamheden;2;Willemstraat
-6-12-2015;9-7-2016;7-12-2015;N. van de Brink;Straatfeest;38;Boothstraat
-22-4-2017;4-9-2017;7-5-2017;T. Hendriks;Parkpop 2019;46;Minutensteeg
-20-1-2019;25-6-2019;30-1-2019;J. Kuiper;Wegwerkzaamheden;24;Kaatstraat
-27-12-2019;18-8-2020;6-1-2020;Y. Sanders;Bruiloft;34;Westerdijk
-14-8-2018;28-9-2018;22-8-2018;V. Dijkstra;Parkpop 2019;56;Oude Daelstraat
-10-9-2020;10-1-2021;17-9-2020;N. Veenstra;Kerstmarkt 2018;80;Veensteeg
-15-9-2017;16-11-2017;17-9-2017;W. van der Meer;Bruiloft;45;Jodenrijtje
-2-10-2020;9-7-2021;6-10-2020;X. van der Velden;Parkpop 2020;50;Vlasstraat
-16-5-2019;22-10-2019;24-5-2019;R. Meyer;Braderie;81;Stationsdwarsstraat
-26-4-2018;5-7-2018;1-5-2018;A. Vink;Parkpop 2020;90;Floris Heermalestraat
-17-10-2018;29-3-2019;24-10-2018;U. de Vos;Straatfeest;78;Riviersteeg
-4-10-2015;17-4-2016;17-10-2015;R. Postma;Bruiloft;56;Spechtstraat 1e
-8-6-2019;4-7-2019;10-6-2019;C. Vos;Braderie;46;Minutensteeg
-19-6-2017;24-12-2017;25-6-2017;L. de Vos;Wegwerkzaamheden;19;Boterstraat
-6-5-2017;2-6-2017;19-5-2017;K. de Jong;Begravenis;60;Pausdam
-11-4-2017;29-12-2017;14-4-2017;S. Meijer;Bruiloft;87;Moesstraat
-26-9-2015;5-10-2015;1-10-2015;K. de Boer;Braderie;3;Kruisstraat
-16-4-2018;22-6-2018;21-4-2018;L. de Lange;Kerstmarkt 2018;34;Loevenhout. Dijk
-16-8-2015;27-2-2016;18-8-2015;R. van der Heijden;Begravenis;17;Koningstraat
-27-2-2018;29-3-2018;5-3-2018;W. van Dongen;Parkpop 2020;20;Buurkerkhof
-29-12-2019;26-2-2020;31-12-2019;K. van der Heijden;Kerstmarkt 2018;1;Blauwsteeg
-5-2-2018;19-4-2018;9-2-2018;T. Martens;Parkpop 2019;49;Catharijnesingel
-30-5-2019;19-11-2019;31-5-2019;G. van der Meulen;Kerstmarkt 2018;22;Leeuwstraat
-25-7-2017;24-9-2017;26-7-2017;K. Molenaar;Wegwerkzaamheden;22;Violenstraat
-14-4-2016;25-11-2016;16-4-2016;X. van de Berg;Begravenis;26;Begijnekade
-21-1-2020;26-4-2020;1-2-2020;P. van Veen;Straatfeest;48;Kievitdwarsstraat
-26-3-2017;18-6-2017;5-4-2017;U. de Haan;Parkpop 2019;49;Beukstraat
-12-2-2019;8-3-2019;13-2-2019;F. Martens;Parkpop 2019;56;Violenstraat
-6-6-2015;25-6-2015;17-6-2015;B. de Jong;Kerstmarkt 2018;5;Concordiastraat
-15-8-2016;7-10-2016;20-8-2016;Q. van der Velde;Parkpop 2020;48;Koolstraat
-22-8-2015;21-4-2016;24-8-2015;U. Kramer;Wegwerkzaamheden;8;Kleine Eligensteeg
-9-2-2018;31-10-2018;21-2-2018;X. van de Velde;Straatfeest;90;Hennipstraat
-29-4-2020;13-10-2020;1-5-2020;S. de Lange;Parkpop 2020;71;Brugstraat
-4-8-2016;2-2-2017;14-8-2016;W. van de Veen;Begravenis;42;Kerkstraat
-1-8-2017;24-10-2017;15-8-2017;U. van Wijk;Parkpop 2020;69;Blauwsteeg
-5-12-2016;19-6-2017;8-12-2016;N. van den Pol;Straatfeest;69;Kuipersteeg
-11-11-2020;10-8-2021;12-11-2020;S. van Veen;Kerstmarkt 2018;14;Sterrebosch
-5-4-2020;6-11-2020;20-4-2020;P. van Doorn;Begravenis;52;Varkenmarkt
-9-3-2020;20-7-2020;18-3-2020;U. de Lange;Parkpop 2019;60;Joh. Camphuysstraat
-1-1-2019;24-2-2019;11-1-2019;U. van der Wal;Braderie;87;Beverstraat
-16-12-2017;16-4-2018;31-12-2017;W. Koster;Parkpop 2019;63;Kraanstraat
-15-12-2019;17-8-2020;21-12-2019;Q. Smit;Wegwerkzaamheden;62;Fabriekstraat
-22-8-2017;26-10-2017;23-8-2017;R. Meijer;Begravenis;87;Ganzenmarkt
-7-11-2017;24-12-2017;12-11-2017;S. Postma;Straatfeest;40;Koningspoort
-16-8-2018;27-12-2018;20-8-2018;P. Vermeulen;Parkpop 2019;77;Kaatstraat
-13-2-2018;12-3-2018;23-2-2018;V. Prins;Wegwerkzaamheden;2;Kievitdwarsstraat
-26-9-2020;12-10-2020;30-9-2020;R. van der Veen;Parkpop 2020;65;Pieterskerkhof
-24-7-2020;19-11-2020;26-7-2020;E. Peeters;Bruiloft;7;Mineurslaan
-14-10-2020;22-6-2021;29-10-2020;O. Mol;Braderie;11;Bleijenburgkade
-12-4-2018;6-10-2018;15-4-2018;V. van den Broek;Bruiloft;36;Bleekerstraat
-1-4-2017;24-10-2017;9-4-2017;W. de Ruiter;Straatfeest;27;Geertestraat
-10-1-2020;13-9-2020;14-1-2020;T. Mulder;Wegwerkzaamheden;42;Jacobssteeg
-18-12-2018;3-7-2019;22-12-2018;B. Huisman;Begravenis;15;Tolsteegsingel O.Z.
-17-11-2020;7-8-2021;28-11-2020;V. van der Velde;Parkpop 2019;1;Beekstraat
-10-4-2019;15-6-2019;20-4-2019;H. de Bruin;Kerstmarkt 2018;65;Goudsbloemstraat
-28-5-2018;21-11-2018;7-6-2018;S. Maas;Kerstmarkt 2018;29;Leuninggang
-11-9-2019;9-6-2020;20-9-2019;X. Kuipers;Begravenis;18;Brugstraat
-30-8-2020;16-6-2021;9-9-2020;G. Schouten;Braderie;44;Domplein
-21-7-2016;3-1-2017;5-8-2016;S. van den Heuvel;Straatfeest;73;Maetsuijkerstraat
-6-6-2015;16-9-2015;12-6-2015;F. Kuiper;Straatfeest;48;Sweelinckstraat
-5-5-2019;5-6-2019;16-5-2019;Y. van der Berg;Parkpop 2020;23;Kogelsteeg
-14-12-2017;24-1-2018;25-12-2017;C. Scholten;Straatfeest;67;Pelmolenweg
-27-5-2020;25-8-2020;2-6-2020;W. van Wijk;Braderie;90;Wilhelmina Park
-14-5-2016;3-11-2016;15-5-2016;R. Peeters;Kerstmarkt 2018;78;Achterstraat 2e
-20-2-2017;17-6-2017;28-2-2017;K. van der Heyden;Kerstmarkt 2018;20;M.H. Trompstraat
-16-7-2019;4-9-2019;28-7-2019;R. Mol;Kerstmarkt 2018;72;Iepstraat
-10-6-2015;11-12-2015;22-6-2015;A. Prins;Wegwerkzaamheden;82;Kromme Rijn
-21-11-2016;16-1-2017;1-12-2016;J. van der Laan;Kerstmarkt 2018;50;Groeneweg
-24-8-2019;30-8-2019;29-8-2019;K. van Vliet;Braderie;79;Brakelstraat (van)
-17-7-2015;17-1-2016;26-7-2015;F. van der Meulen;Begravenis;41;Bremstraat
-22-10-2016;24-2-2017;4-11-2016;P. de Boer;Wegwerkzaamheden;76;Rijndijk
-15-4-2018;19-9-2018;22-4-2018;R. van de Veen;Bruiloft;42;Lamstraat
-26-9-2016;15-6-2017;28-9-2016;J. van de Ven;Braderie;8;Baarssteeg
-8-8-2016;15-5-2017;16-8-2016;A. van der Heyden;Kerstmarkt 2018;90;Hoogstraat
-28-7-2019;18-3-2020;1-8-2019;Z. van Loon;Begravenis;44;Kraanstraat
-22-9-2020;20-5-2021;26-9-2020;C. Kuipers;Bruiloft;43;Corn. Evertsenstraat
-16-4-2017;29-11-2017;24-4-2017;F. van de Velde;Kerstmarkt 2018;30;Wolvenplein
-9-12-2019;1-1-2020;22-12-2019;F. Veenstra;Parkpop 2020;15;Hoogelanden WZ
-27-12-2019;25-7-2020;3-1-2020;Y. Hermans;Braderie;13;Schutstraat
-10-7-2019;5-11-2019;13-7-2019;Q. van de Berg;Parkpop 2019;20;Bijlhouwerstraat
-8-9-2020;13-12-2020;9-9-2020;S. Hoekstra;Wegwerkzaamheden;49;Boomstraat
-9-3-2017;23-11-2017;16-3-2017;A. Kuypers;Bruiloft;23;Hoogt
-20-7-2016;26-4-2017;2-8-2016;W. Kramer;Begravenis;42;Keizersgracht
-7-8-2016;25-2-2017;11-8-2016;Q. Timmermans;Braderie;89;Frederik Hendrikstraat
-21-11-2017;14-4-2018;4-12-2017;R. van de Velden;Kerstmarkt 2018;40;Fockstraat
-25-6-2018;26-10-2018;7-7-2018;O. van den Pol;Bruiloft;42;Vinkenburgstraat
-16-1-2018;21-1-2018;31-1-2018;B. de Jong;Braderie;81;Molenwerfsteeg
-11-2-2019;5-7-2019;15-2-2019;N. van Doorn;Straatfeest;90;Vereenigingdwarsstraat
-28-1-2016;23-4-2016;6-2-2016;L. Mulder;Straatfeest;90;Lepelenburg
-2-6-2017;4-11-2017;11-6-2017;U. van den Velde;Parkpop 2019;68;Begijnekade
-22-10-2020;27-10-2020;28-10-2020;O. van den Berg;Wegwerkzaamheden;31;Rotsoord
-25-10-2016;18-3-2017;2-11-2016;J. Huisman;Wegwerkzaamheden;1;Schoolplein
-6-4-2019;17-11-2019;21-4-2019;U. Boer;Parkpop 2020;20;Lange Hamstraat
-19-10-2019;27-10-2019;20-10-2019;C. Gerritsen;Begravenis;1;Baansteeg 2e
-2-8-2018;30-12-2018;14-8-2018;C. Blom;Parkpop 2019;78;Kroonsteeg
-18-1-2019;6-10-2019;1-2-2019;H. van den Brink;Braderie;26;Nicolaaskerkhof
-30-5-2020;10-3-2021;3-6-2020;R. van de Pol;Bruiloft;21;Keistraat
-12-4-2017;4-10-2017;21-4-2017;T. van Vliet;Parkpop 2020;17;Adriaanstraat
-12-6-2016;30-7-2016;27-6-2016;Q. de Ruiter;Parkpop 2019;40;Lombardpoort
-22-12-2019;9-9-2020;6-1-2020;G. Kramer;Parkpop 2020;35;Kolfstraat
-26-12-2015;29-1-2016;30-12-2015;H. Visser;Parkpop 2020;85;Lange Koestraat
-13-5-2018;19-6-2018;27-5-2018;U. van Beek;Wegwerkzaamheden;70;Dadelstraat
-17-7-2020;30-12-2020;27-7-2020;U. de Jong;Parkpop 2019;66;Catharijnesingel
-30-10-2015;1-6-2016;12-11-2015;N. de Bruyn;Braderie;62;Kroonstraat
-25-3-2020;25-8-2020;1-4-2020;B. van der Berg;Begravenis;69;Lange Viestraat
-18-10-2019;4-2-2020;27-10-2019;Q. van Doorn;Parkpop 2019;76;Kruisstraat
-27-10-2016;28-1-2017;1-11-2016;F. de Vries;Kerstmarkt 2018;13;Begijnesteeg 1e
-30-3-2016;26-5-2016;3-4-2016;J. Schipper;Braderie;77;Grietstraat
-19-8-2016;18-2-2017;23-8-2016;B. van Wijk;Bruiloft;75;Wilgstraat
-29-6-2019;17-7-2019;3-7-2019;P. Janssen;Braderie;23;Palmstraat
-28-6-2020;15-9-2020;1-7-2020;W. de Ruiter;Parkpop 2019;25;Vredeplaats
-5-3-2017;10-6-2017;6-3-2017;R. van den Pol;Parkpop 2020;18;Iepstraat
-15-11-2019;25-4-2020;23-11-2019;T. de Haan;Braderie;10;Oosterstraat
-15-3-2017;3-7-2017;30-3-2017;F. Kuypers;Parkpop 2019;23;Abstederdijk
-10-6-2017;2-9-2017;15-6-2017;K. Veenstra;Wegwerkzaamheden;79;Nicolaasdwarsstraat
-3-1-2019;15-7-2019;8-1-2019;M. Timmermans;Straatfeest;73;Sterrenhof
-4-8-2019;23-4-2020;19-8-2019;C. van der Berg;Parkpop 2020;58;Grasstraat
-17-1-2019;19-9-2019;19-1-2019;J. de Bruyn;Straatfeest;12;Vinkenkade
-28-6-2017;21-12-2017;7-7-2017;D. Hendriks;Bruiloft;53;Weistraat
-30-9-2016;13-6-2017;1-10-2016;I. Brouwer;Straatfeest;68;Hovenstraat
-3-5-2019;1-7-2019;5-5-2019;K. van der Velden;Straatfeest;33;Jan Houtmanstraat
-13-1-2016;14-4-2016;24-1-2016;X. van den Bosch;Parkpop 2020;80;Kapelstraat
-18-8-2016;17-10-2016;31-8-2016;E. de Groot;Begravenis;65;Achter Twijnstraat
-16-6-2018;17-1-2019;28-6-2018;J. Vink;Straatfeest;5;Goudsbloemstraat
-15-7-2018;10-9-2018;22-7-2018;G. van der Veen;Braderie;70;Groote Eligensteeg
-7-9-2017;17-11-2017;10-9-2017;J. van Doorn;Begravenis;85;Amaliadwarsstraat
-9-2-2017;30-5-2017;14-2-2017;V. van de Veen;Braderie;40;Rijnstraat
-30-9-2019;18-3-2020;6-10-2019;H. de Bruin;Parkpop 2019;27;Wolfstraat
-19-5-2019;7-11-2019;26-5-2019;G. Kramer;Kerstmarkt 2018;36;Lageweidsche dijk
-6-10-2018;9-6-2019;19-10-2018;F. Vink;Braderie;5;Voorstraat
-9-9-2019;22-10-2019;20-9-2019;R. Schipper;Bruiloft;16;Goudsbloemstraat
-27-3-2018;6-8-2018;6-4-2018;D. van der Berg;Bruiloft;7;Pieter Bothstraat
-5-12-2019;31-5-2020;11-12-2019;T. van Veen;Wegwerkzaamheden;28;Kerkstraat
-10-1-2016;27-6-2016;20-1-2016;J. Kuiper;Parkpop 2019;76;Loefbergmakerstraat
-12-10-2019;29-7-2020;22-10-2019;O. van den Heuvel;Parkpop 2019;8;Elijnshof
-19-8-2019;25-11-2019;26-8-2019;W. van der Ven;Begravenis;17;Minrebroederstraat
-14-8-2019;3-5-2020;17-8-2019;K. Jonker;Parkpop 2020;24;Sionskameren
-8-7-2020;21-4-2021;11-7-2020;F. Scholten;Wegwerkzaamheden;30;Pelmolenweg
-29-9-2016;7-4-2017;9-10-2016;V. Verhoeven;Wegwerkzaamheden;66;Blauwsteeg
-10-7-2019;18-1-2020;19-7-2019;I. van der Berg;Parkpop 2019;36;Kolfstraat
-10-10-2017;18-4-2018;11-10-2017;P. Koning;Parkpop 2019;64;Jachtstraat
-2-12-2017;8-4-2018;10-12-2017;R. Jansen;Wegwerkzaamheden;9;Koekoekstraat
-18-9-2020;14-4-2021;2-10-2020;H. Driessen;Bruiloft;68;Brinkhof
-10-12-2016;20-8-2017;11-12-2016;F. van der Berg;Bruiloft;30;Wittevrouwenkade
-29-7-2016;13-3-2017;13-8-2016;N. Vos;Parkpop 2020;63;Lange Rietsteeg
-17-4-2016;28-7-2016;28-4-2016;M. Bos;Begravenis;58;Nicolaas Beetsstraat
-19-11-2018;16-12-2018;4-12-2018;P. Post;Begravenis;52;Steenstraat
-4-3-2018;19-5-2018;19-3-2018;E. van den Bosch;Bruiloft;89;Baansteeg 2e
-9-4-2016;30-7-2016;19-4-2016;B. van de Wal;Straatfeest;60;Reestraat
-6-9-2019;14-12-2019;19-9-2019;W. van Dam;Parkpop 2019;85;Asterstraat
-25-3-2016;27-3-2016;28-3-2016;Z. van de Ven;Bruiloft;47;Frederikastraat
-15-5-2016;18-2-2017;16-5-2016;S. Hoekstra;Straatfeest;7;Hoogeweidschedijk
-20-4-2020;13-9-2020;29-4-2020;Y. Mulder;Wegwerkzaamheden;25;Leuningsteeg
-13-3-2017;19-7-2017;19-3-2017;K. van Vliet;Braderie;19;Oosterkade
-7-4-2019;29-7-2019;14-4-2019;S. Meyer;Parkpop 2019;33;Paardesteeg
-28-3-2018;17-11-2018;30-3-2018;J. van Beek;Begravenis;18;Paardesteeg
-22-3-2019;27-12-2019;30-3-2019;A. Postma;Wegwerkzaamheden;11;Buurkerksteeg 3e
-30-8-2016;18-10-2016;8-9-2016;C. Blom;Begravenis;88;Baansteeg 1e
-2-7-2017;14-1-2018;3-7-2017;W. van Beek;Bruiloft;33;Zuilensteeg
-17-7-2015;15-1-2016;19-7-2015;O. Mol;Braderie;78;Westerkade
-30-12-2017;22-8-2018;13-1-2018;Y. Verhoeven;Wegwerkzaamheden;7;Blokstraat
-22-11-2015;6-8-2016;30-11-2015;W. Janssen;Kerstmarkt 2018;13;Oudegracht (Weerd)
-14-12-2018;14-6-2019;16-12-2018;Y. de Groot;Parkpop 2019;51;Billitonstraat
-10-10-2015;10-1-2016;16-10-2015;T. van Veen;Straatfeest;78;Waterstraat
-26-10-2016;10-3-2017;6-11-2016;O. Bosman;Braderie;14;Brouwerstraat
-11-6-2017;3-2-2018;20-6-2017;I. van de Velden;Braderie;16;Speykstraat (van)
-3-11-2015;27-4-2016;4-11-2015;F. van de Brink;Braderie;14;Kruisweg
-20-8-2019;30-9-2019;1-9-2019;R. van der Heijden;Braderie;46;Kleine Eligensteeg
-11-3-2020;14-4-2020;19-3-2020;J. Blom;Straatfeest;72;Croesestraat
-3-5-2018;30-7-2018;16-5-2018;A. van de Wal;Begravenis;65;Borneostraat
-2-9-2017;16-1-2018;11-9-2017;J. van Doorn;Braderie;50;Prooststraat
-13-2-2020;29-10-2020;27-2-2020;H. Timmermans;Parkpop 2019;15;Gansstraat
-28-8-2016;27-11-2016;5-9-2016;T. Meyer;Begravenis;63;Visschersplein
-25-10-2018;9-1-2019;5-11-2018;S. de Jonge;Wegwerkzaamheden;24;Otterstraat
-11-7-2019;25-4-2020;25-7-2019;O. Martens;Parkpop 2020;17;Duifstraat
-6-3-2019;31-10-2019;13-3-2019;M. Gerritsen;Kerstmarkt 2018;2;Vosstraat
-11-7-2018;18-4-2019;17-7-2018;B. Peeters;Parkpop 2019;41;Servaaspark
-6-2-2019;10-3-2019;14-2-2019;Y. van Beek;Straatfeest;89;Riemstraat
-30-5-2020;11-7-2020;6-6-2020;X. Hoekstra;Bruiloft;34;M.H. Trompstraat
-28-7-2018;15-2-2019;1-8-2018;B. Kuijpers;Begravenis;24;Vereenigingstraat
-13-2-2019;16-5-2019;21-2-2019;Z. de Bruin;Kerstmarkt 2018;55;Bremstraat
-22-4-2020;29-11-2020;6-5-2020;I. van den Bosch;Parkpop 2020;51;Pieterstraat
-13-1-2016;22-8-2016;14-1-2016;I. de Koning;Parkpop 2020;79;Emmalaan
-9-8-2020;30-12-2020;12-8-2020;C. Kuijpers;Parkpop 2019;50;Paardenveld
-9-2-2017;14-7-2017;18-2-2017;T. van der Linden;Begravenis;77;Zandpad
-9-12-2018;25-8-2019;24-12-2018;N. de Ruiter;Bruiloft;12;Stadhuisbrug
-25-6-2020;1-9-2020;28-6-2020;T. van den Broek;Kerstmarkt 2018;34;Sterrenburg
-21-6-2018;13-12-2018;27-6-2018;T. van der Wal;Wegwerkzaamheden;33;Otterstraat
-21-8-2016;14-12-2016;24-8-2016;F. de Koning;Begravenis;70;Corn. Evertsenstraat
-31-1-2018;24-11-2018;15-2-2018;V. van Loon;Begravenis;52;Oudkerkhof
-2-3-2020;1-11-2020;17-3-2020;W. van den Velden;Bruiloft;29;Sterrenburg
-6-4-2020;29-9-2020;21-4-2020;R. Kuipers;Wegwerkzaamheden;61;Haagstraat
-18-12-2018;29-4-2019;1-1-2019;F. Groen;Straatfeest;76;Hofje van Zessen
-26-12-2019;22-1-2020;30-12-2019;V. Dijkstra;Braderie;22;Gansstraat
-18-11-2020;19-3-2021;24-11-2020;Y. van der Pol;Begravenis;32;Ambachtstraat
-23-3-2017;11-6-2017;28-3-2017;N. van den Pol;Straatfeest;18;Bleijenburgkade
-24-5-2016;16-2-2017;7-6-2016;K. de Lange;Kerstmarkt 2018;6;Groeneweg
-18-7-2015;8-5-2016;27-7-2015;W. Schipper;Kerstmarkt 2018;78;Brandsteeg
-1-5-2019;31-8-2019;6-5-2019;E. Koning;Straatfeest;26;Blokstraat
-4-2-2016;25-8-2016;9-2-2016;U. Post;Bruiloft;69;Nauwe Muntsteeg
-24-9-2019;19-12-2019;4-10-2019;Q. Vink;Bruiloft;31;Diemenstraat
-5-2-2018;6-2-2018;14-2-2018;P. van der Horst;Bruiloft;73;Griftstraat
-14-1-2019;23-1-2019;21-1-2019;L. Smeets;Wegwerkzaamheden;12;Daendelsstraat
+7-8-2016;31-12-2016;11-8-2016;M. Martens;Parkpop 2019;84;Spijkerdwarsstraat,
+17-10-2015;17-4-2016;22-10-2015;P. de Graaf;Kerstmarkt 2018;44;Pallaesstraat,
+2-9-2017;26-3-2018;9-9-2017;L. Schipper;Begravenis;61;Antoniedijk,
+2-8-2015;17-1-2016;7-8-2015;O. de Ruiter;Straatfeest;19;Achter den Dom,
+14-11-2017;5-6-2018;22-11-2017;S. van de Velde;Braderie;23;Visschersplein,
+26-11-2017;18-2-2018;11-12-2017;R. van Dongen;Straatfeest;1;Korte Smeestraat,
+7-10-2019;2-11-2019;16-10-2019;L. de Boer;Straatfeest;38;Westerdijk,
+13-7-2017;11-11-2017;24-7-2017;Q. Wolters;Wegwerkzaamheden;49;Wijckstraat (van),
+12-9-2018;1-3-2019;16-9-2018;M. Kramer;Braderie;5;Begijnekade,
+7-9-2020;21-9-2020;10-9-2020;M. Huisman;Kerstmarkt 2018;73;Jacobssteeg,
+10-2-2018;5-8-2018;24-2-2018;H. Smits;Parkpop 2020;82;Begijnesteeg 2e,
+15-8-2017;11-10-2017;22-8-2017;B. van Dongen;Bruiloft;7;Dorstige-hartsteeg,
+27-8-2020;1-3-2021;1-9-2020;E. de Jong;Parkpop 2019;32;Suikerstraat,
+8-8-2015;27-4-2016;22-8-2015;B. Jansen;Straatfeest;73;Burgstraat,
+13-4-2018;30-7-2018;25-4-2018;W. Sanders;Straatfeest;21;Zeilsteeg,
+19-5-2018;6-9-2018;22-5-2018;P. de Ruiter;Parkpop 2019;60;Grutterspoort,
+15-1-2018;6-6-2018;17-1-2018;J. Mol;Bruiloft;35;Achter St. Pieter,
+29-10-2015;22-2-2016;2-11-2015;T. Bosch;Parkpop 2019;24;Nieuwe Kamp,
+30-9-2017;31-10-2017;14-10-2017;C. Smeets;Braderie;50;Wolfstraat,
+26-9-2016;17-3-2017;6-10-2016;S. Blom;Bruiloft;77;Kruitstraat,
+7-7-2017;15-8-2017;12-7-2017;K. de Vos;Kerstmarkt 2018;38;Wagenstraat,
+5-11-2019;27-3-2020;10-11-2019;M. Huisman;Straatfeest;9;Vredenburg,
+10-4-2016;21-4-2016;12-4-2016;E. Gerritsen;Bruiloft;80;Waterpoort,
+4-12-2015;27-12-2015;7-12-2015;K. de Ruiter;Begravenis;66;Nieuwe Koekoekstraat,
+1-6-2016;11-6-2016;10-6-2016;G. van der Horst;Kerstmarkt 2018;32;Hovenstraat,
+13-3-2016;26-11-2016;15-3-2016;F. de Ruiter;Kerstmarkt 2018;2;Lamstraat,
+27-12-2018;13-5-2019;28-12-2018;A. van der Heijden;Begravenis;79;Waterpoort,
+2-2-2017;29-10-2017;15-2-2017;Q. Driessen;Begravenis;53;Hamburgerstraat,
+5-8-2017;25-4-2018;11-8-2017;N. Scholten;Begravenis;74;Pieterseliesteegje,
+25-10-2017;19-6-2018;31-10-2017;U. van der Heijden;Straatfeest;46;Bankstraat,
+23-8-2015;15-4-2016;2-9-2015;H. de Boer;Wegwerkzaamheden;21;Munsterkerkhof,
+22-5-2016;19-11-2016;28-5-2016;F. Willems;Kerstmarkt 2018;61;Pausdam,
+15-2-2019;21-2-2019;25-2-2019;W. Postma;Kerstmarkt 2018;21;Keizerspoort,
+10-11-2020;15-2-2021;25-11-2020;K. de Ruiter;Wegwerkzaamheden;50;Otterstraat,
+1-8-2016;23-11-2016;14-8-2016;O. Visser;Straatfeest;83;Oranjehofje,
+29-8-2019;28-3-2020;4-9-2019;P. van de Berg;Parkpop 2020;16;Zoutmarkt,
+27-11-2017;4-9-2018;6-12-2017;Y. van der Laan;Braderie;84;Oudwijkerlaan,
+10-6-2020;16-9-2020;18-6-2020;Q. de Ruiter;Parkpop 2020;6;Visschersplein,
+16-10-2019;11-2-2020;22-10-2019;J. Verhoeven;Braderie;61;Lucas Bolwerk,
+21-5-2017;19-7-2017;22-5-2017;R. Gerritsen;Wegwerkzaamheden;53;Narcisstraat,
+15-3-2019;7-12-2019;29-3-2019;X. Driessen;Parkpop 2020;88;Jeruzalemsteeg,
+19-1-2019;24-7-2019;23-1-2019;A. de Leeuw;Braderie;35;Neude,
+21-5-2018;31-10-2018;1-6-2018;K. de Wit;Begravenis;71;Buys Ballotstraat,
+27-6-2015;18-4-2016;5-7-2015;Z. Wolters;Kerstmarkt 2018;90;Drakenburgsteeg,
+6-2-2018;14-5-2018;18-2-2018;N. van Beek;Wegwerkzaamheden;33;Brugstraat,
+7-1-2016;27-7-2016;21-1-2016;T. de Jong;Begravenis;14;Weistraat,
+15-2-2016;5-6-2016;16-2-2016;P. Hendriks;Parkpop 2019;72;Knopstraat,
+5-7-2017;6-9-2017;15-7-2017;B. van Dijk;Bruiloft;69;Schelpstraat,
+14-11-2019;28-11-2019;26-11-2019;W. van de Ven;Braderie;32;Dondersstraat (F.C.),
+4-2-2017;14-9-2017;9-2-2017;O. Kuijpers;Bruiloft;56;Brakelstraat (van),
+13-8-2018;28-5-2019;25-8-2018;G. de Wit;Braderie;33;Hanengeschrei,
+29-2-2016;20-5-2016;6-3-2016;K. de Graaf;Parkpop 2020;57;Pijlsweertstraat,
+22-6-2019;18-1-2020;5-7-2019;E. de Koning;Braderie;73;Grave van Solmsstraat,
+26-8-2018;22-3-2019;27-8-2018;H. van Dongen;Kerstmarkt 2018;22;Hieronymusplein,
+15-2-2019;5-10-2019;1-3-2019;Q. Schouten;Bruiloft;57;Vijfzusterpoort,
+12-4-2017;24-6-2017;14-4-2017;Z. de Graaf;Wegwerkzaamheden;47;Muntsteeg,
+31-1-2019;23-10-2019;1-2-2019;O. de Jonge;Braderie;83;Pasteurstraat,
+20-6-2015;8-7-2015;24-6-2015;B. Prins;Braderie;41;Korte Hamsteeg,
+25-4-2019;3-6-2019;4-5-2019;A. van de Meer;Parkpop 2019;59;Leeuwstraat,
+14-9-2020;29-5-2021;28-9-2020;P. Bosch;Straatfeest;41;Justus van Effenstraat,
+12-10-2016;13-1-2017;19-10-2016;U. van de Brink;Wegwerkzaamheden;68;Neude,
+9-9-2017;10-9-2017;12-9-2017;T. Hermans;Begravenis;7;Sweelinckstraat,
+25-12-2015;7-5-2016;4-1-2016;G. van den Brink;Parkpop 2019;85;Oranjepark,
+9-1-2017;26-6-2017;21-1-2017;P. Hermans;Begravenis;3;Kievitdwarsstraat,
+27-5-2018;18-10-2018;9-6-2018;X. de Groot;Parkpop 2019;28;Bleijenburgkade,
+15-2-2016;3-8-2016;29-2-2016;P. van der Wal;Braderie;5;Floris Heermalestraat,
+22-11-2018;1-9-2019;24-11-2018;O. van de Veen;Parkpop 2020;18;Achterstraat 2e,
+27-8-2019;21-5-2020;7-9-2019;F. Vos;Bruiloft;55;Jeruzalemsteeg,
+16-12-2018;16-5-2019;25-12-2018;Z. de Jong;Begravenis;17;Zwaansteeg,
+17-5-2018;9-11-2018;27-5-2018;O. de Ruiter;Straatfeest;73;Bekkerstraat,
+12-8-2018;19-8-2018;14-8-2018;S. Hermans;Kerstmarkt 2018;10;Grutterspoort,
+8-10-2015;2-5-2016;21-10-2015;M. Maas;Straatfeest;66;Obrechtstraat,
+5-5-2016;12-11-2016;13-5-2016;W. Smeets;Begravenis;71;Hoenderstraat,
+2-11-2018;24-11-2018;9-11-2018;G. van den Broek;Braderie;52;Badstraat,
+17-3-2016;16-10-2016;24-3-2016;N. Driessen;Parkpop 2020;41;Molenwerfsteeg,
+7-6-2017;13-2-2018;21-6-2017;Q. Dekker;Braderie;70;Oosterstraat,
+22-9-2018;26-2-2019;27-9-2018;B. Mulder;Wegwerkzaamheden;9;Oranjestraat,
+21-9-2020;8-6-2021;26-9-2020;D. de Koning;Straatfeest;21;Willemstraat,
+17-4-2018;24-9-2018;18-4-2018;Y. Maas;Parkpop 2019;28;Tolsteegbrug,
+30-1-2018;9-9-2018;6-2-2018;P. Kuipers;Parkpop 2019;34;Iepstraat,
+23-11-2015;31-3-2016;1-12-2015;B. van den Berg;Begravenis;20;Achterstraat 3e,
+27-6-2015;20-12-2015;1-7-2015;Y. van Dam;Braderie;38;Protestantenhofje,
+16-6-2015;8-12-2015;29-6-2015;N. de Boer;Parkpop 2020;9;Koekoeksplein,
+8-7-2020;9-3-2021;16-7-2020;P. van de Meer;Wegwerkzaamheden;19;Emmalaan,
+10-8-2020;30-10-2020;22-8-2020;T. Evers;Begravenis;31;Frederik Hendrikstraat,
+2-12-2015;22-2-2016;15-12-2015;O. van Doorn;Begravenis;50;Jacobspoort,
+9-10-2017;11-1-2018;12-10-2017;K. Vermeulen;Bruiloft;64;Merwedekanaal,
+22-3-2017;4-9-2017;28-3-2017;V. van der Heijden;Kerstmarkt 2018;45;Loefbergmakerstraat,
+8-7-2020;25-11-2020;10-7-2020;E. van der Meer;Straatfeest;10;Kerkweg,
+30-12-2015;5-7-2016;6-1-2016;F. Koster;Wegwerkzaamheden;81;Leidsche Kade,
+16-12-2019;29-8-2020;31-12-2019;Y. de Groot;Braderie;9;Mariastraat,
+17-5-2020;12-7-2020;30-5-2020;X. Koster;Begravenis;13;Korte Viestraat,
+24-1-2016;21-5-2016;27-1-2016;N. Kuijpers;Kerstmarkt 2018;64;Alendorpsteeg,
+23-9-2020;21-5-2021;7-10-2020;V. van den Bosch;Parkpop 2019;34;Keisteeg,
+31-1-2018;7-7-2018;11-2-2018;E. Bosman;Parkpop 2020;29;Weerdsingel W.Z.,
+2-8-2018;3-12-2018;10-8-2018;L. Smits;Straatfeest;27;Adriaanstraat,
+3-6-2015;28-12-2015;16-6-2015;J. van Dijk;Braderie;76;Pieter Saenredamstraat,
+12-10-2019;23-10-2019;21-10-2019;K. Schipper;Braderie;10;Elijnshof,
+26-4-2019;28-5-2019;4-5-2019;V. van der Horst;Wegwerkzaamheden;59;Tulpstraat,
+4-9-2020;31-1-2021;6-9-2020;R. van Vliet;Straatfeest;57;Rijnkade,
+28-1-2018;10-8-2018;29-1-2018;A. Boer;Parkpop 2020;56;Bekkerstraat,
+10-1-2020;13-4-2020;12-1-2020;E. de Groot;Parkpop 2020;16;Leidsche Vaart,
+21-7-2020;10-10-2020;2-8-2020;F. de Wit;Straatfeest;38;Lange Nieuwstraat,
+10-11-2016;15-3-2017;14-11-2016;C. Vermeulen;Parkpop 2020;11;Raamsteeg,
+10-8-2018;15-9-2018;12-8-2018;S. Schouten;Kerstmarkt 2018;20;Raamsteeg,
+2-3-2018;5-10-2018;10-3-2018;W. van de Velde;Parkpop 2019;8;Gogschesteeg,
+10-9-2020;26-11-2020;12-9-2020;M. de Bruijn;Parkpop 2019;90;A B C straat,
+29-5-2017;16-2-2018;11-6-2017;O. de Jong;Parkpop 2020;56;Jan Meyenstraat,
+2-2-2019;13-8-2019;11-2-2019;P. van den Broek;Parkpop 2020;40;Leidsche Weg,
+1-9-2019;16-2-2020;8-9-2019;D. de Boer;Braderie;31;Kogelstraat,
+8-8-2017;16-3-2018;13-8-2017;D. Blom;Parkpop 2020;50;Lanceepoort,
+22-8-2016;2-4-2017;30-8-2016;P. Bakker;Straatfeest;7;Kruisweg,
+2-1-2017;13-2-2017;11-1-2017;Q. Vos;Parkpop 2020;57;Leeuwenst. Laan,
+20-1-2016;22-2-2016;3-2-2016;V. Huisman;Bruiloft;6;Agnietenstraat,
+18-3-2020;5-11-2020;22-3-2020;I. van Beek;Straatfeest;1;Agnietenstraat,
+23-7-2015;9-4-2016;30-7-2015;R. Jacobs;Parkpop 2019;30;Tulpstraat,
+27-9-2018;26-10-2018;10-10-2018;D. van Doorn;Straatfeest;52;Bem. Weerd OZ,
+20-11-2020;31-1-2021;28-11-2020;F. Hofman;Parkpop 2020;79;Lange Hamstraat,
+18-10-2017;14-8-2018;29-10-2017;V. Meijer;Bruiloft;48;Ridderschapstraat,
+14-1-2016;15-7-2016;29-1-2016;Y. Kuypers;Straatfeest;32;Ooftstraat,
+12-3-2020;24-4-2020;16-3-2020;Z. de Wit;Parkpop 2020;56;Landstraat,
+9-7-2018;30-7-2018;11-7-2018;D. Sanders;Wegwerkzaamheden;62;Donkere Gaard,
+23-6-2016;25-3-2017;26-6-2016;V. Dijkstra;Kerstmarkt 2018;60;Anjelierstraat,
+19-11-2020;5-4-2021;25-11-2020;K. Martens;Begravenis;8;Rotsoord,
+4-2-2020;15-10-2020;5-2-2020;M. Evers;Begravenis;22;Houtstraat,
+14-7-2019;31-1-2020;17-7-2019;I. van Veen;Straatfeest;18;Stroosteeg,
+19-12-2015;23-2-2016;1-1-2016;S. Jonker;Parkpop 2019;13;Minrebroederstraat,
+9-9-2019;17-10-2019;10-9-2019;P. Vos;Parkpop 2019;43;Wilhelmina Park,
+5-1-2019;3-3-2019;18-1-2019;Y. van der Meer;Bruiloft;5;Loefbergmakerstraat,
+9-2-2020;20-6-2020;12-2-2020;Y. Janssen;Bruiloft;89;Jacobssteeg,
+19-8-2018;10-2-2019;24-8-2018;B. de Leeuw;Kerstmarkt 2018;14;Fockstraat,
+5-10-2020;15-2-2021;20-10-2020;I. Brouwer;Kerstmarkt 2018;9;Kanonstraat,
+28-7-2018;13-11-2018;12-8-2018;O. Jacobs;Wegwerkzaamheden;46;Zeilsteeg,
+27-6-2019;12-2-2020;6-7-2019;K. Kuipers;Begravenis;51;Spoorstraat,
+14-1-2020;13-10-2020;15-1-2020;S. van de Pol;Wegwerkzaamheden;60;Jutphaascheweg,
+5-1-2019;13-4-2019;10-1-2019;E. Schouten;Straatfeest;23;Fockstraat,
+26-11-2018;22-1-2019;29-11-2018;Z. van de Meer;Braderie;70;Lennepstraat,
+27-5-2016;27-7-2016;1-6-2016;A. Visser;Begravenis;45;Koningspoort,
+14-5-2020;21-1-2021;16-5-2020;G. Boer;Braderie;9;Herman Saftlevenstraat,
+18-9-2017;22-11-2017;28-9-2017;Q. Huisman;Bruiloft;38;Rondpoort,
+1-3-2016;22-6-2016;9-3-2016;U. de Lange;Kerstmarkt 2018;61;Sterrenburg,
+13-2-2020;1-4-2020;16-2-2020;W. Meijer;Braderie;12;Geertekerkhof,
+15-12-2019;7-1-2020;20-12-2019;O. van der Ven;Wegwerkzaamheden;63;Westerkade,
+22-2-2017;10-11-2017;3-3-2017;U. Post;Wegwerkzaamheden;38;Driehoek,
+17-4-2019;30-8-2019;24-4-2019;U. Kramer;Begravenis;75;Stationsdwarsstraat,
+1-2-2019;22-11-2019;2-2-2019;Q. de Bruin;Braderie;13;Ondiep,
+22-6-2018;11-1-2019;28-6-2018;O. Maas;Bruiloft;80;Biltstraat,
+18-7-2016;13-9-2016;23-7-2016;J. Hoekstra;Parkpop 2020;50;Lichtegaard,
+20-6-2019;27-9-2019;27-6-2019;S. van der Meulen;Begravenis;22;Brandsteeg,
+17-10-2018;3-1-2019;1-11-2018;D. Dijkstra;Begravenis;69;Leeuwstraat,
+21-3-2017;27-6-2017;4-4-2017;P. van den Velden;Straatfeest;84;Atjehstraat 2e,
+12-10-2016;22-11-2016;14-10-2016;B. Gerritsen;Braderie;71;Zwaluwstraat,
+12-4-2019;20-9-2019;23-4-2019;P. van den Velde;Begravenis;82;Oosterkade,
+3-5-2017;20-6-2017;16-5-2017;H. Bosch;Kerstmarkt 2018;80;Bloemstraat,
+3-8-2016;24-12-2016;13-8-2016;Y. van Dam;Begravenis;33;Jan Pietersz. Koenstraat,
+2-4-2016;13-11-2016;16-4-2016;K. Schouten;Braderie;86;Elijnshof,
+20-7-2017;6-3-2018;30-7-2017;A. Visser;Parkpop 2020;1;Potterstraat,
+30-4-2016;8-9-2016;1-5-2016;S. van de Brink;Straatfeest;54;Lakmoessteeg,
+4-5-2016;16-12-2016;14-5-2016;D. van de Velden;Parkpop 2020;4;Hoogenbergsteeg,
+8-6-2016;22-6-2016;9-6-2016;Y. van der Meer;Begravenis;4;Nicolaaskerkhof,
+3-12-2018;13-3-2019;4-12-2018;X. Boer;Wegwerkzaamheden;33;Korte Minrebroederstraat,
+22-11-2017;24-3-2018;28-11-2017;S. de Graaf;Parkpop 2019;78;Kindgenshaven,
+26-6-2017;12-11-2017;28-6-2017;G. Groen;Braderie;34;Turfstraat,
+16-11-2018;14-6-2019;22-11-2018;Z. van de Ven;Straatfeest;9;Jan van Scorelstraat,
+16-10-2019;31-3-2020;30-10-2019;H. Wolters;Parkpop 2019;19;Leidsche Kade,
+7-7-2016;30-3-2017;12-7-2016;C. Visser;Wegwerkzaamheden;33;Hanengeschrei,
+8-10-2019;30-1-2020;16-10-2019;I. Willemsen;Braderie;62;Vredenburg,
+27-4-2020;17-10-2020;4-5-2020;N. Vink;Begravenis;38;Hoogstraat,
+2-8-2015;4-8-2015;8-8-2015;R. Bosman;Kerstmarkt 2018;75;Nachtegaalstraat,
+9-3-2018;29-3-2018;10-3-2018;E. Verhoeven;Parkpop 2019;52;Korte Koestraat,
+13-10-2019;20-5-2020;20-10-2019;H. de Vries;Straatfeest;21;Roodepoort,
+14-12-2018;10-1-2019;28-12-2018;K. van der Horst;Bruiloft;8;Lange Lauwerstraat,
+23-2-2017;24-6-2017;3-3-2017;R. van de Velde;Braderie;86;Lindestraat,
+6-8-2020;27-9-2020;10-8-2020;L. de Haan;Begravenis;5;Donkere Gaard,
+29-1-2016;18-10-2016;1-2-2016;O. van Beek;Begravenis;75;Protestantenhofje,
+13-9-2017;30-9-2017;18-9-2017;M. de Graaf;Parkpop 2019;57;Justus van Effenstraat,
+10-12-2017;12-3-2018;11-12-2017;M. Schouten;Begravenis;56;Heiligeweg,
+12-10-2017;18-6-2018;23-10-2017;H. Hoekstra;Begravenis;66;Vrouwjuttenstraat,
+16-1-2020;6-7-2020;27-1-2020;I. de Graaf;Parkpop 2020;51;Kollewijsteeg,
+25-6-2018;8-12-2018;9-7-2018;P. Groen;Wegwerkzaamheden;69;Goudsbloemstraat,
+11-6-2017;20-9-2017;17-6-2017;W. van de Meer;Bruiloft;11;Corn. Evertsenstraat,
+24-4-2016;26-12-2016;30-4-2016;C. Driessen;Bruiloft;85;Spoorstraat,
+25-6-2019;5-3-2020;10-7-2019;T. Koster;Braderie;63;Jacobsgasthuissteeg,
+7-9-2016;30-11-2016;19-9-2016;Y. Driessen;Kerstmarkt 2018;68;Vlasstraat,
+1-4-2019;22-1-2020;9-4-2019;N. van der Berg;Bruiloft;14;Hagelstraat,
+30-5-2019;15-7-2019;6-6-2019;K. Willems;Bruiloft;20;Elijnshof,
+3-10-2017;15-5-2018;5-10-2017;E. Kuijpers;Bruiloft;43;Alendorpsteeg,
+16-2-2018;8-9-2018;22-2-2018;S. Wolters;Wegwerkzaamheden;42;Bergstraat,
+13-1-2020;18-1-2020;28-1-2020;B. Kuiper;Kerstmarkt 2018;8;Vredesteeg,
+14-1-2016;9-5-2016;29-1-2016;I. van de Brink;Begravenis;39;Zeedijk,
+10-3-2016;22-11-2016;25-3-2016;C. van der Ven;Kerstmarkt 2018;21;Predikheerenstraat,
+11-7-2017;1-2-2018;21-7-2017;A. van den Velden;Parkpop 2019;25;Daendelsstraat,
+20-7-2020;29-10-2020;27-7-2020;H. Bosman;Begravenis;28;Weidesteeg,
+1-4-2017;9-1-2018;15-4-2017;C. de Vries;Parkpop 2019;80;Reestraat,
+24-4-2020;9-2-2021;1-5-2020;W. Vink;Braderie;23;Hofstraat,
+2-7-2016;21-9-2016;12-7-2016;F. de Leeuw;Bruiloft;70;Stadhouderslaan,
+14-9-2018;20-1-2019;21-9-2018;E. van de Brink;Parkpop 2019;71;Dondersstraat (F.C.),
+22-3-2019;24-9-2019;31-3-2019;C. van der Wal;Wegwerkzaamheden;15;Gerard Doustraat,
+4-11-2016;11-3-2017;14-11-2016;D. de Graaf;Straatfeest;82;Groenestraat,
+8-5-2020;8-12-2020;18-5-2020;U. van de Meer;Begravenis;16;Hoogenoord,
+25-10-2016;7-5-2017;26-10-2016;Y. Smits;Bruiloft;57;Hovenstraat,
+17-6-2019;21-1-2020;1-7-2019;Q. van den Pol;Parkpop 2019;24;Nicolaasdwarsstraat,
+14-3-2016;2-8-2016;27-3-2016;R. van de Pol;Wegwerkzaamheden;75;Lepelenburg,
+3-7-2015;23-3-2016;7-7-2015;M. van Dam;Braderie;88;Ridderhofstad,
+12-4-2017;7-7-2017;17-4-2017;W. Boer;Kerstmarkt 2018;2;Kloksteeg,
+18-12-2015;15-4-2016;26-12-2015;Y. Kok;Braderie;67;Zuilenstraat,
+3-6-2020;15-2-2021;15-6-2020;E. van Vliet;Kerstmarkt 2018;81;Moesstraat,
+29-8-2016;18-10-2016;7-9-2016;Y. de Wit;Begravenis;41;Zandstraat,
+20-10-2017;30-3-2018;30-10-2017;S. Meyer;Braderie;15;Kraanhof,
+8-2-2019;18-7-2019;17-2-2019;C. Willems;Begravenis;90;Lombokstraat,
+12-9-2018;28-5-2019;15-9-2018;P. Verhoeven;Parkpop 2020;28;Merwedekade,
+18-7-2017;4-3-2018;1-8-2017;R. Kok;Bruiloft;35;Vredesteeg,
+18-1-2016;1-11-2016;31-1-2016;P. Meyer;Straatfeest;65;Hoogenoord,
+26-7-2016;8-1-2017;6-8-2016;Q. van de Brink;Braderie;84;Westravenstraat,
+2-9-2020;13-3-2021;6-9-2020;N. Smit;Bruiloft;77;Kleine Tuinstraat,
+4-7-2019;30-11-2019;9-7-2019;V. Kuipers;Parkpop 2019;86;Heemskerkstraat,
+8-6-2018;24-2-2019;10-6-2018;W. de Graaf;Bruiloft;3;Mariaplaats,
+14-4-2019;20-5-2019;24-4-2019;H. van Vliet;Straatfeest;78;Pasteurstraat,
+24-6-2015;23-2-2016;29-6-2015;P. Martens;Straatfeest;53;Staalstraat,
+4-1-2016;13-2-2016;11-1-2016;X. Vink;Wegwerkzaamheden;51;Lamstraat,
+6-12-2015;13-12-2015;19-12-2015;P. Vos;Bruiloft;89;Kr. Nieuwegracht,
+4-1-2018;28-2-2018;17-1-2018;P. Martens;Bruiloft;24;Stadhouderslaan,
+8-11-2017;21-12-2017;11-11-2017;O. Bos;Braderie;75;Korte Minrebroederstraat,
+16-4-2020;16-10-2020;21-4-2020;A. van Dijk;Kerstmarkt 2018;1;Pasteurstraat,
+11-6-2017;12-6-2017;24-6-2017;E. Bakker;Braderie;74;Moreelselaan,
+19-6-2020;19-8-2020;21-6-2020;S. van der Meer;Kerstmarkt 2018;90;Padangstraat,
+28-7-2017;8-5-2018;5-8-2017;Z. van der Meulen;Bruiloft;38;Obrechtstraat,
+7-3-2020;23-4-2020;9-3-2020;K. Smit;Begravenis;1;Buurkerkhof,
+14-7-2020;14-10-2020;17-7-2020;J. Hendriks;Parkpop 2019;62;Kr. Nieuwegracht,
+21-5-2019;27-8-2019;26-5-2019;I. van den Velde;Braderie;47;Keistraat,
+17-4-2020;22-4-2020;29-4-2020;Q. de Jonge;Parkpop 2020;79;Jachtstraat,
+30-8-2015;21-2-2016;5-9-2015;P. Dekker;Bruiloft;4;Hemdsmouwsteeg,
+9-8-2018;10-12-2018;23-8-2018;Y. van der Velden;Wegwerkzaamheden;76;Springweg,
+17-3-2019;5-4-2019;19-3-2019;L. Dekker;Bruiloft;82;M.A. de Ruijterstraat,
+14-3-2019;13-10-2019;22-3-2019;R. de Bruyn;Begravenis;26;Bankastraat,
+12-1-2018;16-6-2018;13-1-2018;F. de Wit;Kerstmarkt 2018;55;Anjelierstraat,
+19-7-2017;24-9-2017;28-7-2017;X. Veenstra;Bruiloft;73;Nassaulaan,
+24-6-2019;10-9-2019;28-6-2019;Q. Evers;Straatfeest;1;Varkenmarkt,
+13-6-2019;29-6-2019;17-6-2019;V. Veenstra;Parkpop 2019;20;Drift,
+16-4-2018;13-8-2018;18-4-2018;L. van Leeuwen;Braderie;37;Stationsstraat,
+5-3-2017;2-7-2017;20-3-2017;J. van der Meer;Begravenis;50;Achter de Wal,
+14-6-2018;9-10-2018;18-6-2018;K. Bosman;Bruiloft;88;Loefbergmakerstraat,
+6-5-2019;29-6-2019;20-5-2019;R. Dijkstra;Kerstmarkt 2018;17;Laan van Chartroise,
+31-5-2016;18-9-2016;14-6-2016;H. van der Meulen;Begravenis;35;Zonnenburg,
+26-5-2017;6-6-2017;3-6-2017;O. Kuypers;Begravenis;30;Adelaarstraat,
+12-4-2016;11-6-2016;25-4-2016;Y. Gerritsen;Bruiloft;65;Stadhouderslaan,
+15-9-2018;23-9-2018;30-9-2018;X. van der Heyden;Wegwerkzaamheden;21;Korte Jufferstraat,
+23-11-2017;26-6-2018;6-12-2017;Q. de Vries;Wegwerkzaamheden;54;Pallaesstraat,
+14-7-2016;4-1-2017;29-7-2016;S. van de Velde;Straatfeest;62;Achter St. Pieter,
+15-4-2018;5-5-2018;19-4-2018;I. van de Veen;Braderie;60;Billitonkade,
+19-8-2016;28-3-2017;30-8-2016;G. van de Wal;Bruiloft;72;Leeuwerikstraat,
+7-6-2020;29-6-2020;15-6-2020;E. de Ruiter;Braderie;50;Kerkweg,
+14-1-2019;6-5-2019;25-1-2019;Z. van de Meer;Bruiloft;7;Groeneweg,
+16-5-2016;17-8-2016;23-5-2016;D. Vos;Wegwerkzaamheden;52;Vinkenbuurt,
+20-11-2015;7-4-2016;28-11-2015;D. van den Pol;Parkpop 2020;33;Sterrebosch,
+10-7-2015;17-11-2015;20-7-2015;O. de Haan;Wegwerkzaamheden;71;Billitonstraat,
+3-7-2016;15-11-2016;15-7-2016;B. Kuypers;Begravenis;80;Gietershof,
+6-4-2016;8-1-2017;18-4-2016;H. Kok;Bruiloft;47;Buys Ballotstraat,
+20-9-2020;3-1-2021;2-10-2020;W. Veenstra;Straatfeest;8;Paijenborgsteeg,
+3-7-2018;9-12-2018;4-7-2018;F. Sanders;Bruiloft;2;Koekoeksplein,
+19-4-2018;7-5-2018;27-4-2018;O. Vos;Wegwerkzaamheden;8;Bankastraat,
+19-1-2018;26-4-2018;2-2-2018;Y. Schouten;Parkpop 2019;40;Bijlhouwerstraat,
+8-7-2017;28-3-2018;18-7-2017;Z. Blom;Wegwerkzaamheden;58;Bloemstraat,
+9-3-2017;25-6-2017;11-3-2017;U. Mol;Begravenis;88;Hoogenbergsteeg,
+5-3-2016;25-8-2016;6-3-2016;Y. van der Heyden;Braderie;11;Frederik Hendrikstraat,
+16-12-2017;3-4-2018;21-12-2017;Z. van der Heijden;Bruiloft;24;Wilhelmina Park,
+12-4-2016;18-11-2016;15-4-2016;G. Kuipers;Parkpop 2020;29;Vossegatschedijk,
+19-2-2019;23-11-2019;25-2-2019;R. Janssen;Bruiloft;62;Oudegracht (Tolst.),
+27-12-2018;22-3-2019;9-1-2019;F. Driessen;Parkpop 2020;78;Narcisstraat,
+13-6-2017;23-3-2018;27-6-2017;S. Kok;Bruiloft;63;Schelpstraat,
+1-9-2017;27-4-2018;3-9-2017;L. Mulder;Kerstmarkt 2018;63;Vischmarkt,
+21-6-2020;26-3-2021;27-6-2020;V. van den Heuvel;Braderie;57;Nicolaas Beetsstraat,
+10-10-2020;24-3-2021;13-10-2020;D. Willems;Begravenis;7;Catharijnekade,
+11-3-2018;28-9-2018;22-3-2018;U. Vink;Bruiloft;1;Steenstraat,
+23-11-2016;5-1-2017;30-11-2016;H. van Wijk;Straatfeest;46;Bakkerspoort,
+25-9-2016;17-6-2017;6-10-2016;H. Willemsen;Wegwerkzaamheden;72;Noorderstraat,
+12-12-2019;27-7-2020;23-12-2019;G. van der Veen;Parkpop 2020;45;Zonstraat,
+1-2-2017;6-10-2017;12-2-2017;O. van Vliet;Wegwerkzaamheden;25;Delistraat 1e,
+18-9-2020;17-6-2021;20-9-2020;C. van der Pol;Straatfeest;39;Nooitgedacht,
+24-6-2016;9-11-2016;5-7-2016;W. Peeters;Begravenis;45;Wijde Doelen,
+1-12-2019;27-7-2020;13-12-2019;Q. Willemsen;Parkpop 2020;6;Vredenburg,
+31-7-2020;9-1-2021;12-8-2020;S. Veenstra;Kerstmarkt 2018;14;Visscherssteeg,
+5-11-2019;13-11-2019;15-11-2019;O. de Koning;Wegwerkzaamheden;67;Geertebolwerk,
+28-4-2016;18-11-2016;8-5-2016;Z. Smeets;Bruiloft;59;Achterom,
+26-3-2020;26-12-2020;30-3-2020;K. van Vliet;Wegwerkzaamheden;82;Sluisstraat,
+30-9-2017;24-3-2018;11-10-2017;H. de Groot;Bruiloft;20;Hofstraat,
+10-11-2019;20-7-2020;14-11-2019;N. de Haan;Straatfeest;44;Tuinstraat,
+14-2-2018;5-12-2018;20-2-2018;L. Brouwer;Parkpop 2020;57;Leidsche Kade,
+10-1-2018;15-4-2018;25-1-2018;H. Hoekstra;Straatfeest;27;Alphenplein (van),
+18-9-2018;27-3-2019;29-9-2018;F. van Dam;Wegwerkzaamheden;5;Jan Meyenstraat,
+24-2-2020;16-3-2020;5-3-2020;A. de Lange;Parkpop 2020;43;Jeruzalemsteeg,
+18-6-2020;23-10-2020;20-6-2020;F. van Wijk;Parkpop 2020;17;Lijsterstraat,
+13-4-2016;28-8-2016;26-4-2016;V. Koning;Parkpop 2020;49;Minstraat,
+1-7-2015;10-8-2015;8-7-2015;V. Jonker;Parkpop 2019;22;Heerenhofje,
+19-3-2020;24-11-2020;21-3-2020;N. Huisman;Parkpop 2020;28;Bregittenstraat,
+20-7-2019;9-8-2019;28-7-2019;C. van der Meer;Begravenis;32;Mariahoek,
+11-11-2020;14-4-2021;24-11-2020;M. Postma;Parkpop 2020;82;Jacobsgasthuissteeg,
+10-8-2019;19-9-2019;16-8-2019;N. de Koning;Straatfeest;37;Kersstraat,
+15-8-2020;17-10-2020;21-8-2020;W. van Beek;Straatfeest;49;Hendrik de Keyserstraat,
+5-7-2016;15-7-2016;18-7-2016;P. van den Bosch;Braderie;82;Javastraat,
+16-10-2017;3-2-2018;26-10-2017;Y. van Veen;Kerstmarkt 2018;15;Jutphaascheweg,
+19-10-2020;3-2-2021;3-11-2020;L. Janssen;Parkpop 2020;75;Hoogenbergsteeg,
+31-1-2018;8-4-2018;9-2-2018;U. van Wijk;Bruiloft;26;Nicolaasdwarsstraat,
+21-1-2016;18-10-2016;2-2-2016;E. de Vos;Wegwerkzaamheden;89;Bankaplein,
+26-4-2016;4-11-2016;27-4-2016;E. Veenstra;Parkpop 2019;66;Brugstraat,
+22-10-2017;10-5-2018;2-11-2017;I. Dekker;Parkpop 2019;26;Zeilsteeg,
+2-5-2019;2-6-2019;10-5-2019;H. de Leeuw;Straatfeest;1;Singelsteeg,
+2-4-2016;12-6-2016;13-4-2016;A. Peeters;Begravenis;89;Javastraat,
+27-6-2015;14-12-2015;4-7-2015;R. van der Horst;Bruiloft;65;Domtoren,
+14-6-2015;19-9-2015;20-6-2015;V. Visser;Kerstmarkt 2018;82;Kersstraat,
+31-10-2019;7-2-2020;6-11-2019;H. de Haan;Straatfeest;7;Appelstraat,
+13-2-2017;17-8-2017;27-2-2017;V. Schipper;Bruiloft;54;Kraanstraat,
+4-5-2016;12-1-2017;14-5-2016;M. van de Meer;Begravenis;85;Lindestraat,
+28-8-2016;18-5-2017;9-9-2016;M. Kuypers;Wegwerkzaamheden;2;Nobelstraat,
+30-10-2015;2-5-2016;2-11-2015;Y. van der Heijden;Begravenis;50;Manenburg,
+9-3-2016;7-12-2016;18-3-2016;E. Blom;Braderie;88;Raamsteeg,
+8-10-2017;12-12-2017;11-10-2017;X. Smit;Wegwerkzaamheden;6;Jagerskade,
+10-4-2019;26-1-2020;23-4-2019;K. Huisman;Bruiloft;86;Hoogenbergsteeg,
+23-2-2020;23-7-2020;25-2-2020;Y. Sanders;Kerstmarkt 2018;13;Malakkastraat,
+11-11-2015;28-12-2015;23-11-2015;S. van Vliet;Wegwerkzaamheden;28;Grietstraat,
+11-7-2017;31-12-2017;13-7-2017;T. de Groot;Braderie;12;Biltstraat,
+10-5-2019;11-5-2019;25-5-2019;F. Peters;Begravenis;7;Amaliastraat,
+22-3-2019;12-7-2019;30-3-2019;F. van der Horst;Kerstmarkt 2018;52;Lijnmarkt,
+20-1-2018;18-2-2018;31-1-2018;M. Gerritsen;Bruiloft;78;Kwartelstraat,
+28-12-2016;26-6-2017;8-1-2017;J. Veenstra;Straatfeest;83;Stijfselsteeg,
+15-8-2015;22-3-2016;30-8-2015;O. van der Heyden;Parkpop 2019;12;Bankstraat,
+16-7-2020;17-1-2021;25-7-2020;W. van de Wal;Kerstmarkt 2018;28;Koningsweg,
+16-7-2019;11-2-2020;30-7-2019;O. Dijkstra;Bruiloft;75;Daelstraat,
+27-3-2020;3-7-2020;4-4-2020;D. Timmermans;Parkpop 2019;84;Pauwstraat,
+15-3-2020;7-8-2020;19-3-2020;O. Schouten;Parkpop 2019;31;Rozenstraat,
+26-2-2018;12-9-2018;3-3-2018;H. de Vries;Parkpop 2019;71;Rijndijk,
+23-12-2018;22-8-2019;31-12-2018;N. Timmermans;Braderie;58;Walsteeg,
+19-9-2019;5-5-2020;28-9-2019;H. Hoekstra;Bruiloft;80;Zonstraat,
+5-12-2016;2-6-2017;13-12-2016;Z. de Leeuw;Parkpop 2020;28;Kovelaarstraat,
+1-12-2018;20-3-2019;7-12-2018;Z. van der Pol;Parkpop 2020;52;Kerkstraat,
+8-9-2016;4-11-2016;16-9-2016;O. Kuypers;Begravenis;11;Hofsteeg,
+4-7-2020;27-2-2021;19-7-2020;B. van Leeuwen;Parkpop 2019;57;Gietershof,
+27-6-2017;22-3-2018;10-7-2017;G. de Leeuw;Braderie;20;Hanengeschrei,
+10-4-2020;18-8-2020;12-4-2020;G. Meyer;Wegwerkzaamheden;12;Teelingstraat,
+1-7-2016;15-11-2016;10-7-2016;R. Vermeulen;Bruiloft;85;Achterstraat 3e,
+16-2-2017;19-10-2017;27-2-2017;V. Koning;Wegwerkzaamheden;85;Leeuwerikstraat,
+13-8-2020;8-9-2020;19-8-2020;N. van Dam;Kerstmarkt 2018;51;Oudkerkhof,
+8-4-2018;4-12-2018;16-4-2018;L. Hermans;Straatfeest;69;Nicolaasdwarsstraat,
+18-1-2017;17-4-2017;27-1-2017;E. Janssen;Kerstmarkt 2018;83;Heerenweg,
+25-6-2019;20-11-2019;9-7-2019;Y. van Beek;Braderie;75;Hendrik de Keyserstraat,
+11-5-2016;27-5-2016;21-5-2016;O. de Boer;Wegwerkzaamheden;87;Tuchthuisstraat,
+26-12-2016;13-5-2017;3-1-2017;R. Kuypers;Parkpop 2019;6;Leliestraat,
+4-11-2019;14-8-2020;5-11-2019;Q. van den Broek;Braderie;72;Hovenstraat,
+24-11-2020;7-3-2021;25-11-2020;W. van der Veen;Wegwerkzaamheden;25;Blokstraat,
+9-1-2020;31-3-2020;17-1-2020;M. Schouten;Begravenis;42;Nicolaas Beetsstraat,
+27-3-2016;6-5-2016;6-4-2016;E. van den Bosch;Wegwerkzaamheden;84;Kanonstraat,
+8-9-2017;1-3-2018;16-9-2017;T. de Bruijn;Kerstmarkt 2018;88;Keistraat,
+6-6-2019;24-7-2019;14-6-2019;F. Peters;Parkpop 2019;82;Wijde Watersteeg,
+22-7-2016;21-11-2016;31-7-2016;M. de Bruin;Parkpop 2019;71;Concordiastraat,
+27-11-2018;2-2-2019;29-11-2018;V. Wolters;Braderie;60;Corn. Evertsenstraat,
+8-6-2016;7-12-2016;9-6-2016;O. van den Pol;Braderie;9;Delistraat 1e,
+12-5-2017;1-6-2017;23-5-2017;Y. Dijkstra;Parkpop 2020;32;Ridderhofstad,
+20-2-2020;16-8-2020;24-2-2020;Z. Wolters;Bruiloft;56;Beverstraat,
+12-3-2019;24-9-2019;20-3-2019;N. de Lange;Parkpop 2019;32;Hoenderstraat,
+11-6-2017;18-1-2018;13-6-2017;Q. van Dongen;Straatfeest;12;Onder de Linden,
+2-6-2016;11-8-2016;17-6-2016;Z. van der Ven;Bruiloft;49;Oosterstraat,
+4-9-2019;1-10-2019;8-9-2019;O. de Bruyn;Bruiloft;69;Pieterskerkhof,
+17-12-2017;27-2-2018;30-12-2017;L. van der Berg;Straatfeest;70;Landstraat,
+26-9-2015;9-5-2016;6-10-2015;L. van de Ven;Straatfeest;4;Sterrebosch,
+26-8-2016;24-1-2017;9-9-2016;V. van den Bosch;Bruiloft;78;Brugstraat,
+17-11-2015;23-11-2015;21-11-2015;W. Vos;Parkpop 2019;56;Kovelaarsdijk,
+14-12-2016;27-8-2017;19-12-2016;Q. Kuiper;Kerstmarkt 2018;79;Concordiastraat,
+7-10-2015;12-2-2016;17-10-2015;C. de Vos;Straatfeest;84;Delistraat 1e,
+27-12-2018;5-5-2019;4-1-2019;X. van Dam;Kerstmarkt 2018;26;Bergstraat,
+23-11-2019;31-3-2020;27-11-2019;K. Kuipers;Kerstmarkt 2018;64;Bankstraat,
+14-1-2019;13-7-2019;22-1-2019;T. Willems;Braderie;13;Frans Halsstraat,
+3-1-2020;27-4-2020;18-1-2020;C. de Vries;Parkpop 2020;33;Werf a.d. Twijnstraat,
+29-6-2018;31-8-2018;30-6-2018;C. Bakker;Kerstmarkt 2018;34;Jachtstraat,
+11-5-2020;15-9-2020;15-5-2020;M. van de Ven;Parkpop 2019;62;M.A. de Ruijterstraat,
+10-4-2019;13-4-2019;13-4-2019;S. van Doorn;Straatfeest;24;Waterpoort,
+8-12-2019;30-5-2020;12-12-2019;S. Kuipers;Parkpop 2019;42;Stationsdwarsstraat,
+8-6-2018;3-3-2019;18-6-2018;V. Vink;Wegwerkzaamheden;33;Oosterkade,
+24-12-2015;29-6-2016;8-1-2016;H. de Bruijn;Bruiloft;62;Manenburg,
+30-3-2017;23-9-2017;14-4-2017;M. Mol;Kerstmarkt 2018;12;Krommerijnstraat,
+26-4-2017;1-9-2017;5-5-2017;K. Post;Parkpop 2019;63;Havikstraat,
+18-6-2015;21-6-2015;29-6-2015;R. Vink;Kerstmarkt 2018;78;Sterrenhof,
+29-12-2017;27-4-2018;13-1-2018;I. Vos;Wegwerkzaamheden;73;Gruttersdijk,
+15-3-2019;26-12-2019;22-3-2019;G. Kramer;Braderie;41;Moesstraat,
+16-5-2018;14-11-2018;25-5-2018;J. Hofman;Straatfeest;50;Nooitgedacht,
+29-6-2019;4-8-2019;12-7-2019;Y. Jacobs;Kerstmarkt 2018;70;Elijnshof,
+29-4-2016;1-12-2016;6-5-2016;B. Willems;Bruiloft;32;Beekstraat,
+21-3-2019;16-8-2019;24-3-2019;Z. van Loon;Wegwerkzaamheden;67;Schelpstraat,
+16-8-2020;28-11-2020;20-8-2020;L. van de Velden;Begravenis;82;Haagstraat,
+30-4-2019;20-1-2020;9-5-2019;S. Jansen;Parkpop 2020;9;Lange Jufferstraat,
+14-7-2018;27-1-2019;17-7-2018;F. van der Heijden;Kerstmarkt 2018;50;Vredenburg,
+28-4-2017;16-7-2017;6-5-2017;V. Hoekstra;Kerstmarkt 2018;42;Beukstraat,
+11-10-2016;8-2-2017;18-10-2016;B. Vink;Wegwerkzaamheden;31;M.H. Trompstraat,
+7-1-2017;7-3-2017;17-1-2017;O. Dijkstra;Wegwerkzaamheden;45;Catharijnesteeg,
+25-1-2018;14-9-2018;29-1-2018;L. van der Velden;Braderie;42;Burgstraat,
+30-9-2015;21-12-2015;10-10-2015;A. Kuipers;Straatfeest;69;Jansveld,
+21-6-2020;15-9-2020;27-6-2020;T. Sanders;Wegwerkzaamheden;10;Hoogenbergsteeg,
+11-3-2020;20-10-2020;14-3-2020;E. Huisman;Parkpop 2019;18;Kl. Geertekerkhof,
+21-7-2018;11-10-2018;2-8-2018;N. Kramer;Wegwerkzaamheden;67;Slachtsteeg,
+27-9-2020;11-12-2020;4-10-2020;X. van Dijk;Braderie;87;Braamstraat,
+28-7-2020;12-4-2021;30-7-2020;D. van Dongen;Straatfeest;2;Oosterstraat,
+29-9-2018;15-2-2019;7-10-2018;O. Verhoeven;Bruiloft;75;Hanengeschrei,
+3-2-2018;11-8-2018;16-2-2018;E. Willemsen;Kerstmarkt 2018;12;Laurens Reaalstraat,
+23-10-2016;2-11-2016;3-11-2016;W. van der Berg;Bruiloft;68;Schelpstraat,
+12-9-2018;29-3-2019;21-9-2018;G. van Dijk;Wegwerkzaamheden;23;Diaconessenstraat,
+22-6-2018;1-12-2018;23-6-2018;D. Timmermans;Braderie;75;Obrechtstraat,
+2-12-2015;31-3-2016;8-12-2015;K. de Haan;Begravenis;21;Wolvenstraat,
+12-4-2017;16-8-2017;13-4-2017;K. Molenaar;Braderie;81;Lamstraat,
+24-9-2019;14-7-2020;4-10-2019;A. de Wit;Kerstmarkt 2018;36;Croeselaan,
+26-6-2015;10-4-2016;27-6-2015;K. van der Horst;Braderie;57;Buys Ballotstraat,
+8-1-2020;11-5-2020;17-1-2020;O. van de Berg;Wegwerkzaamheden;35;Zoutmarkt,
+8-9-2016;25-12-2016;13-9-2016;D. Vos;Begravenis;37;Schutterstraat,
+16-11-2020;14-12-2020;27-11-2020;W. Evers;Begravenis;18;Muntsteeg,
+9-7-2017;29-12-2017;19-7-2017;M. Boer;Parkpop 2020;80;Blauwsteeg,
+19-4-2020;19-12-2020;1-5-2020;K. Schipper;Wegwerkzaamheden;64;Nathanaëlspoort,
+24-12-2015;25-6-2016;31-12-2015;Z. Kok;Bruiloft;22;Brandsteeg,
+7-3-2016;6-6-2016;21-3-2016;T. Visser;Straatfeest;7;Koekoekstraat,
+31-7-2018;30-11-2018;11-8-2018;T. van der Horst;Begravenis;22;Drakenburgsteeg,
+22-5-2020;8-2-2021;25-5-2020;R. Kuipers;Wegwerkzaamheden;57;Lindestraat,
+3-7-2017;12-7-2017;12-7-2017;X. Vink;Straatfeest;33;Joan van Oldenbarneveldtlaan,
+6-4-2017;19-8-2017;10-4-2017;M. Martens;Braderie;22;Stadhuisbrug,
+2-5-2019;29-1-2020;10-5-2019;C. van der Laan;Kerstmarkt 2018;37;Rembrandtkade,
+7-10-2015;7-1-2016;13-10-2015;A. Peters;Bruiloft;22;Stationsplein,
+23-7-2015;12-2-2016;30-7-2015;U. Jacobs;Parkpop 2019;70;Leliestraat,
+17-10-2015;9-2-2016;31-10-2015;L. Blom;Braderie;33;Burgstraat,
+7-10-2019;12-11-2019;22-10-2019;H. van Dongen;Kerstmarkt 2018;46;Wittevrouwenkade,
+20-4-2018;31-7-2018;30-4-2018;B. Verhoeven;Bruiloft;41;Valkstraat,
+3-9-2017;19-4-2018;10-9-2017;W. Vermeulen;Begravenis;68;Weistraat,
+15-4-2017;16-7-2017;30-4-2017;T. van den Broek;Braderie;36;Dahliastraat,
+31-10-2019;6-4-2020;3-11-2019;X. Wolters;Parkpop 2020;56;Spinderpoort,
+10-12-2018;10-5-2019;20-12-2018;L. de Vries;Wegwerkzaamheden;65;Nathanaëlspoort,
+27-3-2017;19-4-2017;2-4-2017;P. Willems;Parkpop 2020;46;Atjehstraat 1e,
+16-9-2017;2-10-2017;19-9-2017;U. van den Pol;Wegwerkzaamheden;38;Imhoffstraat (van),
+19-6-2019;4-3-2020;28-6-2019;A. Hofman;Wegwerkzaamheden;3;Javastraat,
+27-5-2017;19-6-2017;28-5-2017;H. van Loon;Kerstmarkt 2018;80;Vinkenbuurt,
+4-2-2017;22-4-2017;19-2-2017;J. van der Velde;Kerstmarkt 2018;19;Nicolaasweg,
+5-7-2015;14-7-2015;7-7-2015;S. van der Wal;Begravenis;43;Schutterstraat,
+4-11-2017;8-5-2018;13-11-2017;J. van den Velden;Parkpop 2019;77;Pallaesstraat,
+30-9-2016;15-7-2017;5-10-2016;N. de Haan;Wegwerkzaamheden;53;Lange Hamstraat,
+27-6-2017;5-3-2018;8-7-2017;F. van den Berg;Bruiloft;4;Paardesteeg,
+6-6-2016;10-9-2016;19-6-2016;Y. Visser;Parkpop 2020;5;Buurkerksteeg 2e,
+12-8-2017;27-11-2017;14-8-2017;X. Bosman;Parkpop 2020;78;Javastraat,
+25-1-2017;11-10-2017;4-2-2017;O. Kramer;Parkpop 2019;9;Heerenweg,
+8-8-2016;30-9-2016;23-8-2016;M. Bosman;Parkpop 2020;65;Predikheerenstraat,
+25-5-2017;12-2-2018;7-6-2017;F. Smeets;Begravenis;17;Zuilenstraat,
+9-8-2018;14-12-2018;13-8-2018;F. van der Wal;Kerstmarkt 2018;32;Lange Nieuwstraat,
+1-10-2019;10-5-2020;6-10-2019;J. Blom;Kerstmarkt 2018;24;Kersstraat,
+22-12-2019;11-6-2020;1-1-2020;S. van de Veen;Kerstmarkt 2018;37;Antoniestraat,
+11-5-2019;11-6-2019;14-5-2019;H. Smits;Parkpop 2020;40;Spijkerstraat,
+16-2-2017;7-4-2017;23-2-2017;M. Gerritsen;Straatfeest;42;Gildstraat,
+28-9-2016;21-10-2016;7-10-2016;L. Koning;Kerstmarkt 2018;72;Bem. Weerd OZ,
+31-5-2018;18-1-2019;1-6-2018;K. Kuijpers;Wegwerkzaamheden;51;Ondiep,
+24-7-2015;17-8-2015;25-7-2015;G. van Dam;Straatfeest;35;Hoenderstraat,
+1-9-2019;6-6-2020;10-9-2019;G. van Loon;Braderie;7;Vleutensche Vaart,
+21-8-2019;10-10-2019;1-9-2019;V. Hofman;Parkpop 2019;23;Dillenburgstraat,
+14-3-2019;3-1-2020;24-3-2019;Y. van Veen;Straatfeest;9;Javastraat,
+5-10-2015;1-2-2016;19-10-2015;M. van Wijk;Straatfeest;1;Sionskameren,
+17-5-2017;4-9-2017;26-5-2017;L. Vink;Parkpop 2019;50;Boothstraat,
+5-8-2017;26-1-2018;19-8-2017;S. Schouten;Parkpop 2019;4;Keistraat,
+13-12-2019;27-1-2020;26-12-2019;O. Willems;Begravenis;85;Voorstraat,
+10-8-2018;16-4-2019;19-8-2018;Z. de Leeuw;Bruiloft;53;Schoolplein,
+22-11-2019;10-3-2020;2-12-2019;Q. de Jonge;Parkpop 2020;23;Hoogeweidschedijk,
+10-10-2015;7-6-2016;22-10-2015;Q. van Beek;Braderie;51;Inundatiekade,
+25-6-2017;17-7-2017;5-7-2017;T. Peters;Kerstmarkt 2018;69;Leidsche Weg,
+14-1-2019;11-9-2019;17-1-2019;G. Brouwer;Straatfeest;39;Jan Pietersz. Koenstraat,
+8-3-2019;28-10-2019;18-3-2019;G. de Ruiter;Begravenis;84;Vischmarkt,
+25-9-2018;31-10-2018;1-10-2018;G. van der Heyden;Parkpop 2020;30;Nicolaaskerkhof,
+6-12-2018;1-5-2019;14-12-2018;I. van de Brink;Wegwerkzaamheden;31;Visschersplein,
+31-12-2016;24-1-2017;4-1-2017;M. Timmermans;Parkpop 2019;32;Voorstraat,
+19-5-2020;30-6-2020;22-5-2020;T. van de Berg;Kerstmarkt 2018;15;Ridderschapstraat,
+4-3-2018;2-9-2018;15-3-2018;U. Meyer;Straatfeest;57;Hennipstraat,
+14-5-2020;22-7-2020;16-5-2020;I. de Graaf;Parkpop 2020;65;Nieuwegracht,
+25-6-2015;6-1-2016;28-6-2015;D. Boer;Straatfeest;49;Ondiep,
+4-4-2019;9-5-2019;13-4-2019;T. Hoekstra;Parkpop 2019;77;Putsteeg,
+14-2-2017;27-2-2017;1-3-2017;A. de Bruijn;Kerstmarkt 2018;35;Lauwersteeg,
+11-2-2018;26-10-2018;23-2-2018;X. van de Velden;Wegwerkzaamheden;15;Palmstraat,
+22-10-2016;21-7-2017;30-10-2016;L. Scholten;Parkpop 2020;63;Jan van Scorelstraat,
+11-7-2020;15-10-2020;24-7-2020;H. Molenaar;Wegwerkzaamheden;55;Pasteurstraat,
+3-10-2017;17-6-2018;5-10-2017;C. Meijer;Straatfeest;7;Predikheerenstraat,
+20-4-2016;24-6-2016;30-4-2016;V. Martens;Begravenis;64;Obrechtstraat,
+25-4-2017;16-2-2018;9-5-2017;Y. van der Ven;Bruiloft;8;Braamstraat,
+8-12-2018;22-4-2019;17-12-2018;P. van Dam;Kerstmarkt 2018;8;Nobelstraat,
+2-9-2019;13-5-2020;8-9-2019;K. van de Berg;Wegwerkzaamheden;62;Trans,
+28-12-2017;10-7-2018;3-1-2018;B. Driessen;Wegwerkzaamheden;9;Mariahofje,
+16-7-2015;30-4-2016;19-7-2015;W. van der Velden;Parkpop 2020;66;Lange Smeestraat,
+15-10-2020;23-12-2020;20-10-2020;H. Gerritsen;Begravenis;56;Knipstraat,
+4-5-2019;23-2-2020;6-5-2019;Q. van den Velden;Straatfeest;69;Jan Pietersz. Koenstraat,
+5-6-2016;4-2-2017;13-6-2016;J. Peeters;Parkpop 2020;66;Zaagmolenkade,
+9-10-2015;26-3-2016;12-10-2015;L. Schipper;Wegwerkzaamheden;75;Donkere Gaard,
+27-12-2016;28-3-2017;7-1-2017;B. Jacobs;Braderie;52;Stroosteeg,
+17-8-2018;14-5-2019;28-8-2018;Q. Vink;Parkpop 2020;54;Abraham Dolesteeg,
+6-4-2017;4-6-2017;20-4-2017;T. Brouwer;Braderie;75;Javastraat,
+5-11-2020;6-1-2021;19-11-2020;R. Willemsen;Straatfeest;51;Koekoeksplein,
+29-5-2016;1-2-2017;3-6-2016;A. van Dongen;Parkpop 2020;9;Zaagstraat,
+3-5-2019;29-12-2019;14-5-2019;Q. Mulder;Begravenis;24;Teelingstraat,
+3-12-2019;29-4-2020;11-12-2019;K. van der Meulen;Begravenis;20;Boorstraat,
+5-3-2016;3-12-2016;19-3-2016;F. van den Pol;Parkpop 2020;26;Diaconiepoort,
+24-7-2017;16-11-2017;31-7-2017;R. Dijkstra;Parkpop 2019;8;Stroomkade,
+23-9-2018;10-3-2019;1-10-2018;L. Mol;Parkpop 2020;76;Nauwe Watersteeg,
+6-8-2020;3-11-2020;20-8-2020;D. van Dam;Begravenis;63;Blindesteeg,
+2-1-2016;7-10-2016;17-1-2016;D. Scholten;Bruiloft;28;Bleekstraat,
+8-4-2016;8-11-2016;23-4-2016;I. de Bruijn;Parkpop 2020;51;Belthlehemscheweg,
+19-3-2016;3-9-2016;22-3-2016;V. Evers;Braderie;24;Domplein,
+10-3-2018;14-3-2018;12-3-2018;M. Hofman;Bruiloft;25;Heerenweg,
+20-8-2017;21-8-2017;25-8-2017;D. van de Berg;Braderie;78;Lauwerecht,
+4-12-2016;27-5-2017;10-12-2016;V. Koning;Kerstmarkt 2018;48;Laan van Puntenburg,
+6-5-2019;15-9-2019;16-5-2019;D. de Haan;Kerstmarkt 2018;89;Bleijenburgkade,
+9-1-2019;25-3-2019;23-1-2019;T. Bosman;Wegwerkzaamheden;18;Kollewijsteeg,
+19-12-2015;11-10-2016;2-1-2016;A. van der Ven;Kerstmarkt 2018;30;Anjelierstraat,
+16-11-2020;1-4-2021;29-11-2020;G. Peters;Straatfeest;67;Hoenderstraat,
+31-1-2016;3-4-2016;10-2-2016;Z. Peters;Straatfeest;41;Hulststraat,
+4-3-2017;5-5-2017;13-3-2017;L. Vos;Braderie;35;Gruttersdijk,
+26-2-2019;19-12-2019;6-3-2019;E. Prins;Wegwerkzaamheden;23;Borneostraat,
+25-4-2016;4-7-2016;9-5-2016;J. de Ruiter;Wegwerkzaamheden;12;Hoog Glagenweerd,
+9-11-2019;11-5-2020;15-11-2019;J. Peters;Kerstmarkt 2018;80;Kranenburg,
+6-10-2016;11-5-2017;17-10-2016;H. de Koning;Parkpop 2019;84;Hartingstraat,
+7-9-2020;28-11-2020;12-9-2020;R. Boer;Begravenis;8;Johan e Wittstraat,
+24-6-2017;29-6-2017;3-7-2017;R. de Bruin;Begravenis;7;Krommerijnstraat,
+28-9-2019;19-4-2020;5-10-2019;P. van den Velde;Wegwerkzaamheden;52;Spiegelpoort,
+8-4-2016;24-9-2016;9-4-2016;A. Hofman;Parkpop 2019;30;Schaapstraat,
+7-12-2015;19-1-2016;14-12-2015;Y. van den Velden;Parkpop 2020;27;Ondiep,
+27-9-2020;2-6-2021;9-10-2020;O. Martens;Braderie;18;Vredeplaats,
+10-7-2019;29-9-2019;17-7-2019;X. van Veen;Parkpop 2019;8;Geertebolwerk,
+30-7-2020;28-11-2020;13-8-2020;I. Kuypers;Kerstmarkt 2018;47;Roggestraat,
+24-10-2017;7-1-2018;31-10-2017;A. de Jong;Kerstmarkt 2018;15;Nauwe Begijnesteeg,
+10-12-2019;1-3-2020;19-12-2019;A. van de Pol;Kerstmarkt 2018;49;Servetstraat,
+7-12-2015;9-7-2016;8-12-2015;L. de Groot;Braderie;43;Koekoekstraat,
+13-3-2020;4-5-2020;22-3-2020;L. Vos;Bruiloft;85;M.H. Trompstraat,
+16-2-2016;28-3-2016;25-2-2016;N. van de Berg;Wegwerkzaamheden;30;Singeldwarsstraat,
+27-1-2017;14-4-2017;5-2-2017;S. de Vos;Parkpop 2019;64;M.H. Trompstraat,
+10-1-2020;2-3-2020;25-1-2020;I. de Koning;Begravenis;21;Dahliastraat,
+7-1-2018;27-2-2018;8-1-2018;U. Kuypers;Braderie;51;Kleine Eligensteeg,
+1-5-2016;6-7-2016;5-5-2016;G. van Wijk;Braderie;84;Teelingstraat,
+11-1-2019;31-8-2019;19-1-2019;P. de Groot;Straatfeest;80;Waterpoort,
+27-7-2015;21-3-2016;10-8-2015;Q. van den Heuvel;Parkpop 2019;17;Rijnsteeg,
+14-11-2016;11-7-2017;23-11-2016;C. Smits;Parkpop 2020;71;Boorstraat,
+13-5-2016;9-10-2016;22-5-2016;F. van Leeuwen;Parkpop 2020;10;Molensteeg,
+2-4-2016;26-7-2016;7-4-2016;W. Kramer;Wegwerkzaamheden;34;Mauritsstraat,
+8-8-2019;1-2-2020;10-8-2019;W. de Bruin;Straatfeest;3;Singelstraat,
+11-11-2017;7-5-2018;22-11-2017;N. Meijer;Begravenis;51;Paralelweg,
+16-5-2019;10-2-2020;22-5-2019;A. van den Velden;Kerstmarkt 2018;52;Buys Ballotstraat,
+20-9-2018;15-3-2019;26-9-2018;I. van den Heuvel;Begravenis;83;Ridderhofstad,
+13-5-2019;3-11-2019;17-5-2019;Y. Huisman;Braderie;51;Maliesingel,
+16-10-2016;8-11-2016;29-10-2016;K. van der Heyden;Parkpop 2019;22;Servetstraat,
+22-12-2019;17-8-2020;27-12-2019;L. Evers;Braderie;70;Bladstraat,
+8-8-2017;16-12-2017;19-8-2017;G. de Vries;Braderie;36;Havikstraat,
+20-9-2019;7-12-2019;29-9-2019;J. van der Horst;Parkpop 2020;64;Buurkerksteeg 3e,
+12-11-2015;14-4-2016;14-11-2015;S. Gerritsen;Begravenis;82;Weistraat,
+10-5-2017;20-10-2017;21-5-2017;T. Smeets;Begravenis;30;Bremstraat,
+4-10-2017;27-11-2017;9-10-2017;O. van de Wal;Bruiloft;50;Raamsteeg,
+12-11-2018;25-6-2019;17-11-2018;L. de Vos;Parkpop 2019;2;Oude Kamp,
+10-4-2018;14-11-2018;15-4-2018;L. de Vries;Wegwerkzaamheden;8;Bolstraat,
+12-8-2015;15-2-2016;19-8-2015;I. Bosch;Straatfeest;29;Hoenderstraat,
+4-1-2019;22-5-2019;19-1-2019;H. Mol;Wegwerkzaamheden;42;Vosstraat,
+29-7-2016;22-2-2017;1-8-2016;U. Hermans;Wegwerkzaamheden;47;Hieronymusplein,
+17-5-2017;26-11-2017;30-5-2017;U. van der Wal;Wegwerkzaamheden;3;Oudwijkerlaan,
+26-12-2015;27-3-2016;1-1-2016;D. Prins;Parkpop 2019;67;Oude Daelstraat,
+26-4-2017;12-1-2018;5-5-2017;X. van den Heuvel;Braderie;12;Lindestraat,
+16-8-2016;27-10-2016;19-8-2016;F. Prins;Kerstmarkt 2018;4;Slachtsteeg,
+5-6-2018;29-12-2018;11-6-2018;F. van den Velden;Kerstmarkt 2018;48;Lakmoessteeg,
+13-8-2019;16-12-2019;18-8-2019;W. van Loon;Straatfeest;46;Vrouwjuttenstraat,
+24-4-2019;19-1-2020;1-5-2019;N. Post;Begravenis;67;Moreelselaan,
+14-10-2019;3-1-2020;26-10-2019;J. de Ruiter;Parkpop 2019;59;Ledig Erf,
+28-5-2017;20-10-2017;29-5-2017;N. Smits;Wegwerkzaamheden;6;Blindesteeg,
+8-5-2016;17-12-2016;21-5-2016;J. Peeters;Straatfeest;58;Nathanaëlspoort,
+31-3-2017;13-7-2017;10-4-2017;V. van Dam;Bruiloft;4;Moreelselaan,
+19-9-2019;16-10-2019;30-9-2019;N. van de Berg;Bruiloft;21;Nachtegaalstraat,
+12-1-2018;29-1-2018;26-1-2018;B. van der Meer;Braderie;77;Arkenspoort,
+17-8-2017;5-11-2017;22-8-2017;Z. de Graaf;Begravenis;30;Zuilenstraat,
+14-6-2015;5-4-2016;28-6-2015;V. van den Broek;Parkpop 2019;22;Abraham Dolesteeg,
+12-12-2017;21-1-2018;19-12-2017;M. Huisman;Bruiloft;17;Mulderstraat,
+16-9-2017;14-2-2018;29-9-2017;T. Hoekstra;Straatfeest;23;M.H. Trompstraat,
+17-12-2019;17-4-2020;27-12-2019;I. Kok;Parkpop 2020;67;Rozenhofje,
+27-9-2019;8-5-2020;8-10-2019;Q. Evers;Bruiloft;81;Joh. Willem Frisostraat,
+1-6-2019;25-2-2020;15-6-2019;G. de Vries;Straatfeest;66;Zaagmolenkade,
+8-11-2015;29-3-2016;16-11-2015;F. Kok;Parkpop 2019;35;Achterom,
+18-9-2015;12-7-2016;23-9-2015;S. Mulder;Bruiloft;66;Baanstraat,
+20-7-2017;15-1-2018;26-7-2017;A. Maas;Kerstmarkt 2018;70;Nauwe Begijnesteeg,
+11-5-2019;5-7-2019;17-5-2019;N. van den Pol;Braderie;17;Stadhuisbrug,
+16-4-2017;7-8-2017;1-5-2017;Z. Post;Begravenis;15;Nauwe Muntsteeg,
+27-4-2017;21-6-2017;28-4-2017;F. Meijer;Wegwerkzaamheden;23;Westerdijk,
+24-11-2019;6-12-2019;29-11-2019;E. van der Linden;Parkpop 2020;62;Beekstraat,
+22-11-2020;4-1-2021;6-12-2020;Y. van de Ven;Kerstmarkt 2018;19;Bem. Weerd OZ,
+9-2-2020;29-7-2020;19-2-2020;I. Koning;Wegwerkzaamheden;31;Croeselaan,
+10-11-2019;19-7-2020;24-11-2019;C. Vermeulen;Braderie;84;Kersstraat,
+29-3-2017;29-5-2017;8-4-2017;E. Peeters;Parkpop 2019;64;Bellamystraat,
+5-2-2020;27-9-2020;8-2-2020;L. van der Heyden;Braderie;36;Soesbergen ,
+27-8-2018;18-3-2019;3-9-2018;J. Kuiper;Parkpop 2020;43;Wagenstraat,
+26-5-2018;3-9-2018;4-6-2018;J. Willemsen;Wegwerkzaamheden;31;Kleine Eligensteeg,
+17-5-2017;30-5-2017;26-5-2017;E. Willems;Begravenis;4;Weistraat,
+25-7-2018;6-5-2019;30-7-2018;X. Smeets;Bruiloft;88;Tulpstraat,
+5-10-2015;15-12-2015;14-10-2015;N. van de Brink;Wegwerkzaamheden;52;Leeuwstraat,
+9-7-2019;30-10-2019;13-7-2019;A. Molenaar;Wegwerkzaamheden;37;Vereenigingdwarsstraat,
+21-6-2015;10-3-2016;26-6-2015;I. Boer;Kerstmarkt 2018;49;Turfstraat,
+28-2-2018;30-7-2018;3-3-2018;P. Kuiper;Bruiloft;7;Kweekstraat,
+16-6-2020;31-10-2020;20-6-2020;B. Hermans;Wegwerkzaamheden;42;Zeilsteeg,
+30-1-2016;21-5-2016;31-1-2016;N. Evers;Braderie;69;Rijnkade,
+1-11-2015;7-7-2016;6-11-2015;P. Kuypers;Braderie;89;Pieterstraat,
+8-4-2018;21-11-2018;19-4-2018;H. Smeets;Straatfeest;58;Tromstraat,
+3-12-2019;4-7-2020;16-12-2019;P. van den Pol;Kerstmarkt 2018;90;Daelstraat,
+18-12-2015;27-8-2016;28-12-2015;V. Bosch;Straatfeest;26;Teelingstraat,
+25-3-2018;26-9-2018;31-3-2018;S. de Jong;Braderie;47;Padangstraat,
+15-5-2016;25-10-2016;27-5-2016;F. Sanders;Parkpop 2020;86;Kockstraat,
+5-10-2018;14-6-2019;6-10-2018;N. van de Berg;Parkpop 2020;32;Nicolaaskerkhof,
+17-10-2016;4-4-2017;24-10-2016;L. Smits;Straatfeest;29;Hanengeschrei,
+19-2-2018;13-7-2018;3-3-2018;V. de Groot;Begravenis;89;Koningspoort,
+27-8-2017;24-4-2018;3-9-2017;Q. de Jong;Kerstmarkt 2018;35;Lange Smeestraat,
+3-2-2017;12-3-2017;14-2-2017;I. van de Meer;Parkpop 2019;59;Mariastraat,
+31-7-2017;4-5-2018;11-8-2017;B. Evers;Straatfeest;67;Hofstraat,
+17-8-2018;3-4-2019;21-8-2018;L. de Haan;Parkpop 2020;25;Magdalenastraat,
+10-6-2019;21-6-2019;19-6-2019;Y. Huisman;Kerstmarkt 2018;61;Markstraat,
+2-7-2018;14-4-2019;17-7-2018;Y. Kuypers;Kerstmarkt 2018;25;Zakkendragersteeg,
+25-9-2019;4-12-2019;8-10-2019;W. de Bruyn;Parkpop 2019;55;Diaconiepoort,
+13-2-2018;31-3-2018;14-2-2018;U. van de Berg;Bruiloft;42;Ondiep,
+20-6-2019;13-10-2019;2-7-2019;B. Willems;Wegwerkzaamheden;5;Wolfaartsteeg,
+16-6-2020;3-12-2020;28-6-2020;X. van der Velden;Bruiloft;44;Springweg,
+12-9-2019;12-2-2020;25-9-2019;J. Meijer;Braderie;86;Daalschedijk 2e,
+23-7-2019;11-9-2019;2-8-2019;A. Willemsen;Bruiloft;55;hazelaarstraat,
+3-1-2020;9-3-2020;13-1-2020;E. Kuiper;Begravenis;77;Kruitstraat,
+9-5-2018;6-10-2018;18-5-2018;L. Peters;Braderie;65;Manenburg,
+16-6-2015;18-3-2016;30-6-2015;Z. Mol;Wegwerkzaamheden;37;Bleijenburgkade,
+2-10-2019;13-3-2020;9-10-2019;U. Wolters;Braderie;70;Joh. Camphuysstraat,
+28-6-2019;4-8-2019;7-7-2019;O. Huisman;Bruiloft;29;Tuchthuisstraat,
+22-9-2015;26-1-2016;24-9-2015;K. van Doorn;Begravenis;86;Jagerskade,
+14-11-2018;21-2-2019;15-11-2018;W. Smits;Braderie;62;Wijckskade (van),
+7-5-2020;29-10-2020;19-5-2020;Y. van der Heyden;Parkpop 2019;24;Pietersplein,
+27-9-2017;9-10-2017;4-10-2017;R. van der Horst;Straatfeest;36;Papaverstraat,
+3-12-2019;26-4-2020;17-12-2019;K. van den Pol;Wegwerkzaamheden;87;Kersstraat,
+27-8-2020;12-12-2020;28-8-2020;X. Post;Straatfeest;15;Dondersstraat (F.C.),
+16-12-2019;11-4-2020;23-12-2019;O. Willemsen;Braderie;12;Pelmolenweg,
+19-12-2018;9-9-2019;23-12-2018;Q. Kuipers;Wegwerkzaamheden;29;Steenstraat,
+20-8-2016;27-8-2016;24-8-2016;H. Koster;Kerstmarkt 2018;33;Neude,
+8-11-2015;20-12-2015;12-11-2015;E. van de Brink;Parkpop 2019;83;Zonnenburg,
+19-11-2020;23-7-2021;3-12-2020;H. van der Horst;Parkpop 2019;30;Kanaalstraat,
+6-4-2018;25-9-2018;17-4-2018;K. van Veen;Parkpop 2019;38;Jansdam,
+18-10-2015;19-5-2016;2-11-2015;Y. van Loon;Wegwerkzaamheden;3;Justus van Effenstraat,
+2-2-2017;28-9-2017;16-2-2017;T. Bakker;Begravenis;54;Hoogeweidschedijk,
+3-10-2018;20-6-2019;11-10-2018;U. van de Veen;Straatfeest;64;Grave van Solmsstraat,
+2-11-2015;6-1-2016;5-11-2015;L. van Veen;Straatfeest;74;Domplein,
+11-5-2016;21-5-2016;16-5-2016;Y. van den Pol;Wegwerkzaamheden;1;Kwakkeldijk,
+1-5-2017;29-7-2017;4-5-2017;K. Kuipers;Parkpop 2019;20;Lange Smeestraat,
+25-8-2017;5-3-2018;2-9-2017;A. Bos;Parkpop 2020;17;Brugstraat,
+11-3-2019;13-4-2019;25-3-2019;A. Vink;Wegwerkzaamheden;5;Breedstraat,
+31-12-2017;27-5-2018;9-1-2018;O. van der Linden;Parkpop 2019;14;Gietershof,
+4-1-2019;6-10-2019;15-1-2019;R. Schouten;Bruiloft;88;Vinkenkade,
+15-9-2019;10-4-2020;25-9-2019;D. van de Pol;Straatfeest;8;Braamstraat,
+9-6-2015;7-11-2015;15-6-2015;G. Groen;Straatfeest;49;Jacobskerksteeg,
+10-11-2016;13-8-2017;17-11-2016;G. Peeters;Parkpop 2020;81;Voetiusstraat,
+23-3-2020;3-9-2020;1-4-2020;T. Driessen;Bruiloft;11;Walsteeg,
+29-9-2017;18-7-2018;12-10-2017;T. Vos;Kerstmarkt 2018;90;Heemskerkstraat,
+16-4-2018;11-6-2018;18-4-2018;O. Timmermans;Begravenis;51;Jasmijnstraat,
+6-5-2019;16-11-2019;12-5-2019;Z. Martens;Begravenis;11;Pieter Saenredamstraat,
+1-10-2016;1-1-2017;12-10-2016;O. Timmermans;Straatfeest;17;Oude Kamp,
+28-12-2016;29-3-2017;12-1-2017;C. Gerritsen;Wegwerkzaamheden;31;Ridderschapstraat,
+21-10-2018;13-6-2019;1-11-2018;A. Kuipers;Begravenis;9;Waterpoort,
+24-11-2016;11-1-2017;28-11-2016;F. Gerritsen;Begravenis;51;Hemdsmouwsteeg,
+5-7-2019;28-3-2020;12-7-2019;U. van de Velde;Braderie;87;Parkstraat,
+17-2-2019;23-11-2019;18-2-2019;W. Kramer;Begravenis;57;Pieterskerkhof,
+20-7-2017;14-2-2018;27-7-2017;O. van der Meer;Wegwerkzaamheden;17;Duifstraat,
+29-9-2020;20-7-2021;7-10-2020;E. Huisman;Straatfeest;84;Leidsche Kade,
+27-10-2017;29-10-2017;1-11-2017;W. van der Linden;Kerstmarkt 2018;34;Keizersgracht,
+16-7-2020;29-9-2020;17-7-2020;B. de Jonge;Straatfeest;31;Maetsuijkerstraat,
+2-6-2016;10-7-2016;8-6-2016;B. Peters;Kerstmarkt 2018;3;Pieterserf,
+16-7-2017;5-1-2018;19-7-2017;T. van der Meer;Kerstmarkt 2018;25;Schoolplein,
+24-12-2018;28-8-2019;29-12-2018;K. van Vliet;Parkpop 2019;75;Kroonhof,
+26-1-2018;15-8-2018;3-2-2018;E. Kuijpers;Kerstmarkt 2018;77;Reestraat,
+27-10-2020;24-5-2021;30-10-2020;J. van der Laan;Braderie;90;Vinkenburgstraat,
+22-8-2015;22-3-2016;28-8-2015;J. Scholten;Parkpop 2020;69;Tolsteegbrug,
+8-12-2018;2-5-2019;18-12-2018;E. van der Laan;Parkpop 2020;82;Catharijnesingel,
+18-6-2019;22-7-2019;26-6-2019;D. Jacobs;Kerstmarkt 2018;22;Kindgenshaven,
+3-2-2020;6-3-2020;14-2-2020;E. de Vos;Straatfeest;81;Noorderstraat,
+11-1-2020;7-6-2020;25-1-2020;S. van der Laan;Kerstmarkt 2018;14;Lepelenburg,
+9-9-2016;12-6-2017;13-9-2016;L. de Lange;Parkpop 2019;34;Joan van Oldenbarneveldtlaan,
+11-10-2019;8-7-2020;25-10-2019;G. Meijer;Kerstmarkt 2018;50;Lange Viestraat,
+23-8-2015;17-1-2016;30-8-2015;E. de Groot;Braderie;65;Schelpstraat,
+26-3-2019;16-8-2019;6-4-2019;G. Vermeulen;Begravenis;4;Cellebroederstraat,
+9-2-2017;25-2-2017;13-2-2017;Z. van der Ven;Parkpop 2019;42;Lakmoessteeg,
+25-11-2017;10-4-2018;6-12-2017;S. van der Heijden;Parkpop 2019;66;Bellamystraat,
+9-6-2020;22-12-2020;16-6-2020;A. Jacobs;Straatfeest;33;Kromme Rijn,
+24-6-2020;15-3-2021;2-7-2020;M. de Koning;Kerstmarkt 2018;53;Leidsche Vaart,
+17-11-2016;24-12-2016;24-11-2016;Z. Smits;Bruiloft;34;Braamstraat,
+15-4-2020;21-6-2020;29-4-2020;I. van den Velden;Straatfeest;71;Zwaansteeg,
+15-5-2019;25-7-2019;21-5-2019;G. van den Berg;Bruiloft;24;Lombokstraat,
+6-7-2020;4-8-2020;16-7-2020;Y. van de Velde;Wegwerkzaamheden;37;Hofstraat,
+1-7-2018;11-3-2019;16-7-2018;L. van der Laan;Straatfeest;73;Arkenspoort,
+1-11-2018;17-5-2019;2-11-2018;K. van der Laan;Kerstmarkt 2018;67;Andreasstraat,
+26-12-2019;5-7-2020;10-1-2020;H. Koster;Begravenis;41;Onder de Linden,
+26-8-2016;28-9-2016;8-9-2016;R. Brouwer;Braderie;76;Lennepstraat,
+18-10-2018;8-2-2019;24-10-2018;Y. van den Pol;Begravenis;72;Donkere Gaard,
+21-2-2016;28-6-2016;23-2-2016;L. de Vos;Begravenis;40;Hertestraat,
+18-4-2017;14-1-2018;29-4-2017;A. Vermeulen;Braderie;13;Riviersteeg,
+14-9-2019;19-6-2020;26-9-2019;U. van der Meer;Kerstmarkt 2018;83;Imhoffstraat (van),
+2-11-2017;31-1-2018;4-11-2017;V. van Beek;Kerstmarkt 2018;29;Acht. De Koekoek,
+21-11-2016;12-5-2017;23-11-2016;J. de Bruin;Parkpop 2019;60;Willem Barentzstraat,
+22-1-2017;10-11-2017;30-1-2017;A. van de Veen;Parkpop 2019;13;Doornboomstraat,
+29-7-2017;31-3-2018;8-8-2017;B. de Leeuw;Braderie;62;Jacobskerksteeg,
+4-7-2020;8-1-2021;14-7-2020;I. de Koning;Begravenis;48;Oudwijkerveldstraat,
+13-4-2016;23-4-2016;20-4-2016;R. Bosch;Straatfeest;48;Mineurslaan,
+24-3-2019;1-9-2019;7-4-2019;J. Kuypers;Straatfeest;47;Tolsteegbrug,
+2-10-2015;26-11-2015;6-10-2015;Z. Martens;Braderie;79;Daalschedijk 1e,
+25-1-2019;17-2-2019;27-1-2019;E. Huisman;Kerstmarkt 2018;10;Sterrenhof,
+28-6-2020;17-4-2021;5-7-2020;I. van der Velden;Kerstmarkt 2018;16;Horstdijk,
+23-10-2016;29-11-2016;29-10-2016;G. van de Brink;Parkpop 2019;18;Bleijenburgkade,
+9-3-2019;3-10-2019;20-3-2019;M. van Loon;Wegwerkzaamheden;33;Oude Kerkstraat,
+11-10-2020;6-1-2021;12-10-2020;C. de Graaf;Kerstmarkt 2018;78;Iepstraat,
+26-11-2015;25-3-2016;7-12-2015;S. Meijer;Bruiloft;50;Pasteurstraat,
+23-5-2019;2-3-2020;3-6-2019;M. van der Heijden;Bruiloft;61;Hoogt,
+13-6-2016;8-3-2017;23-6-2016;Y. Peeters;Begravenis;57;Gerard Doustraat,
+25-12-2018;11-7-2019;2-1-2019;X. Schouten;Parkpop 2019;31;Grutterspoort,
+13-7-2017;22-2-2018;14-7-2017;E. van der Heyden;Parkpop 2020;43;Zilversteeg,
+6-9-2017;28-12-2017;8-9-2017;X. van Doorn;Parkpop 2020;28;Kindgenshaven,
+15-5-2016;3-11-2016;25-5-2016;Z. de Wit;Kerstmarkt 2018;17;Jan Pietersz. Koenstraat,
+13-8-2019;16-9-2019;28-8-2019;M. Jansen;Parkpop 2019;44;Kromme Rijn,
+30-7-2015;26-11-2015;9-8-2015;S. Peeters;Parkpop 2019;55;Nieuwe Keizersgracht,
+9-3-2018;21-12-2018;20-3-2018;P. Smit;Braderie;82;Catharijnekade,
+10-9-2019;16-10-2019;23-9-2019;K. Scholten;Bruiloft;80;Magdalenastraat,
+28-7-2018;2-2-2019;8-8-2018;W. Postma;Parkpop 2020;71;Paijenborgsteeg,
+5-11-2020;22-2-2021;11-11-2020;J. Kramer;Wegwerkzaamheden;33;Voetiusstraat,
+4-11-2017;10-5-2018;18-11-2017;I. Molenaar;Parkpop 2019;45;Brugstraat,
+3-7-2017;12-7-2017;16-7-2017;D. van den Velden;Bruiloft;85;Lombardpoort,
+15-7-2018;10-11-2018;20-7-2018;K. Hendriks;Kerstmarkt 2018;41;Lijnpadsteeg,
+13-6-2019;11-7-2019;28-6-2019;X. de Bruijn;Wegwerkzaamheden;27;Knipstraat,
+11-8-2019;8-2-2020;26-8-2019;N. de Koning;Parkpop 2020;27;Leuninggang,
+23-5-2017;4-8-2017;29-5-2017;Z. Mulder;Begravenis;56;Waterpoort,
+12-8-2015;14-8-2015;26-8-2015;P. Jansen;Parkpop 2019;21;Leidsche Weg,
+13-2-2016;9-9-2016;22-2-2016;I. Wolters;Parkpop 2020;17;Laan van Croes,
+8-7-2019;9-8-2019;12-7-2019;S. Dijkstra;Parkpop 2020;87;Ezelsdijk,
+17-8-2017;30-9-2017;27-8-2017;G. van der Pol;Bruiloft;19;Groote Eligensteeg,
+22-4-2017;27-11-2017;25-4-2017;K. van de Brink;Straatfeest;84;Diaconiepoort,
+23-4-2018;5-8-2018;6-5-2018;I. van de Berg;Wegwerkzaamheden;34;Bem. Weerd OZ,
+24-2-2020;16-6-2020;4-3-2020;B. Schouten;Kerstmarkt 2018;81;Bleekerskade,
+23-8-2016;18-3-2017;26-8-2016;F. van der Veen;Straatfeest;33;Koningsweg,
+20-8-2019;24-8-2019;4-9-2019;H. Bosman;Bruiloft;12;Westerdijk,
+7-11-2015;1-2-2016;9-11-2015;R. de Vries;Bruiloft;71;Vinkenbuurt,
+27-7-2015;21-8-2015;3-8-2015;P. Peters;Bruiloft;62;Breedstraat,
+7-1-2019;16-9-2019;10-1-2019;F. van der Linden;Parkpop 2019;13;Takstraat,
+2-12-2019;16-6-2020;7-12-2019;K. Hofman;Straatfeest;82;Lanceepoort,
+17-10-2017;11-6-2018;28-10-2017;X. Hoekstra;Begravenis;89;Jodenrijtje,
+23-10-2019;29-11-2019;25-10-2019;F. van der Linden;Wegwerkzaamheden;2;Willemstraat,
+6-12-2015;9-7-2016;7-12-2015;N. van de Brink;Straatfeest;38;Boothstraat,
+22-4-2017;4-9-2017;7-5-2017;T. Hendriks;Parkpop 2019;46;Minutensteeg,
+20-1-2019;25-6-2019;30-1-2019;J. Kuiper;Wegwerkzaamheden;24;Kaatstraat,
+27-12-2019;18-8-2020;6-1-2020;Y. Sanders;Bruiloft;34;Westerdijk,
+14-8-2018;28-9-2018;22-8-2018;V. Dijkstra;Parkpop 2019;56;Oude Daelstraat,
+10-9-2020;10-1-2021;17-9-2020;N. Veenstra;Kerstmarkt 2018;80;Veensteeg,
+15-9-2017;16-11-2017;17-9-2017;W. van der Meer;Bruiloft;45;Jodenrijtje,
+2-10-2020;9-7-2021;6-10-2020;X. van der Velden;Parkpop 2020;50;Vlasstraat,
+16-5-2019;22-10-2019;24-5-2019;R. Meyer;Braderie;81;Stationsdwarsstraat,
+26-4-2018;5-7-2018;1-5-2018;A. Vink;Parkpop 2020;90;Floris Heermalestraat,
+17-10-2018;29-3-2019;24-10-2018;U. de Vos;Straatfeest;78;Riviersteeg,
+4-10-2015;17-4-2016;17-10-2015;R. Postma;Bruiloft;56;Spechtstraat 1e,
+8-6-2019;4-7-2019;10-6-2019;C. Vos;Braderie;46;Minutensteeg,
+19-6-2017;24-12-2017;25-6-2017;L. de Vos;Wegwerkzaamheden;19;Boterstraat,
+6-5-2017;2-6-2017;19-5-2017;K. de Jong;Begravenis;60;Pausdam,
+11-4-2017;29-12-2017;14-4-2017;S. Meijer;Bruiloft;87;Moesstraat,
+26-9-2015;5-10-2015;1-10-2015;K. de Boer;Braderie;3;Kruisstraat,
+16-4-2018;22-6-2018;21-4-2018;L. de Lange;Kerstmarkt 2018;34;Loevenhout. Dijk,
+16-8-2015;27-2-2016;18-8-2015;R. van der Heijden;Begravenis;17;Koningstraat,
+27-2-2018;29-3-2018;5-3-2018;W. van Dongen;Parkpop 2020;20;Buurkerkhof,
+29-12-2019;26-2-2020;31-12-2019;K. van der Heijden;Kerstmarkt 2018;1;Blauwsteeg,
+5-2-2018;19-4-2018;9-2-2018;T. Martens;Parkpop 2019;49;Catharijnesingel,
+30-5-2019;19-11-2019;31-5-2019;G. van der Meulen;Kerstmarkt 2018;22;Leeuwstraat,
+25-7-2017;24-9-2017;26-7-2017;K. Molenaar;Wegwerkzaamheden;22;Violenstraat,
+14-4-2016;25-11-2016;16-4-2016;X. van de Berg;Begravenis;26;Begijnekade,
+21-1-2020;26-4-2020;1-2-2020;P. van Veen;Straatfeest;48;Kievitdwarsstraat,
+26-3-2017;18-6-2017;5-4-2017;U. de Haan;Parkpop 2019;49;Beukstraat,
+12-2-2019;8-3-2019;13-2-2019;F. Martens;Parkpop 2019;56;Violenstraat,
+6-6-2015;25-6-2015;17-6-2015;B. de Jong;Kerstmarkt 2018;5;Concordiastraat,
+15-8-2016;7-10-2016;20-8-2016;Q. van der Velde;Parkpop 2020;48;Koolstraat,
+22-8-2015;21-4-2016;24-8-2015;U. Kramer;Wegwerkzaamheden;8;Kleine Eligensteeg,
+9-2-2018;31-10-2018;21-2-2018;X. van de Velde;Straatfeest;90;Hennipstraat,
+29-4-2020;13-10-2020;1-5-2020;S. de Lange;Parkpop 2020;71;Brugstraat,
+4-8-2016;2-2-2017;14-8-2016;W. van de Veen;Begravenis;42;Kerkstraat,
+1-8-2017;24-10-2017;15-8-2017;U. van Wijk;Parkpop 2020;69;Blauwsteeg,
+5-12-2016;19-6-2017;8-12-2016;N. van den Pol;Straatfeest;69;Kuipersteeg,
+11-11-2020;10-8-2021;12-11-2020;S. van Veen;Kerstmarkt 2018;14;Sterrebosch,
+5-4-2020;6-11-2020;20-4-2020;P. van Doorn;Begravenis;52;Varkenmarkt,
+9-3-2020;20-7-2020;18-3-2020;U. de Lange;Parkpop 2019;60;Joh. Camphuysstraat,
+1-1-2019;24-2-2019;11-1-2019;U. van der Wal;Braderie;87;Beverstraat,
+16-12-2017;16-4-2018;31-12-2017;W. Koster;Parkpop 2019;63;Kraanstraat,
+15-12-2019;17-8-2020;21-12-2019;Q. Smit;Wegwerkzaamheden;62;Fabriekstraat,
+22-8-2017;26-10-2017;23-8-2017;R. Meijer;Begravenis;87;Ganzenmarkt,
+7-11-2017;24-12-2017;12-11-2017;S. Postma;Straatfeest;40;Koningspoort,
+16-8-2018;27-12-2018;20-8-2018;P. Vermeulen;Parkpop 2019;77;Kaatstraat,
+13-2-2018;12-3-2018;23-2-2018;V. Prins;Wegwerkzaamheden;2;Kievitdwarsstraat,
+26-9-2020;12-10-2020;30-9-2020;R. van der Veen;Parkpop 2020;65;Pieterskerkhof,
+24-7-2020;19-11-2020;26-7-2020;E. Peeters;Bruiloft;7;Mineurslaan,
+14-10-2020;22-6-2021;29-10-2020;O. Mol;Braderie;11;Bleijenburgkade,
+12-4-2018;6-10-2018;15-4-2018;V. van den Broek;Bruiloft;36;Bleekerstraat,
+1-4-2017;24-10-2017;9-4-2017;W. de Ruiter;Straatfeest;27;Geertestraat,
+10-1-2020;13-9-2020;14-1-2020;T. Mulder;Wegwerkzaamheden;42;Jacobssteeg,
+18-12-2018;3-7-2019;22-12-2018;B. Huisman;Begravenis;15;Tolsteegsingel O.Z.,
+17-11-2020;7-8-2021;28-11-2020;V. van der Velde;Parkpop 2019;1;Beekstraat,
+10-4-2019;15-6-2019;20-4-2019;H. de Bruin;Kerstmarkt 2018;65;Goudsbloemstraat,
+28-5-2018;21-11-2018;7-6-2018;S. Maas;Kerstmarkt 2018;29;Leuninggang,
+11-9-2019;9-6-2020;20-9-2019;X. Kuipers;Begravenis;18;Brugstraat,
+30-8-2020;16-6-2021;9-9-2020;G. Schouten;Braderie;44;Domplein,
+21-7-2016;3-1-2017;5-8-2016;S. van den Heuvel;Straatfeest;73;Maetsuijkerstraat,
+6-6-2015;16-9-2015;12-6-2015;F. Kuiper;Straatfeest;48;Sweelinckstraat,
+5-5-2019;5-6-2019;16-5-2019;Y. van der Berg;Parkpop 2020;23;Kogelsteeg,
+14-12-2017;24-1-2018;25-12-2017;C. Scholten;Straatfeest;67;Pelmolenweg,
+27-5-2020;25-8-2020;2-6-2020;W. van Wijk;Braderie;90;Wilhelmina Park,
+14-5-2016;3-11-2016;15-5-2016;R. Peeters;Kerstmarkt 2018;78;Achterstraat 2e,
+20-2-2017;17-6-2017;28-2-2017;K. van der Heyden;Kerstmarkt 2018;20;M.H. Trompstraat,
+16-7-2019;4-9-2019;28-7-2019;R. Mol;Kerstmarkt 2018;72;Iepstraat,
+10-6-2015;11-12-2015;22-6-2015;A. Prins;Wegwerkzaamheden;82;Kromme Rijn,
+21-11-2016;16-1-2017;1-12-2016;J. van der Laan;Kerstmarkt 2018;50;Groeneweg,
+24-8-2019;30-8-2019;29-8-2019;K. van Vliet;Braderie;79;Brakelstraat (van),
+17-7-2015;17-1-2016;26-7-2015;F. van der Meulen;Begravenis;41;Bremstraat,
+22-10-2016;24-2-2017;4-11-2016;P. de Boer;Wegwerkzaamheden;76;Rijndijk,
+15-4-2018;19-9-2018;22-4-2018;R. van de Veen;Bruiloft;42;Lamstraat,
+26-9-2016;15-6-2017;28-9-2016;J. van de Ven;Braderie;8;Baarssteeg,
+8-8-2016;15-5-2017;16-8-2016;A. van der Heyden;Kerstmarkt 2018;90;Hoogstraat,
+28-7-2019;18-3-2020;1-8-2019;Z. van Loon;Begravenis;44;Kraanstraat,
+22-9-2020;20-5-2021;26-9-2020;C. Kuipers;Bruiloft;43;Corn. Evertsenstraat,
+16-4-2017;29-11-2017;24-4-2017;F. van de Velde;Kerstmarkt 2018;30;Wolvenplein,
+9-12-2019;1-1-2020;22-12-2019;F. Veenstra;Parkpop 2020;15;Hoogelanden WZ,
+27-12-2019;25-7-2020;3-1-2020;Y. Hermans;Braderie;13;Schutstraat,
+10-7-2019;5-11-2019;13-7-2019;Q. van de Berg;Parkpop 2019;20;Bijlhouwerstraat,
+8-9-2020;13-12-2020;9-9-2020;S. Hoekstra;Wegwerkzaamheden;49;Boomstraat,
+9-3-2017;23-11-2017;16-3-2017;A. Kuypers;Bruiloft;23;Hoogt,
+20-7-2016;26-4-2017;2-8-2016;W. Kramer;Begravenis;42;Keizersgracht,
+7-8-2016;25-2-2017;11-8-2016;Q. Timmermans;Braderie;89;Frederik Hendrikstraat,
+21-11-2017;14-4-2018;4-12-2017;R. van de Velden;Kerstmarkt 2018;40;Fockstraat,
+25-6-2018;26-10-2018;7-7-2018;O. van den Pol;Bruiloft;42;Vinkenburgstraat,
+16-1-2018;21-1-2018;31-1-2018;B. de Jong;Braderie;81;Molenwerfsteeg,
+11-2-2019;5-7-2019;15-2-2019;N. van Doorn;Straatfeest;90;Vereenigingdwarsstraat,
+28-1-2016;23-4-2016;6-2-2016;L. Mulder;Straatfeest;90;Lepelenburg,
+2-6-2017;4-11-2017;11-6-2017;U. van den Velde;Parkpop 2019;68;Begijnekade,
+22-10-2020;27-10-2020;28-10-2020;O. van den Berg;Wegwerkzaamheden;31;Rotsoord,
+25-10-2016;18-3-2017;2-11-2016;J. Huisman;Wegwerkzaamheden;1;Schoolplein,
+6-4-2019;17-11-2019;21-4-2019;U. Boer;Parkpop 2020;20;Lange Hamstraat,
+19-10-2019;27-10-2019;20-10-2019;C. Gerritsen;Begravenis;1;Baansteeg 2e,
+2-8-2018;30-12-2018;14-8-2018;C. Blom;Parkpop 2019;78;Kroonsteeg,
+18-1-2019;6-10-2019;1-2-2019;H. van den Brink;Braderie;26;Nicolaaskerkhof,
+30-5-2020;10-3-2021;3-6-2020;R. van de Pol;Bruiloft;21;Keistraat,
+12-4-2017;4-10-2017;21-4-2017;T. van Vliet;Parkpop 2020;17;Adriaanstraat,
+12-6-2016;30-7-2016;27-6-2016;Q. de Ruiter;Parkpop 2019;40;Lombardpoort,
+22-12-2019;9-9-2020;6-1-2020;G. Kramer;Parkpop 2020;35;Kolfstraat,
+26-12-2015;29-1-2016;30-12-2015;H. Visser;Parkpop 2020;85;Lange Koestraat,
+13-5-2018;19-6-2018;27-5-2018;U. van Beek;Wegwerkzaamheden;70;Dadelstraat,
+17-7-2020;30-12-2020;27-7-2020;U. de Jong;Parkpop 2019;66;Catharijnesingel,
+30-10-2015;1-6-2016;12-11-2015;N. de Bruyn;Braderie;62;Kroonstraat,
+25-3-2020;25-8-2020;1-4-2020;B. van der Berg;Begravenis;69;Lange Viestraat,
+18-10-2019;4-2-2020;27-10-2019;Q. van Doorn;Parkpop 2019;76;Kruisstraat,
+27-10-2016;28-1-2017;1-11-2016;F. de Vries;Kerstmarkt 2018;13;Begijnesteeg 1e,
+30-3-2016;26-5-2016;3-4-2016;J. Schipper;Braderie;77;Grietstraat,
+19-8-2016;18-2-2017;23-8-2016;B. van Wijk;Bruiloft;75;Wilgstraat,
+29-6-2019;17-7-2019;3-7-2019;P. Janssen;Braderie;23;Palmstraat,
+28-6-2020;15-9-2020;1-7-2020;W. de Ruiter;Parkpop 2019;25;Vredeplaats,
+5-3-2017;10-6-2017;6-3-2017;R. van den Pol;Parkpop 2020;18;Iepstraat,
+15-11-2019;25-4-2020;23-11-2019;T. de Haan;Braderie;10;Oosterstraat,
+15-3-2017;3-7-2017;30-3-2017;F. Kuypers;Parkpop 2019;23;Abstederdijk,
+10-6-2017;2-9-2017;15-6-2017;K. Veenstra;Wegwerkzaamheden;79;Nicolaasdwarsstraat,
+3-1-2019;15-7-2019;8-1-2019;M. Timmermans;Straatfeest;73;Sterrenhof,
+4-8-2019;23-4-2020;19-8-2019;C. van der Berg;Parkpop 2020;58;Grasstraat,
+17-1-2019;19-9-2019;19-1-2019;J. de Bruyn;Straatfeest;12;Vinkenkade,
+28-6-2017;21-12-2017;7-7-2017;D. Hendriks;Bruiloft;53;Weistraat,
+30-9-2016;13-6-2017;1-10-2016;I. Brouwer;Straatfeest;68;Hovenstraat,
+3-5-2019;1-7-2019;5-5-2019;K. van der Velden;Straatfeest;33;Jan Houtmanstraat,
+13-1-2016;14-4-2016;24-1-2016;X. van den Bosch;Parkpop 2020;80;Kapelstraat,
+18-8-2016;17-10-2016;31-8-2016;E. de Groot;Begravenis;65;Achter Twijnstraat,
+16-6-2018;17-1-2019;28-6-2018;J. Vink;Straatfeest;5;Goudsbloemstraat,
+15-7-2018;10-9-2018;22-7-2018;G. van der Veen;Braderie;70;Groote Eligensteeg,
+7-9-2017;17-11-2017;10-9-2017;J. van Doorn;Begravenis;85;Amaliadwarsstraat,
+9-2-2017;30-5-2017;14-2-2017;V. van de Veen;Braderie;40;Rijnstraat,
+30-9-2019;18-3-2020;6-10-2019;H. de Bruin;Parkpop 2019;27;Wolfstraat,
+19-5-2019;7-11-2019;26-5-2019;G. Kramer;Kerstmarkt 2018;36;Lageweidsche dijk,
+6-10-2018;9-6-2019;19-10-2018;F. Vink;Braderie;5;Voorstraat,
+9-9-2019;22-10-2019;20-9-2019;R. Schipper;Bruiloft;16;Goudsbloemstraat,
+27-3-2018;6-8-2018;6-4-2018;D. van der Berg;Bruiloft;7;Pieter Bothstraat,
+5-12-2019;31-5-2020;11-12-2019;T. van Veen;Wegwerkzaamheden;28;Kerkstraat,
+10-1-2016;27-6-2016;20-1-2016;J. Kuiper;Parkpop 2019;76;Loefbergmakerstraat,
+12-10-2019;29-7-2020;22-10-2019;O. van den Heuvel;Parkpop 2019;8;Elijnshof,
+19-8-2019;25-11-2019;26-8-2019;W. van der Ven;Begravenis;17;Minrebroederstraat,
+14-8-2019;3-5-2020;17-8-2019;K. Jonker;Parkpop 2020;24;Sionskameren,
+8-7-2020;21-4-2021;11-7-2020;F. Scholten;Wegwerkzaamheden;30;Pelmolenweg,
+29-9-2016;7-4-2017;9-10-2016;V. Verhoeven;Wegwerkzaamheden;66;Blauwsteeg,
+10-7-2019;18-1-2020;19-7-2019;I. van der Berg;Parkpop 2019;36;Kolfstraat,
+10-10-2017;18-4-2018;11-10-2017;P. Koning;Parkpop 2019;64;Jachtstraat,
+2-12-2017;8-4-2018;10-12-2017;R. Jansen;Wegwerkzaamheden;9;Koekoekstraat,
+18-9-2020;14-4-2021;2-10-2020;H. Driessen;Bruiloft;68;Brinkhof,
+10-12-2016;20-8-2017;11-12-2016;F. van der Berg;Bruiloft;30;Wittevrouwenkade,
+29-7-2016;13-3-2017;13-8-2016;N. Vos;Parkpop 2020;63;Lange Rietsteeg,
+17-4-2016;28-7-2016;28-4-2016;M. Bos;Begravenis;58;Nicolaas Beetsstraat,
+19-11-2018;16-12-2018;4-12-2018;P. Post;Begravenis;52;Steenstraat,
+4-3-2018;19-5-2018;19-3-2018;E. van den Bosch;Bruiloft;89;Baansteeg 2e,
+9-4-2016;30-7-2016;19-4-2016;B. van de Wal;Straatfeest;60;Reestraat,
+6-9-2019;14-12-2019;19-9-2019;W. van Dam;Parkpop 2019;85;Asterstraat,
+25-3-2016;27-3-2016;28-3-2016;Z. van de Ven;Bruiloft;47;Frederikastraat,
+15-5-2016;18-2-2017;16-5-2016;S. Hoekstra;Straatfeest;7;Hoogeweidschedijk,
+20-4-2020;13-9-2020;29-4-2020;Y. Mulder;Wegwerkzaamheden;25;Leuningsteeg,
+13-3-2017;19-7-2017;19-3-2017;K. van Vliet;Braderie;19;Oosterkade,
+7-4-2019;29-7-2019;14-4-2019;S. Meyer;Parkpop 2019;33;Paardesteeg,
+28-3-2018;17-11-2018;30-3-2018;J. van Beek;Begravenis;18;Paardesteeg,
+22-3-2019;27-12-2019;30-3-2019;A. Postma;Wegwerkzaamheden;11;Buurkerksteeg 3e,
+30-8-2016;18-10-2016;8-9-2016;C. Blom;Begravenis;88;Baansteeg 1e,
+2-7-2017;14-1-2018;3-7-2017;W. van Beek;Bruiloft;33;Zuilensteeg,
+17-7-2015;15-1-2016;19-7-2015;O. Mol;Braderie;78;Westerkade,
+30-12-2017;22-8-2018;13-1-2018;Y. Verhoeven;Wegwerkzaamheden;7;Blokstraat,
+22-11-2015;6-8-2016;30-11-2015;W. Janssen;Kerstmarkt 2018;13;Oudegracht (Weerd),
+14-12-2018;14-6-2019;16-12-2018;Y. de Groot;Parkpop 2019;51;Billitonstraat,
+10-10-2015;10-1-2016;16-10-2015;T. van Veen;Straatfeest;78;Waterstraat,
+26-10-2016;10-3-2017;6-11-2016;O. Bosman;Braderie;14;Brouwerstraat,
+11-6-2017;3-2-2018;20-6-2017;I. van de Velden;Braderie;16;Speykstraat (van),
+3-11-2015;27-4-2016;4-11-2015;F. van de Brink;Braderie;14;Kruisweg,
+20-8-2019;30-9-2019;1-9-2019;R. van der Heijden;Braderie;46;Kleine Eligensteeg,
+11-3-2020;14-4-2020;19-3-2020;J. Blom;Straatfeest;72;Croesestraat,
+3-5-2018;30-7-2018;16-5-2018;A. van de Wal;Begravenis;65;Borneostraat,
+2-9-2017;16-1-2018;11-9-2017;J. van Doorn;Braderie;50;Prooststraat,
+13-2-2020;29-10-2020;27-2-2020;H. Timmermans;Parkpop 2019;15;Gansstraat,
+28-8-2016;27-11-2016;5-9-2016;T. Meyer;Begravenis;63;Visschersplein,
+25-10-2018;9-1-2019;5-11-2018;S. de Jonge;Wegwerkzaamheden;24;Otterstraat,
+11-7-2019;25-4-2020;25-7-2019;O. Martens;Parkpop 2020;17;Duifstraat,
+6-3-2019;31-10-2019;13-3-2019;M. Gerritsen;Kerstmarkt 2018;2;Vosstraat,
+11-7-2018;18-4-2019;17-7-2018;B. Peeters;Parkpop 2019;41;Servaaspark,
+6-2-2019;10-3-2019;14-2-2019;Y. van Beek;Straatfeest;89;Riemstraat,
+30-5-2020;11-7-2020;6-6-2020;X. Hoekstra;Bruiloft;34;M.H. Trompstraat,
+28-7-2018;15-2-2019;1-8-2018;B. Kuijpers;Begravenis;24;Vereenigingstraat,
+13-2-2019;16-5-2019;21-2-2019;Z. de Bruin;Kerstmarkt 2018;55;Bremstraat,
+22-4-2020;29-11-2020;6-5-2020;I. van den Bosch;Parkpop 2020;51;Pieterstraat,
+13-1-2016;22-8-2016;14-1-2016;I. de Koning;Parkpop 2020;79;Emmalaan,
+9-8-2020;30-12-2020;12-8-2020;C. Kuijpers;Parkpop 2019;50;Paardenveld,
+9-2-2017;14-7-2017;18-2-2017;T. van der Linden;Begravenis;77;Zandpad,
+9-12-2018;25-8-2019;24-12-2018;N. de Ruiter;Bruiloft;12;Stadhuisbrug,
+25-6-2020;1-9-2020;28-6-2020;T. van den Broek;Kerstmarkt 2018;34;Sterrenburg,
+21-6-2018;13-12-2018;27-6-2018;T. van der Wal;Wegwerkzaamheden;33;Otterstraat,
+21-8-2016;14-12-2016;24-8-2016;F. de Koning;Begravenis;70;Corn. Evertsenstraat,
+31-1-2018;24-11-2018;15-2-2018;V. van Loon;Begravenis;52;Oudkerkhof,
+2-3-2020;1-11-2020;17-3-2020;W. van den Velden;Bruiloft;29;Sterrenburg,
+6-4-2020;29-9-2020;21-4-2020;R. Kuipers;Wegwerkzaamheden;61;Haagstraat,
+18-12-2018;29-4-2019;1-1-2019;F. Groen;Straatfeest;76;Hofje van Zessen,
+26-12-2019;22-1-2020;30-12-2019;V. Dijkstra;Braderie;22;Gansstraat,
+18-11-2020;19-3-2021;24-11-2020;Y. van der Pol;Begravenis;32;Ambachtstraat,
+23-3-2017;11-6-2017;28-3-2017;N. van den Pol;Straatfeest;18;Bleijenburgkade,
+24-5-2016;16-2-2017;7-6-2016;K. de Lange;Kerstmarkt 2018;6;Groeneweg,
+18-7-2015;8-5-2016;27-7-2015;W. Schipper;Kerstmarkt 2018;78;Brandsteeg,
+1-5-2019;31-8-2019;6-5-2019;E. Koning;Straatfeest;26;Blokstraat,
+4-2-2016;25-8-2016;9-2-2016;U. Post;Bruiloft;69;Nauwe Muntsteeg,
+24-9-2019;19-12-2019;4-10-2019;Q. Vink;Bruiloft;31;Diemenstraat,
+5-2-2018;6-2-2018;14-2-2018;P. van der Horst;Bruiloft;73;Griftstraat,
+14-1-2019;23-1-2019;21-1-2019;L. Smeets;Wegwerkzaamheden;12;Daendelsstraat,
