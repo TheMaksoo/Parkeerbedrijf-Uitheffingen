@@ -1,7 +1,7 @@
 import csv
 import os
 
-dataFile = open("..\\PO.csv", "r", encoding="UTF-8")
+dataFile = open("PO.csv", "r")
 dataDict = csv.DictReader(dataFile)
 dataList = list(dataDict)
 
