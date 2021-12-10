@@ -1,5 +1,6 @@
 import csv
 import os
+import datetime
 
 dataFile = open("PO.csv")
 dataReader = csv.reader(dataFile)
@@ -40,7 +41,27 @@ while isRunning:
             gemiddelde = round(math, 0)
             print(f"Er zijn gemiddeled {int(gemiddelde)} acties per ontheffing.")
 
-            #Top 10
+        #Top 10 oudste ontheffingen
+        if choice == "2":
+            datumList = []
+            dates = datetime
+            ontheffingen = 0
+            gemiddelde = 0
+            i = 0
+
+            data_sorted = sorted(dataList, key=lambda row: row[0], reverse=True)
+            for x in range(10): 
+                line = dataList[i][0].split(";")
+                datumList.append(line[0])
+                for x in datumList:
+                    y = x.split("-")
+                    dates = datetime.datetime.strptime(str(y), '%d%m%Y')
+                i += 1
+
+            print(f"{dates}")
+
+
+
 
 
         # Stop programma of laat de keuze opniew afspelen.
