@@ -72,6 +72,26 @@ while isRunning:
                 i += 1
             print(f"Er zijn {amount} ontheffingen met de reden parkpop 2019.")
 
+            data_sorted = sorted(dataList, key=lambda row: int(0), reverse=True)
+            for x in range(10): 
+                line = dataList[i][0].split(";")
+
+        # de top 5 redenen
+
+        if choice == "4":
+            i = 0
+            
+            amount = 0
+            x = ""
+
+            data_sorted = sorted(dataList, key=lambda row: int(4), reverse=True)
+            for i in range(5):
+                line = data_sorted[i][0].split(";")
+                print(data_sorted[i][0])
+                x = line[i]
+                i += 1
+                print(f"{x}")
+                
 
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
