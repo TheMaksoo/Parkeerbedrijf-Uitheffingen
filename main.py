@@ -61,16 +61,29 @@ while isRunning:
             gemiddelde = 0
             i = 0
 
-            data_sorted = sorted(dataList, key=lambda row: row[0], reverse=True)
+            data_sorted = sorted(dataList, key=lambda row: int(0), reverse=True)
             for x in range(10): 
                 line = dataList[i][0].split(";")
-                datumList.append(line[0])
-                for x in datumList:
-                    y = x.split("-")
-                    dates = datetime.datetime.strptime(str(y), '%d%m%Y')
-                i += 1
+                
 
             print(f"{dates}")
+
+        # de top 5 redenen
+
+        if choice == "4":
+            i = 0
+            
+            amount = 0
+            x = ""
+
+            data_sorted = sorted(dataList, key=lambda row: int(4), reverse=True)
+            for i in range(5):
+                line = data_sorted[i][0].split(";")
+                print(data_sorted[i][0])
+                x = line[i]
+                i += 1
+                print(f"{x}")
+                
 
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
