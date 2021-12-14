@@ -1,9 +1,10 @@
 import csv
 import os
-import datetime
+from datetime import datetime
 
-dataFile = open("PO.csv")
-dataReader = csv.reader(dataFile)
+
+dataFile = open("PO.csv", "r")
+dataReader = csv.DictReader(dataFile)
 dataList = list(dataReader)
 
 isRunning = True
@@ -31,9 +32,8 @@ while isRunning:
             avarage = 0
             i = 0
 
-            for x in dataList: 
-                line = dataList[i][0].split(";")
-                acties += int(line[5])
+            for x in dataList:
+                acties += int(x["#_acties"])
                 ontheffingen += 1
                 i += 1
 
@@ -41,36 +41,37 @@ while isRunning:
             avarage = round(math, 0)
             print(f"Er zijn gemiddeled {int(avarage)} acties per ontheffing.")
 
-        # Bepaalde aantal ontheffingen met `reden`.
-            if choice == "3":
-                i = 0
-                amount = 0
-                for x in dataList: 
-                    line = dataList[i][0].split(";")
-                    reasonData = (line[4])
-                    if reasonData.lower() == "parkpop 2016":
-                        amount += 1
-                    i += 1
-                print(f"Er zijn {amount} ontheffingen met de reden parkpop 2016.")
 
         #Top 10 oudste ontheffingen
         if choice == "2":
-            datumList = []
-            dates = datetime
-            ontheffingen = 0
-            gemiddelde = 0
+            top10 = []
             i = 0
+            timestamps = []
+            list = ""
 
-            data_sorted = sorted(dataList, key=lambda row: row[0], reverse=True)
+            for i in dataList:
+                timestamps.append(i["datum_start"])
+            
+            dates = [datetime.strptime(ts, "%d-%m-%Y") for ts in timestamps]
+            dates.sort()
+            sorteddates = [datetime.strftime(ts, "%d-%m-%Y") for ts in dates]
             for x in range(10): 
-                line = dataList[i][0].split(";")
-                datumList.append(line[0])
-                for x in datumList:
-                    y = x.split("-")
-                    dates = datetime.datetime.strptime(str(y), '%d%m%Y')
-                i += 1
+                list += f"{sorteddates[x]}, "
+            print(f"{list}")
 
-            print(f"{dates}")
+
+        # Bepaalde aantal ontheffingen met `reden`.
+        if choice == "3":
+            i = 0
+            amount = 0
+            for x in dataList: 
+                
+                reasonData = (x["reden"])
+                if reasonData.lower() == "parkpop 2019":
+                    amount += 1
+                i += 1
+            print(f"Er zijn {amount} ontheffingen met de reden parkpop 2019.")
+
 
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
