@@ -23,7 +23,7 @@ while isRunning:
     print("-----------------------")
     choice = input("Keuze 1, 2, 3, 4, 5, 6, 7 of 8: ")
     isChoiceRunning = True
-
+    
     while isChoiceRunning == True:
         # Gemiddelde acties per ontheffing berekening.\
         if choice == "1":
@@ -79,19 +79,15 @@ while isRunning:
         # de top 5 redenen
 
         if choice == "4":
-            i = 0
-            
-            amount = 0
-            x = ""
+            data_sorted = sorted(dataList, key=lambda row: row["reden"], reverse=True)
+            for data in range(5):
+                data = data_sorted[data]
+                print(f"Reden  {data['reden']}")
 
-            data_sorted = sorted(dataList, key=lambda row: int(4), reverse=True)
-            for i in range(5):
-                line = data_sorted[i][0].split(";")
-                print(data_sorted[i][0])
-                x = line[i]
-                i += 1
-                print(f"{x}")
                 
+        # Drukste jaar
+        
+            
 
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
