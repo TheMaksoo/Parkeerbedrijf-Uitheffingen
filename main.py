@@ -1,6 +1,7 @@
 import csv
 import os
 from datetime import datetime
+from typing import List
 
 
 dataFile = open("PO.csv", "r")
@@ -79,6 +80,8 @@ while isRunning:
         # de top 5 redenen
 
         if choice == "4":
+            
+
             data_sorted = sorted(dataList, key=lambda row: row["reden"], reverse=True)
             for data in range(5):
                 data = data_sorted[data]
@@ -86,7 +89,24 @@ while isRunning:
 
                 
         # Drukste jaar
-        
+        if choice == "5":
+             i = 0
+             timestamps = []
+             list = ""
+
+        for i in dataList:
+            timestamps.append(i["datum_start"])
+           
+            
+        # uitheffingen met minder dan 3 keer gebruik van is gemaakt.
+        if choice == "6":
+            countList = {}
+
+        #meest gebruikte plaats
+        if choice == "7":
+            dataList = {}
+
+
             
 
         # Stop programma of laat de keuze opniew afspelen.
