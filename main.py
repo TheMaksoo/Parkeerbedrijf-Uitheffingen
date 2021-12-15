@@ -1,6 +1,7 @@
 import csv
 import os
 from datetime import datetime
+import operator
 
 
 dataFile = open("PO.csv", "r")
@@ -79,10 +80,20 @@ while isRunning:
         # de top 5 redenen
 
         if choice == "4":
-            data_sorted = sorted(dataList, key=lambda row: row["reden"], reverse=True)
-            for data in range(5):
-                data = data_sorted[data]
-                print(f"Reden  {data['reden']}")
+            counterList = {}
+            for data in dataList:
+                dict = counterList.keys()
+                if data["reden"] in dict:
+                    counterList[data["reden"]] += 1
+                else:
+                    new = {data["reden"]: 1}
+                    counterList.update(new)
+            
+            sorted_data = sorted(counterList.items(), key=operator.itemgetter(1), reverse=True)
+            os.system("cls")
+            for i in range(5):
+                print(f"{i + 1}: {sorted_data[i][0]} with {sorted_data[i][1]} uses.")
+                
 
                 
         # Drukste jaar
