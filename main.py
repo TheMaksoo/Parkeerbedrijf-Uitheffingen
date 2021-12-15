@@ -40,6 +40,7 @@ while isRunning:
 
             math = acties / ontheffingen
             avarage = round(math, 0)
+            os.system("cls")
             print(f"Er zijn gemiddeled {int(avarage)} acties per ontheffing.")
 
 
@@ -58,6 +59,7 @@ while isRunning:
             sorteddates = [datetime.strftime(ts, "%d-%m-%Y") for ts in dates]
             for x in range(10): 
                 list += f"{sorteddates[x]}, "
+                os.system("cls")
             print(f"{list}")
 
 
@@ -75,7 +77,7 @@ while isRunning:
 
             data_sorted = sorted(dataList, key=lambda row: int(0), reverse=True)
             for x in range(10): 
-                line = dataList[i][0].split(";")
+                line = dataList[i][0].split(";") # er staat dat hier een fout code in staat.
 
         # de top 5 redenen
 
@@ -99,18 +101,11 @@ while isRunning:
         # Drukste jaar
         if choice == "5":
             counterList = {}
-            list = ""
             for data in dataList:
+                dict = counterList.keys()
                 if data["datum_start"] in dict:
-                     counterList[data["reden"]] += 1
-                else:
-                    new = {data["reden"]: 1}
-                    counterList.update(new)
-            
-            sorted_data = sorted(counterList.items(), key=operator.itemgetter(1), reverse=True)
-            os.system("cls")
-            for i in range(5):
-                print(f"{i + 1}: {sorted_data[i][0]} with {sorted_data[i][1]} uses.")
+                    print(f"{data['datum_start']}")
+           
                      
 
 
@@ -120,11 +115,19 @@ while isRunning:
             
         # uitheffingen met minder dan 3 keer gebruik van is gemaakt.
         if choice == "6":
-            countList = {}
+            counterList = {}
+            for data in dataList:
+                dict = counterList.keys()
+                if data["reden"] in dict:
+                    print(data)
+                    
+                
 
         #meest gebruikte plaats
         if choice == "7":
-            dataList = {}
+            counterList = {}
+
+
 
 
             
@@ -135,8 +138,12 @@ while isRunning:
             isRunning = False
         else:
             print("----------------------------")
-            stop = input("Druk op enter om door te gaan of typ 'X'\n")
+            stop = input(" typ 'X' om door te gaan \n")
             
             os.system('cls')
             if stop.lower() == "x":
                 isChoiceRunning = False
+        print("einde van het bestand")
+
+
+dataFile.close()
