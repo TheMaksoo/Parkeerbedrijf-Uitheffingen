@@ -1,7 +1,7 @@
 import csv
 import os
 from datetime import datetime
-from typing import List
+import operator
 
 
 dataFile = open("PO.csv", "r")
@@ -80,23 +80,43 @@ while isRunning:
         # de top 5 redenen
 
         if choice == "4":
+            counterList = {}
+            for data in dataList:
+                dict = counterList.keys()
+                if data["reden"] in dict:
+                    counterList[data["reden"]] += 1
+                else:
+                    new = {data["reden"]: 1}
+                    counterList.update(new)
             
-
-            data_sorted = sorted(dataList, key=lambda row: row["reden"], reverse=True)
-            for data in range(5):
-                data = data_sorted[data]
-                print(f"Reden  {data['reden']}")
+            sorted_data = sorted(counterList.items(), key=operator.itemgetter(1), reverse=True)
+            os.system("cls")
+            for i in range(5):
+                print(f"{i + 1}: {sorted_data[i][0]} with {sorted_data[i][1]} uses.")
+                
 
                 
         # Drukste jaar
         if choice == "5":
-             i = 0
-             timestamps = []
-             list = ""
+            counterList = {}
+            list = ""
+            for data in dataList:
+                if data["datum_start"] in dict:
+                     counterList[data["reden"]] += 1
+                else:
+                    new = {data["reden"]: 1}
+                    counterList.update(new)
+            
+            sorted_data = sorted(counterList.items(), key=operator.itemgetter(1), reverse=True)
+            os.system("cls")
+            for i in range(5):
+                print(f"{i + 1}: {sorted_data[i][0]} with {sorted_data[i][1]} uses.")
+                     
 
-        for i in dataList:
-            timestamps.append(i["datum_start"])
-           
+
+             
+
+        
             
         # uitheffingen met minder dan 3 keer gebruik van is gemaakt.
         if choice == "6":
