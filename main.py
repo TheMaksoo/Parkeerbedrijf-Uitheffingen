@@ -20,7 +20,7 @@ while isRunning:
     print("3 = Bepaalde aantal ontheffingen met `reden`.") #DONE
     print("4 = Top 5 redenen voor ontheffingen.") #DONE
     print("5 = Drukste jaar met de meeste acties.") #DONE
-    print("6 = Aantal niet effciente uitheffingen.")  # 
+    print("6 = Aantal niet effciente uitheffingen.")  #DONE 
     print("7 = Meest aangevraagde plaats voor ontheffingen.")  #DONE
     print("8 = Persoon met de meeste aanvragingen.") #DONE
     print("9 = Stop programma.")
@@ -116,9 +116,15 @@ while isRunning:
  
         # uitheffingen met minder dan 3 keer gebruik van is gemaakt.
         if choice == "6":
-            print("-!-!-!-!-! NOT WORKING !-!-!-!-!-")
+            
+            for x in dataList:
+                amount = 0
+                if int(x["#_acties"]) < 3:
+                    amount += 1
+            os.system("cls")
+            print(f"They are {amount} ontheffingen with less then 3 uses.")
+            results.write(f"\n-----Aantal niet effciente uitheffingen.-----\nThey are {amount} ontheffingen with less then 3 uses.")
                     
-                         
         #meest gebruikte plaats.
         if choice == "7":
             counterList = {}
@@ -166,7 +172,7 @@ while isRunning:
             os.system('cls')
             if stop.lower() == "x":
                 isChoiceRunning = False
-        print("einde van het bestand")
+        print("end of story")
 
 
 
