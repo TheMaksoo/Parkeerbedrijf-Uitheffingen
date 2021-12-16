@@ -43,7 +43,6 @@ while isRunning:
             os.system("cls")
             print(f"Er zijn gemiddeled {int(avarage)} acties per ontheffing.")
 
-
         #Top 10 oudste ontheffingen
         if choice == "2":
             top10 = []
@@ -58,10 +57,9 @@ while isRunning:
             dates.sort()
             sorteddates = [datetime.strftime(ts, "%d-%m-%Y") for ts in dates]
             for x in range(10): 
-                list += f"{sorteddates[x]}, "
+                list += f"{sorteddates[x]}\n"
                 os.system("cls")
             print(f"{list}")
-
 
         # Bepaalde aantal ontheffingen met `reden`.
         if choice == "3":
@@ -73,14 +71,10 @@ while isRunning:
                 if reasonData.lower() == "parkpop 2019":
                     amount += 1
                 i += 1
+            os.system("cls")
             print(f"Er zijn {amount} ontheffingen met de reden parkpop 2019.")
 
-            data_sorted = sorted(dataList, key=lambda row: int(0), reverse=True)
-            for x in range(10): 
-                line = dataList[i][0].split(";") # er staat dat hier een fout code in staat.
-
         # de top 5 redenen
-
         if choice == "4":
             counterList = {}
             for data in dataList:
@@ -95,24 +89,22 @@ while isRunning:
             os.system("cls")
             for i in range(5):
                 print(f"{i + 1}: {sorted_data[i][0]} with {sorted_data[i][1]} uses.")
-                
-
-                
+                     
         # Drukste jaar
         if choice == "5":
-            counterList = {}
+            yearCounterList = {}
             for data in dataList:
-                dict = counterList.keys()
-                if data["datum_start"] in dict:
-                    print(f"{data['datum_start']}")
-           
-                     
-
-
-             
-
-        
-            
+                dict = yearCounterList.keys()
+                date = datetime.strptime(data["datum_start"], '%d-%m-%Y')
+                if date.year in dict:
+                    yearCounterList[date.year] += int(data["#_acties"])
+                else:
+                    new = {date.year: int(data["#_acties"])}
+                    yearCounterList.update(new)
+            os.system("cls")
+            sorted_data = sorted(yearCounterList.items(), key=operator.itemgetter(1), reverse=True)
+            print(f"The busiest year is {sorted_data[0][0]} with {sorted_data[0][1]} uses.")
+ 
         # uitheffingen met minder dan 3 keer gebruik van is gemaakt.
         if choice == "6":
             counterList = {}
@@ -120,18 +112,37 @@ while isRunning:
                 dict = counterList.keys()
                 if data["reden"] in dict:
                     print(data)
-                    
-                
-
+                         
         #meest gebruikte plaats
         if choice == "7":
             counterList = {}
-
-
-
-
+            for data in dataList:
+                dict = counterList.keys()
+                if data["locatie"] in dict:
+                    counterList[data["locatie"]] += 1
+                else:
+                    new = {data["locatie"]: 1}
+                    counterList.update(new)
             
+            sorted_data = sorted(counterList.items(), key=operator.itemgetter(1), reverse=True)
+            os.system("cls")
 
+            print(f"Most requested street is {sorted_data[0][0]} with {sorted_data[0][1]} requests.")
+
+        if choice == "9":
+            counterList = {}
+            for data in dataList:
+                dict = counterList.keys()
+                if data["aanvrager"] in dict:
+                    counterList[data["aanvrager"]] += 1
+                else:
+                    new = {data["aanvrager"]: 1}
+                    counterList.update(new)
+            
+            sorted_data = sorted(counterList.items(), key=operator.itemgetter(1), reverse=True)
+            os.system("cls")
+
+            print(f"Person with the most requests is {sorted_data[0][0]} with {sorted_data[0][1]} requests.")
         # Stop programma of laat de keuze opniew afspelen.
         if choice == "8":
             isChoiceRunning = False
@@ -145,5 +156,6 @@ while isRunning:
                 isChoiceRunning = False
         print("einde van het bestand")
 
+       
 
 dataFile.close()
