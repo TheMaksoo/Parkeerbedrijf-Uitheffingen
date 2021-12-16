@@ -8,21 +8,24 @@ dataFile = open("PO.csv", "r")
 dataReader = csv.DictReader(dataFile)
 dataList = list(dataReader)
 
+results = open("results.txt", "w")
+
 isRunning = True
 os.system('cls')
 
 while isRunning:
-    print(f"Welkom bij de parkeer uiheffingen.!")
-    print("1 = Gemiddelde acties per ontheffing.")
-    print("2 = Top 10  oudste ontheffingen.")
-    print("3 = Bepaalde aantal ontheffingen met `reden`.") # zoek functie voor reden
-    print("4 = Top 5 redenen voor ontheffingen.") # top 5 redenen die gebuikt waren.
-    print("5 = Drukste jaar met de meeste acties.") # jaar met de meeste acties.
-    print("6 = Aantal niet effciente uitheffingen.")  # uitheffingen met minder dan 3 keer gebruik van is gemaakt. 
-    print("7 = Meest aangevraagde plaats voor ontheffingen.")  
-    print("8 = Stop programma.")
+    print(f"Welkom bij de parkeer uiheffingen.!") 
+    print("1 = Gemiddelde acties per ontheffing.") #DONE
+    print("2 = Top 10  oudste ontheffingen.") #DONE
+    print("3 = Bepaalde aantal ontheffingen met `reden`.") #DONE
+    print("4 = Top 5 redenen voor ontheffingen.") #DONE
+    print("5 = Drukste jaar met de meeste acties.") #DONE
+    print("6 = Aantal niet effciente uitheffingen.")  # 
+    print("7 = Meest aangevraagde plaats voor ontheffingen.")  #DONE
+    print("8 = Persoon met de meeste aanvragingen.") #DONE
+    print("9 = Stop programma.")
     print("-----------------------")
-    choice = input("Keuze 1, 2, 3, 4, 5, 6, 7 of 8: ")
+    choice = input("Keuze 1, 2, 3, 4, 5, 6, 7, 8 of 9: ")
     isChoiceRunning = True
     
     while isChoiceRunning == True:
@@ -42,6 +45,7 @@ while isRunning:
             avarage = round(math, 0)
             os.system("cls")
             print(f"Er zijn gemiddeled {int(avarage)} acties per ontheffing.")
+            results.write(f"\n-----Gemiddelde acties per ontheffing.-----\nEr zijn gemiddeled {int(avarage)} acties per ontheffing.\n")
 
         #Top 10 oudste ontheffingen
         if choice == "2":
@@ -59,7 +63,8 @@ while isRunning:
             for x in range(10): 
                 list += f"{sorteddates[x]}\n"
                 os.system("cls")
-            print(f"{list}")
+            print(f"Top 10 oudste ontheffingen.\n{list}")
+            results.write(f"-----Top 10 oudste ontheffingen.-----\n{list}")
 
         # Bepaalde aantal ontheffingen met `reden`.
         if choice == "3":
@@ -73,6 +78,7 @@ while isRunning:
                 i += 1
             os.system("cls")
             print(f"Er zijn {amount} ontheffingen met de reden parkpop 2019.")
+            results.write(f"\n-----Bepaalde aantal ontheffingen met `reden`.-----\nEr zijn {amount} ontheffingen met de reden parkpop 2019.")
 
         # de top 5 redenen
         if choice == "4":
@@ -87,8 +93,10 @@ while isRunning:
             
             sorted_data = sorted(counterList.items(), key=operator.itemgetter(1), reverse=True)
             os.system("cls")
+            results.write("\n-----Top 5 redenen voor ontheffingen.-----")
             for i in range(5):
                 print(f"{i + 1}: {sorted_data[i][0]} with {sorted_data[i][1]} uses.")
+                results.write(f"{i + 1}: {sorted_data[i][0]} with {sorted_data[i][1]} uses.\n")
                      
         # Drukste jaar
         if choice == "5":
@@ -104,16 +112,14 @@ while isRunning:
             os.system("cls")
             sorted_data = sorted(yearCounterList.items(), key=operator.itemgetter(1), reverse=True)
             print(f"The busiest year is {sorted_data[0][0]} with {sorted_data[0][1]} uses.")
+            results.write(f"\n-----Drukste jaar met de meeste acties.-----\nThe busiest year is {sorted_data[0][0]} with {sorted_data[0][1]} uses.")
  
         # uitheffingen met minder dan 3 keer gebruik van is gemaakt.
         if choice == "6":
-            counterList = {}
-            for data in dataList:
-                dict = counterList.keys()
-                if data["reden"] in dict:
-                    print(data)
+            print("-!-!-!-!-! NOT WORKING !-!-!-!-!-")
+                    
                          
-        #meest gebruikte plaats
+        #meest gebruikte plaats.
         if choice == "7":
             counterList = {}
             for data in dataList:
@@ -128,8 +134,10 @@ while isRunning:
             os.system("cls")
 
             print(f"Most requested street is {sorted_data[0][0]} with {sorted_data[0][1]} requests.")
+            results.write(f"\n-----Meest aangevraagde plaats voor ontheffingen.-----\nMost requested street is {sorted_data[0][0]} with {sorted_data[0][1]} requests.")
 
-        if choice == "9":
+        # zoekt de persoon met de meeste aanvragingen.
+        if choice == "8":
             counterList = {}
             for data in dataList:
                 dict = counterList.keys()
@@ -143,11 +151,15 @@ while isRunning:
             os.system("cls")
 
             print(f"Person with the most requests is {sorted_data[0][0]} with {sorted_data[0][1]} requests.")
+            results.write(f"\n-----Persoon met meeste aanvragingen.-----\nPerson with the most requests is {sorted_data[0][0]} with {sorted_data[0][1]} requests.")
+
         # Stop programma of laat de keuze opniew afspelen.
-        if choice == "8":
+        if choice == "9":
             isChoiceRunning = False
             isRunning = False
         else:
+            results.write("\n")
+
             print("----------------------------")
             stop = input(" typ 'X' om door te gaan \n")
             
@@ -156,6 +168,7 @@ while isRunning:
                 isChoiceRunning = False
         print("einde van het bestand")
 
-       
+
 
 dataFile.close()
+results.close()

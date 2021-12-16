@@ -1,0 +1,38 @@
+
+-----Gemiddelde acties per ontheffing.-----
+Er zijn gemiddeled 44 acties per ontheffing.
+
+-----Top 10 oudste ontheffingen.-----
+03-06-2015
+06-06-2015
+06-06-2015
+09-06-2015
+10-06-2015
+14-06-2015
+14-06-2015
+16-06-2015
+16-06-2015
+18-06-2015
+
+
+-----Bepaalde aantal ontheffingen met `reden`.-----
+Er zijn 122 ontheffingen met de reden parkpop 2019.
+
+-----Top 5 redenen voor ontheffingen.-----1: Wegwerkzaamheden with 132 uses.
+2: Straatfeest with 130 uses.
+3: Braderie with 129 uses.
+4: Begravenis with 129 uses.
+5: Kerstmarkt 2018 with 128 uses.
+
+
+-----Drukste jaar met de meeste acties.-----
+The busiest year is 2019 with 8943 uses.
+
+
+-----Meest aangevraagde plaats voor ontheffingen.-----
+Most requested street is Brugstraat with 7 requests.
+
+-----Persoon met meeste aanvragingen.-----
+Person with the most requests is N. van de Berg with 4 requests.
+
+
